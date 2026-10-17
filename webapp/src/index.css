@@ -1,0 +1,141 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --ease-out-back: var(----ease-out-back);
+  --ease-out-expo: var(----ease-out-expo);
+  --transition-slow: var(----transition-slow);
+  --transition-medium: var(----transition-medium);
+  --transition-fast: var(----transition-fast);
+  --panel-padding: var(----panel-padding);
+  --space-12: var(----space-12);
+  --space-10: var(----space-10);
+  --space-8: var(----space-8);
+  --space-6: var(----space-6);
+  --space-5: var(----space-5);
+  --space-4: var(----space-4);
+  --space-3: var(----space-3);
+  --space-2: var(----space-2);
+  --space-1: var(----space-1);
+  --text-mega: var(----text-mega);
+  --text-3xl: var(----text-3xl);
+  --text-2xl: var(----text-2xl);
+  --text-xl: var(----text-xl);
+  --text-lg: var(----text-lg);
+  --text-base: var(----text-base);
+  --text-sm: var(----text-sm);
+  --text-xs: var(----text-xs);
+  --font-serif: var(----font-serif);
+  --font-display: var(----font-display);
+  --font-primary: var(----font-primary);
+  --color-color-overlay: var(----color-overlay);
+  --color-color-border: var(----color-border);
+  --color-color-text-muted: var(----color-text-muted);
+  --color-color-text: var(----color-text);
+  --color-color-accent: var(----color-accent);
+  --color-color-secondary: var(----color-secondary);
+  --color-color-primary: var(----color-primary);
+}
+
+:root {
+  --color-primary: #0a0a0a;
+  --color-secondary: #161616;
+  --color-accent: #ff2c2c;
+  --color-text: #f5f5f5;
+  --color-text-muted: rgba(245, 245, 245, 0.7);
+  --color-border: rgba(255, 255, 255, 0.05);
+  --color-overlay: rgba(0, 0, 0, 0.5);
+  --font-primary: "Inter", sans-serif;
+  --font-display: "Titillium Web", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+  --font-serif: "EB Garamond", serif;
+  --text-xs: 0.7rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.2rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 3rem;
+  --text-mega: clamp(7rem, 15vw, 12rem);
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-8: 3rem;
+  --space-10: 4rem;
+  --space-12: 6rem;
+  --panel-padding: 5%;
+  --transition-fast: 0.2s ease;
+  --transition-medium: 0.3s ease;
+  --transition-slow: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+html, body {
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  font-family: var(--font-primary);
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono-f1 {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom telemetry scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #262626;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ff2c2c;
+}
+
+/* Subtle carbon fiber pattern overlay */
+.carbon-grid {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Glassmorphism pit-wall panel */
+.pitwall-panel {
+  background: #161616;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.pitwall-panel:hover {
+  border-color: var(--color-border-bright);
+}
+
+/* F1 timing tower glow */
+.timing-glow-purple {
+  box-shadow: 0 0 16px rgba(178, 107, 255, 0.35);
+}
+
+.timing-glow-red {
+  box-shadow: 0 0 16px rgba(225, 6, 0, 0.4);
+}
+
+.timing-glow-green {
+  box-shadow: 0 0 16px rgba(57, 217, 138, 0.35);
+}

@@ -1,0 +1,1139 @@
+﻿race_id,year,round,race_name,date,country,latitude,longitude,street,era,order_change,pole_won,circuit
+1,1950,1.0,British Grand Prix,1950-05-13,UK,52.0786,-1.01694,False,1950–79 Pioneer,0.18181818181818182,True,Silverstone Circuit
+4,1950,2.0,Monaco Grand Prix,1950-05-21,Monaco,43.7347,7.42056,True,1950–79 Pioneer,0.0,True,Circuit de Monaco
+10,1950,4.0,Swiss Grand Prix,1950-06-04,Switzerland,46.9589,7.40194,False,1950–79 Pioneer,1.0909090909090908,False,Circuit Bremgarten
+13,1950,5.0,Belgian Grand Prix,1950-06-18,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.4,False,Circuit de Spa-Francorchamps
+16,1950,6.0,French Grand Prix,1950-07-02,France,49.2542,3.93083,False,1950–79 Pioneer,2.25,True,Reims-Gueux
+19,1950,7.0,Italian Grand Prix,1950-09-03,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.2857142857142857,False,Autodromo Nazionale di Monza
+22,1951,1.0,Swiss Grand Prix,1951-05-27,Switzerland,46.9589,7.40194,False,1950–79 Pioneer,1.5714285714285714,True,Circuit Bremgarten
+28,1951,3.0,Belgian Grand Prix,1951-06-17,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.7777777777777777,False,Circuit de Spa-Francorchamps
+31,1951,4.0,French Grand Prix,1951-07-01,France,49.2542,3.93083,False,1950–79 Pioneer,3.4545454545454546,False,Reims-Gueux
+34,1951,5.0,British Grand Prix,1951-07-14,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.4615384615384617,True,Silverstone Circuit
+37,1951,6.0,German Grand Prix,1951-07-29,Germany,50.3356,6.9475,False,1950–79 Pioneer,0.5454545454545454,True,Nürburgring
+40,1951,7.0,Italian Grand Prix,1951-09-16,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.6666666666666666,False,Autodromo Nazionale di Monza
+43,1951,8.0,Spanish Grand Prix,1951-10-28,Spain,41.3903,2.11667,True,1950–79 Pioneer,1.4,False,Circuit de Pedralbes
+46,1952,1.0,Swiss Grand Prix,1952-05-18,Switzerland,46.9589,7.40194,False,1950–79 Pioneer,0.75,False,Circuit Bremgarten
+52,1952,3.0,Belgian Grand Prix,1952-06-22,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.2,True,Circuit de Spa-Francorchamps
+55,1952,4.0,French Grand Prix,1952-07-06,France,49.3306,1.00458,False,1950–79 Pioneer,1.1666666666666667,True,Rouen-Les-Essarts
+58,1952,5.0,British Grand Prix,1952-07-19,UK,52.0786,-1.01694,False,1950–79 Pioneer,3.6363636363636362,False,Silverstone Circuit
+61,1952,6.0,German Grand Prix,1952-08-03,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.3333333333333333,True,Nürburgring
+64,1952,7.0,Dutch Grand Prix,1952-08-17,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,0.6666666666666666,True,Circuit Park Zandvoort
+67,1952,8.0,Italian Grand Prix,1952-09-07,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.533333333333333,True,Autodromo Nazionale di Monza
+70,1953,1.0,Argentine Grand Prix,1953-01-18,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,0.6666666666666666,True,Autódromo Juan y Oscar Gálvez
+76,1953,3.0,Dutch Grand Prix,1953-06-07,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.5555555555555556,True,Circuit Park Zandvoort
+79,1953,4.0,Belgian Grand Prix,1953-06-21,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.4545454545454546,False,Circuit de Spa-Francorchamps
+82,1953,5.0,French Grand Prix,1953-07-05,France,49.2542,3.93083,False,1950–79 Pioneer,1.8666666666666667,False,Reims-Gueux
+85,1953,6.0,British Grand Prix,1953-07-18,UK,52.0786,-1.01694,False,1950–79 Pioneer,1.6,True,Silverstone Circuit
+88,1953,7.0,German Grand Prix,1953-08-02,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.75,False,Nürburgring
+91,1953,8.0,Swiss Grand Prix,1953-08-23,Switzerland,46.9589,7.40194,False,1950–79 Pioneer,1.5555555555555556,False,Circuit Bremgarten
+94,1953,9.0,Italian Grand Prix,1953-09-13,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.625,False,Autodromo Nazionale di Monza
+97,1954,1.0,Argentine Grand Prix,1954-01-17,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.3333333333333333,False,Autódromo Juan y Oscar Gálvez
+103,1954,3.0,Belgian Grand Prix,1954-06-20,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.1428571428571428,True,Circuit de Spa-Francorchamps
+106,1954,4.0,French Grand Prix,1954-07-04,France,49.2542,3.93083,False,1950–79 Pioneer,0.3333333333333333,True,Reims-Gueux
+109,1954,5.0,British Grand Prix,1954-07-17,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.933333333333333,False,Silverstone Circuit
+112,1954,6.0,German Grand Prix,1954-08-01,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.4,True,Nürburgring
+115,1954,7.0,Swiss Grand Prix,1954-08-22,Switzerland,46.9589,7.40194,False,1950–79 Pioneer,1.0,False,Circuit Bremgarten
+118,1954,8.0,Italian Grand Prix,1954-09-05,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.3636363636363638,True,Autodromo Nazionale di Monza
+121,1954,9.0,Spanish Grand Prix,1954-10-24,Spain,41.3903,2.11667,True,1950–79 Pioneer,0.8888888888888888,False,Circuit de Pedralbes
+124,1955,1.0,Argentine Grand Prix,1955-01-16,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,0.8571428571428571,False,Autódromo Juan y Oscar Gálvez
+127,1955,2.0,Monaco Grand Prix,1955-05-22,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.2222222222222223,False,Circuit de Monaco
+133,1955,4.0,Belgian Grand Prix,1955-06-05,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.1111111111111112,False,Circuit de Spa-Francorchamps
+136,1955,5.0,Dutch Grand Prix,1955-06-19,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.0909090909090908,True,Circuit Park Zandvoort
+139,1955,6.0,British Grand Prix,1955-07-16,UK,53.4769,-2.94056,False,1950–79 Pioneer,0.4444444444444444,True,Aintree
+142,1955,7.0,Italian Grand Prix,1955-09-11,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.6,True,Autodromo Nazionale di Monza
+145,1956,1.0,Argentine Grand Prix,1956-01-22,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,0.3333333333333333,False,Autódromo Juan y Oscar Gálvez
+148,1956,2.0,Monaco Grand Prix,1956-05-13,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.5,False,Circuit de Monaco
+154,1956,4.0,Belgian Grand Prix,1956-06-03,Belgium,50.4372,5.97139,False,1950–79 Pioneer,2.0,False,Circuit de Spa-Francorchamps
+157,1956,5.0,French Grand Prix,1956-07-01,France,49.2542,3.93083,False,1950–79 Pioneer,1.6363636363636365,False,Reims-Gueux
+160,1956,6.0,British Grand Prix,1956-07-14,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.1818181818181817,False,Silverstone Circuit
+163,1956,7.0,German Grand Prix,1956-08-05,Germany,50.3356,6.9475,False,1950–79 Pioneer,,True,Nürburgring
+166,1956,8.0,Italian Grand Prix,1956-09-02,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.272727272727273,False,Autodromo Nazionale di Monza
+169,1957,1.0,Argentine Grand Prix,1957-01-13,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.6,False,Autódromo Juan y Oscar Gálvez
+172,1957,2.0,Monaco Grand Prix,1957-05-19,Monaco,43.7347,7.42056,True,1950–79 Pioneer,0.6666666666666666,True,Circuit de Monaco
+178,1957,4.0,French Grand Prix,1957-07-07,France,49.3306,1.00458,False,1950–79 Pioneer,1.4285714285714286,True,Rouen-Les-Essarts
+181,1957,5.0,British Grand Prix,1957-07-20,UK,53.4769,-2.94056,False,1950–79 Pioneer,1.25,False,Aintree
+184,1957,6.0,German Grand Prix,1957-08-04,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.3333333333333333,True,Nürburgring
+187,1957,7.0,Pescara Grand Prix,1957-08-18,Italy,42.475,14.1508,True,1950–79 Pioneer,0.2857142857142857,False,Pescara Circuit
+190,1957,8.0,Italian Grand Prix,1957-09-08,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.6363636363636365,False,Autodromo Nazionale di Monza
+193,1958,1.0,Argentine Grand Prix,1958-01-19,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.7777777777777777,False,Autódromo Juan y Oscar Gálvez
+196,1958,2.0,Monaco Grand Prix,1958-05-18,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.0,False,Circuit de Monaco
+199,1958,3.0,Dutch Grand Prix,1958-05-26,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.8181818181818181,False,Circuit Park Zandvoort
+205,1958,5.0,Belgian Grand Prix,1958-06-15,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.4,False,Circuit de Spa-Francorchamps
+208,1958,6.0,French Grand Prix,1958-07-06,France,49.2542,3.93083,False,1950–79 Pioneer,1.8181818181818181,True,Reims-Gueux
+211,1958,7.0,British Grand Prix,1958-07-19,UK,52.0786,-1.01694,False,1950–79 Pioneer,1.3333333333333333,False,Silverstone Circuit
+214,1958,8.0,German Grand Prix,1958-08-03,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.4545454545454546,False,Nürburgring
+217,1958,9.0,Portuguese Grand Prix,1958-08-24,Portugal,41.1705,-8.67325,True,1950–79 Pioneer,0.0,True,Circuito da Boavista
+220,1958,10.0,Italian Grand Prix,1958-09-07,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.2857142857142857,False,Autodromo Nazionale di Monza
+223,1958,11.0,Moroccan Grand Prix,1958-10-19,Morocco,33.5786,-7.6875,True,1950–79 Pioneer,1.625,False,Ain Diab
+226,1959,1.0,Monaco Grand Prix,1959-05-10,Monaco,43.7347,7.42056,True,1950–79 Pioneer,0.6666666666666666,False,Circuit de Monaco
+232,1959,3.0,Dutch Grand Prix,1959-05-31,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.4,True,Circuit Park Zandvoort
+235,1959,4.0,French Grand Prix,1959-07-05,France,49.2542,3.93083,False,1950–79 Pioneer,2.0,True,Reims-Gueux
+238,1959,5.0,British Grand Prix,1959-07-18,UK,53.4769,-2.94056,False,1950–79 Pioneer,1.6923076923076923,True,Aintree
+241,1959,6.0,German Grand Prix,1959-08-02,Germany,52.4806,13.2514,False,1950–79 Pioneer,0.8571428571428571,True,AVUS
+244,1959,7.0,Portuguese Grand Prix,1959-08-23,Portugal,38.7197,-9.20306,True,1950–79 Pioneer,0.8,True,Monsanto Park Circuit
+247,1959,8.0,Italian Grand Prix,1959-09-13,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.4666666666666666,True,Autodromo Nazionale di Monza
+250,1959,9.0,United States Grand Prix,1959-12-12,USA,27.4547,-81.3483,False,1950–79 Pioneer,1.7142857142857142,False,Sebring International Raceway
+253,1960,1.0,Argentine Grand Prix,1960-02-07,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,2.857142857142857,False,Autódromo Juan y Oscar Gálvez
+256,1960,2.0,Monaco Grand Prix,1960-05-29,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.888888888888889,True,Circuit de Monaco
+262,1960,4.0,Dutch Grand Prix,1960-06-06,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.25,False,Circuit Park Zandvoort
+265,1960,5.0,Belgian Grand Prix,1960-06-19,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.0,True,Circuit de Spa-Francorchamps
+268,1960,6.0,French Grand Prix,1960-07-03,France,49.2542,3.93083,False,1950–79 Pioneer,3.5,True,Reims-Gueux
+271,1960,7.0,British Grand Prix,1960-07-16,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.75,True,Silverstone Circuit
+274,1960,8.0,Portuguese Grand Prix,1960-08-14,Portugal,41.1705,-8.67325,True,1950–79 Pioneer,0.8571428571428571,False,Circuito da Boavista
+277,1960,9.0,Italian Grand Prix,1960-09-04,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.4,True,Autodromo Nazionale di Monza
+280,1960,10.0,United States Grand Prix,1960-11-20,USA,33.937,-117.273,False,1950–79 Pioneer,3.375,True,Riverside International Raceway
+283,1961,1.0,Monaco Grand Prix,1961-05-14,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.769230769230769,True,Circuit de Monaco
+286,1961,2.0,Dutch Grand Prix,1961-05-22,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.8666666666666667,False,Circuit Park Zandvoort
+289,1961,3.0,Belgian Grand Prix,1961-06-18,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.5384615384615385,True,Circuit de Spa-Francorchamps
+292,1961,4.0,French Grand Prix,1961-07-02,France,49.2542,3.93083,False,1950–79 Pioneer,3.2,False,Reims-Gueux
+295,1961,5.0,British Grand Prix,1961-07-15,UK,53.4769,-2.94056,False,1950–79 Pioneer,2.235294117647059,False,Aintree
+298,1961,6.0,German Grand Prix,1961-08-06,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.0,False,Nürburgring
+301,1961,7.0,Italian Grand Prix,1961-09-10,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.8333333333333334,False,Autodromo Nazionale di Monza
+304,1961,8.0,United States Grand Prix,1961-10-08,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.1818181818181817,False,Watkins Glen
+307,1962,1.0,Dutch Grand Prix,1962-05-20,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.6666666666666665,False,Circuit Park Zandvoort
+310,1962,2.0,Monaco Grand Prix,1962-06-03,Monaco,43.7347,7.42056,True,1950–79 Pioneer,3.25,False,Circuit de Monaco
+313,1962,3.0,Belgian Grand Prix,1962-06-17,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.1818181818181819,False,Circuit de Spa-Francorchamps
+316,1962,4.0,French Grand Prix,1962-07-08,France,49.3306,1.00458,False,1950–79 Pioneer,2.888888888888889,False,Rouen-Les-Essarts
+319,1962,5.0,British Grand Prix,1962-07-21,UK,53.4769,-2.94056,False,1950–79 Pioneer,2.75,True,Aintree
+322,1962,6.0,German Grand Prix,1962-08-05,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.0,False,Nürburgring
+325,1962,7.0,Italian Grand Prix,1962-09-16,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.142857142857143,False,Autodromo Nazionale di Monza
+328,1962,8.0,United States Grand Prix,1962-10-07,USA,42.3369,-76.9272,False,1950–79 Pioneer,1.8461538461538463,True,Watkins Glen
+331,1962,9.0,South African Grand Prix,1962-12-29,South Africa,-33.0486,27.8736,False,1950–79 Pioneer,1.4545454545454546,False,Prince George Circuit
+334,1963,1.0,Monaco Grand Prix,1963-05-26,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.7777777777777777,False,Circuit de Monaco
+337,1963,2.0,Belgian Grand Prix,1963-06-09,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.75,False,Circuit de Spa-Francorchamps
+340,1963,3.0,Dutch Grand Prix,1963-06-23,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.3636363636363638,True,Circuit Park Zandvoort
+343,1963,4.0,French Grand Prix,1963-06-30,France,49.2542,3.93083,False,1950–79 Pioneer,2.769230769230769,True,Reims-Gueux
+346,1963,5.0,British Grand Prix,1963-07-20,UK,52.0786,-1.01694,False,1950–79 Pioneer,1.3846153846153846,True,Silverstone Circuit
+349,1963,6.0,German Grand Prix,1963-08-04,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.6,False,Nürburgring
+352,1963,7.0,Italian Grand Prix,1963-09-08,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.875,False,Autodromo Nazionale di Monza
+355,1963,8.0,United States Grand Prix,1963-10-06,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.1818181818181817,True,Watkins Glen
+358,1963,9.0,Mexican Grand Prix,1963-10-27,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,2.0,True,Autódromo Hermanos Rodríguez
+361,1963,10.0,South African Grand Prix,1963-12-28,South Africa,-33.0486,27.8736,False,1950–79 Pioneer,2.4285714285714284,True,Prince George Circuit
+364,1964,1.0,Monaco Grand Prix,1964-05-10,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.4,False,Circuit de Monaco
+367,1964,2.0,Dutch Grand Prix,1964-05-24,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.8461538461538463,False,Circuit Park Zandvoort
+370,1964,3.0,Belgian Grand Prix,1964-06-14,Belgium,50.4372,5.97139,False,1950–79 Pioneer,2.8,False,Circuit de Spa-Francorchamps
+373,1964,4.0,French Grand Prix,1964-06-28,France,49.3306,1.00458,False,1950–79 Pioneer,1.1666666666666667,False,Rouen-Les-Essarts
+376,1964,5.0,British Grand Prix,1964-07-11,UK,51.3569,0.263056,False,1950–79 Pioneer,2.0,True,Brands Hatch
+379,1964,6.0,German Grand Prix,1964-08-02,Germany,50.3356,6.9475,False,1950–79 Pioneer,3.142857142857143,True,Nürburgring
+382,1964,7.0,Austrian Grand Prix,1964-08-23,Austria,47.2039,14.7478,False,1950–79 Pioneer,2.2222222222222223,False,Zeltweg
+385,1964,8.0,Italian Grand Prix,1964-09-06,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.8666666666666667,True,Autodromo Nazionale di Monza
+388,1964,9.0,United States Grand Prix,1964-10-04,USA,42.3369,-76.9272,False,1950–79 Pioneer,1.875,False,Watkins Glen
+391,1964,10.0,Mexican Grand Prix,1964-10-25,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,1.3846153846153846,False,Autódromo Hermanos Rodríguez
+394,1965,1.0,South African Grand Prix,1965-01-01,South Africa,-33.0486,27.8736,False,1950–79 Pioneer,2.2666666666666666,True,Prince George Circuit
+397,1965,2.0,Monaco Grand Prix,1965-05-30,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.0,True,Circuit de Monaco
+400,1965,3.0,Belgian Grand Prix,1965-06-13,Belgium,50.4372,5.97139,False,1950–79 Pioneer,2.4285714285714284,False,Circuit de Spa-Francorchamps
+403,1965,4.0,French Grand Prix,1965-06-27,France,45.7472,3.03889,False,1950–79 Pioneer,1.3333333333333333,True,Charade Circuit
+406,1965,5.0,British Grand Prix,1965-07-10,UK,52.0786,-1.01694,False,1950–79 Pioneer,1.8571428571428572,True,Silverstone Circuit
+409,1965,6.0,Dutch Grand Prix,1965-07-18,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.1538461538461537,False,Circuit Park Zandvoort
+412,1965,7.0,German Grand Prix,1965-08-01,Germany,50.3356,6.9475,False,1950–79 Pioneer,0.75,True,Nürburgring
+415,1965,8.0,Italian Grand Prix,1965-09-12,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.857142857142857,False,Autodromo Nazionale di Monza
+418,1965,9.0,United States Grand Prix,1965-10-03,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.6153846153846154,True,Watkins Glen
+421,1965,10.0,Mexican Grand Prix,1965-10-24,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,1.25,False,Autódromo Hermanos Rodríguez
+424,1966,1.0,Monaco Grand Prix,1966-05-22,Monaco,43.7347,7.42056,True,1950–79 Pioneer,,False,Circuit de Monaco
+427,1966,2.0,Belgian Grand Prix,1966-06-12,Belgium,50.4372,5.97139,False,1950–79 Pioneer,,True,Circuit de Spa-Francorchamps
+430,1966,3.0,French Grand Prix,1966-07-03,France,49.2542,3.93083,False,1950–79 Pioneer,1.75,False,Reims-Gueux
+433,1966,4.0,British Grand Prix,1966-07-16,UK,51.3569,0.263056,False,1950–79 Pioneer,0.36363636363636365,True,Brands Hatch
+436,1966,5.0,Dutch Grand Prix,1966-07-24,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,0.6666666666666666,True,Circuit Park Zandvoort
+439,1966,6.0,German Grand Prix,1966-08-07,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.0,False,Nürburgring
+442,1966,7.0,Italian Grand Prix,1966-09-04,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.1111111111111112,False,Autodromo Nazionale di Monza
+445,1966,8.0,United States Grand Prix,1966-10-02,USA,42.3369,-76.9272,False,1950–79 Pioneer,0.6666666666666666,False,Watkins Glen
+448,1966,9.0,Mexican Grand Prix,1966-10-23,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,0.75,True,Autódromo Hermanos Rodríguez
+451,1967,1.0,South African Grand Prix,1967-01-02,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,2.3333333333333335,False,Kyalami
+454,1967,2.0,Monaco Grand Prix,1967-05-07,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.0,False,Circuit de Monaco
+457,1967,3.0,Dutch Grand Prix,1967-06-04,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.0,False,Circuit Park Zandvoort
+460,1967,4.0,Belgian Grand Prix,1967-06-18,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.6,False,Circuit de Spa-Francorchamps
+463,1967,5.0,French Grand Prix,1967-07-02,France,47.95,0.224231,False,1950–79 Pioneer,0.6666666666666666,False,Le Mans
+466,1967,6.0,British Grand Prix,1967-07-15,UK,52.0786,-1.01694,False,1950–79 Pioneer,0.6,True,Silverstone Circuit
+469,1967,7.0,German Grand Prix,1967-08-06,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.0,False,Nürburgring
+472,1967,8.0,Canadian Grand Prix,1967-08-27,Canada,44.0481,-78.6756,False,1950–79 Pioneer,1.8181818181818181,False,Mosport International Raceway
+475,1967,9.0,Italian Grand Prix,1967-09-10,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.7142857142857142,False,Autodromo Nazionale di Monza
+478,1967,10.0,United States Grand Prix,1967-10-01,USA,42.3369,-76.9272,False,1950–79 Pioneer,0.8571428571428571,False,Watkins Glen
+481,1967,11.0,Mexican Grand Prix,1967-10-22,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,2.1666666666666665,True,Autódromo Hermanos Rodríguez
+484,1968,1.0,South African Grand Prix,1968-01-01,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,1.1111111111111112,True,Kyalami
+487,1968,2.0,Spanish Grand Prix,1968-05-12,Spain,40.6171,-3.58558,False,1950–79 Pioneer,,False,Jarama
+490,1968,3.0,Monaco Grand Prix,1968-05-26,Monaco,43.7347,7.42056,True,1950–79 Pioneer,,True,Circuit de Monaco
+493,1968,4.0,Belgian Grand Prix,1968-06-09,Belgium,50.4372,5.97139,False,1950–79 Pioneer,1.75,False,Circuit de Spa-Francorchamps
+496,1968,5.0,Dutch Grand Prix,1968-06-23,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.6666666666666665,False,Circuit Park Zandvoort
+499,1968,6.0,French Grand Prix,1968-07-07,France,49.3306,1.00458,False,1950–79 Pioneer,3.272727272727273,False,Rouen-Les-Essarts
+502,1968,7.0,British Grand Prix,1968-07-20,UK,51.3569,0.263056,False,1950–79 Pioneer,1.75,False,Brands Hatch
+505,1968,8.0,German Grand Prix,1968-08-04,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.142857142857143,False,Nürburgring
+508,1968,9.0,Italian Grand Prix,1968-09-08,Italy,45.6156,9.28111,False,1950–79 Pioneer,0.6666666666666666,False,Autodromo Nazionale di Monza
+511,1968,10.0,Canadian Grand Prix,1968-09-22,Canada,46.1877,-74.6099,False,1950–79 Pioneer,1.6666666666666667,False,Circuit Mont-Tremblant
+514,1968,11.0,United States Grand Prix,1968-10-06,USA,42.3369,-76.9272,False,1950–79 Pioneer,0.6666666666666666,False,Watkins Glen
+517,1968,12.0,Mexican Grand Prix,1968-11-03,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,3.0,False,Autódromo Hermanos Rodríguez
+520,1969,1.0,South African Grand Prix,1969-03-01,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,1.0,False,Kyalami
+523,1969,2.0,Spanish Grand Prix,1969-05-04,Spain,41.3664,2.15167,True,1950–79 Pioneer,2.0,False,Montjuïc
+526,1969,3.0,Monaco Grand Prix,1969-05-18,Monaco,43.7347,7.42056,True,1950–79 Pioneer,0.2857142857142857,False,Circuit de Monaco
+529,1969,4.0,Dutch Grand Prix,1969-06-21,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.2,False,Circuit Park Zandvoort
+532,1969,5.0,French Grand Prix,1969-07-06,France,45.7472,3.03889,False,1950–79 Pioneer,1.7777777777777777,True,Charade Circuit
+535,1969,6.0,British Grand Prix,1969-07-19,UK,52.0786,-1.01694,False,1950–79 Pioneer,1.4,False,Silverstone Circuit
+538,1969,7.0,German Grand Prix,1969-08-03,Germany,50.3356,6.9475,False,1950–79 Pioneer,0.6666666666666666,True,Nürburgring
+541,1969,8.0,Italian Grand Prix,1969-09-07,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.8,False,Autodromo Nazionale di Monza
+544,1969,9.0,Canadian Grand Prix,1969-09-20,Canada,44.0481,-78.6756,False,1950–79 Pioneer,0.5714285714285714,True,Mosport International Raceway
+547,1969,10.0,United States Grand Prix,1969-10-05,USA,42.3369,-76.9272,False,1950–79 Pioneer,0.6666666666666666,True,Watkins Glen
+550,1969,11.0,Mexican Grand Prix,1969-10-19,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,1.8181818181818181,False,Autódromo Hermanos Rodríguez
+553,1970,1.0,South African Grand Prix,1970-03-07,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,3.230769230769231,False,Kyalami
+556,1970,2.0,Spanish Grand Prix,1970-04-19,Spain,40.6171,-3.58558,False,1950–79 Pioneer,,False,Jarama
+559,1970,3.0,Monaco Grand Prix,1970-05-10,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.75,False,Circuit de Monaco
+562,1970,4.0,Belgian Grand Prix,1970-06-07,Belgium,50.4372,5.97139,False,1950–79 Pioneer,2.25,False,Circuit de Spa-Francorchamps
+565,1970,5.0,Dutch Grand Prix,1970-06-21,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.6363636363636365,True,Circuit Park Zandvoort
+568,1970,6.0,French Grand Prix,1970-07-05,France,45.7472,3.03889,False,1950–79 Pioneer,3.7142857142857144,False,Charade Circuit
+571,1970,7.0,British Grand Prix,1970-07-18,UK,51.3569,0.263056,False,1950–79 Pioneer,1.1111111111111112,True,Brands Hatch
+574,1970,8.0,German Grand Prix,1970-08-02,Germany,49.3278,8.56583,False,1950–79 Pioneer,2.0,False,Hockenheimring
+577,1970,9.0,Austrian Grand Prix,1970-08-16,Austria,47.2197,14.7647,False,1950–79 Pioneer,4.266666666666667,False,Red Bull Ring
+580,1970,10.0,Italian Grand Prix,1970-09-06,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.5,False,Autodromo Nazionale di Monza
+583,1970,11.0,Canadian Grand Prix,1970-09-20,Canada,46.1877,-74.6099,False,1950–79 Pioneer,1.8,False,Circuit Mont-Tremblant
+586,1970,12.0,United States Grand Prix,1970-10-04,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.0,False,Watkins Glen
+589,1970,13.0,Mexican Grand Prix,1970-10-25,Mexico,19.4042,-99.0907,False,1950–79 Pioneer,1.5555555555555556,False,Autódromo Hermanos Rodríguez
+592,1971,1.0,South African Grand Prix,1971-03-06,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,2.0,False,Kyalami
+595,1971,2.0,Spanish Grand Prix,1971-04-18,Spain,41.3664,2.15167,True,1950–79 Pioneer,1.0909090909090908,False,Montjuïc
+598,1971,3.0,Monaco Grand Prix,1971-05-23,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.8,True,Circuit de Monaco
+601,1971,4.0,Dutch Grand Prix,1971-06-20,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.8333333333333333,True,Circuit Park Zandvoort
+604,1971,5.0,French Grand Prix,1971-07-04,France,43.2506,5.79167,False,1950–79 Pioneer,2.3076923076923075,True,Circuit Paul Ricard
+607,1971,6.0,British Grand Prix,1971-07-17,UK,52.0786,-1.01694,False,1950–79 Pioneer,3.0833333333333335,False,Silverstone Circuit
+610,1971,7.0,German Grand Prix,1971-08-01,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.3333333333333333,True,Nürburgring
+613,1971,8.0,Austrian Grand Prix,1971-08-15,Austria,47.2197,14.7647,False,1950–79 Pioneer,1.0,True,Red Bull Ring
+616,1971,9.0,Italian Grand Prix,1971-09-05,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.8,False,Autodromo Nazionale di Monza
+619,1971,10.0,Canadian Grand Prix,1971-09-19,Canada,44.0481,-78.6756,False,1950–79 Pioneer,2.75,True,Mosport International Raceway
+622,1971,11.0,United States Grand Prix,1971-10-03,USA,42.3369,-76.9272,False,1950–79 Pioneer,3.764705882352941,False,Watkins Glen
+625,1972,1.0,Argentine Grand Prix,1972-01-23,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.2727272727272727,False,Autódromo Juan y Oscar Gálvez
+628,1972,2.0,South African Grand Prix,1972-03-04,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,2.9411764705882355,False,Kyalami
+631,1972,3.0,Spanish Grand Prix,1972-05-01,Spain,40.6171,-3.58558,False,1950–79 Pioneer,0.9090909090909091,False,Jarama
+634,1972,4.0,Monaco Grand Prix,1972-05-14,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.9411764705882355,False,Circuit de Monaco
+637,1972,5.0,Belgian Grand Prix,1972-06-04,Belgium,50.6211,4.32694,False,1950–79 Pioneer,2.4285714285714284,True,Nivelles-Baulers
+640,1972,6.0,French Grand Prix,1972-07-02,France,45.7472,3.03889,False,1950–79 Pioneer,3.6842105263157894,False,Charade Circuit
+643,1972,7.0,British Grand Prix,1972-07-15,UK,51.3569,0.263056,False,1950–79 Pioneer,2.0,False,Brands Hatch
+646,1972,8.0,German Grand Prix,1972-07-30,Germany,50.3356,6.9475,False,1950–79 Pioneer,4.4,True,Nürburgring
+649,1972,9.0,Austrian Grand Prix,1972-08-13,Austria,47.2197,14.7647,False,1950–79 Pioneer,3.0,True,Red Bull Ring
+652,1972,10.0,Italian Grand Prix,1972-09-10,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.1538461538461537,False,Autodromo Nazionale di Monza
+655,1972,11.0,Canadian Grand Prix,1972-09-24,Canada,44.0481,-78.6756,False,1950–79 Pioneer,2.4615384615384617,False,Mosport International Raceway
+658,1972,12.0,United States Grand Prix,1972-10-08,USA,42.3369,-76.9272,False,1950–79 Pioneer,4.2631578947368425,True,Watkins Glen
+661,1973,1.0,Argentine Grand Prix,1973-01-28,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.6,False,Autódromo Juan y Oscar Gálvez
+664,1973,2.0,Brazilian Grand Prix,1973-02-11,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,2.5,False,Autódromo José Carlos Pace
+667,1973,3.0,South African Grand Prix,1973-03-03,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,3.6363636363636362,False,Kyalami
+670,1973,4.0,Spanish Grand Prix,1973-04-29,Spain,41.3664,2.15167,True,1950–79 Pioneer,3.1666666666666665,False,Montjuïc
+673,1973,5.0,Belgian Grand Prix,1973-05-20,Belgium,50.9894,5.25694,False,1950–79 Pioneer,2.727272727272727,False,Zolder
+676,1973,6.0,Monaco Grand Prix,1973-06-03,Monaco,43.7347,7.42056,True,1950–79 Pioneer,1.8181818181818181,True,Circuit de Monaco
+679,1973,7.0,Swedish Grand Prix,1973-06-17,Sweden,57.2653,13.6042,False,1950–79 Pioneer,2.4285714285714284,False,Scandinavian Raceway
+682,1973,8.0,French Grand Prix,1973-07-01,France,43.2506,5.79167,False,1950–79 Pioneer,2.0,False,Circuit Paul Ricard
+685,1973,9.0,British Grand Prix,1973-07-14,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.1538461538461537,False,Silverstone Circuit
+688,1973,10.0,Dutch Grand Prix,1973-07-29,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.0,False,Circuit Park Zandvoort
+691,1973,11.0,German Grand Prix,1973-08-05,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.25,True,Nürburgring
+694,1973,12.0,Austrian Grand Prix,1973-08-19,Austria,47.2197,14.7647,False,1950–79 Pioneer,2.2,False,Red Bull Ring
+697,1973,13.0,Italian Grand Prix,1973-09-09,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.933333333333333,True,Autodromo Nazionale di Monza
+700,1973,14.0,Canadian Grand Prix,1973-09-23,Canada,44.0481,-78.6756,False,1950–79 Pioneer,4.222222222222222,False,Mosport International Raceway
+703,1973,15.0,United States Grand Prix,1973-10-07,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.375,True,Watkins Glen
+706,1974,1.0,Argentine Grand Prix,1974-01-13,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,3.6923076923076925,False,Autódromo Juan y Oscar Gálvez
+709,1974,2.0,Brazilian Grand Prix,1974-01-27,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,2.9411764705882355,True,Autódromo José Carlos Pace
+712,1974,3.0,South African Grand Prix,1974-03-30,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,4.105263157894737,False,Kyalami
+715,1974,4.0,Spanish Grand Prix,1974-04-28,Spain,40.6171,-3.58558,False,1950–79 Pioneer,1.8571428571428572,True,Jarama
+718,1974,5.0,Belgian Grand Prix,1974-05-12,Belgium,50.6211,4.32694,False,1950–79 Pioneer,3.0,False,Nivelles-Baulers
+721,1974,6.0,Monaco Grand Prix,1974-05-26,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.0,False,Circuit de Monaco
+724,1974,7.0,Swedish Grand Prix,1974-06-09,Sweden,57.2653,13.6042,False,1950–79 Pioneer,1.6363636363636365,False,Scandinavian Raceway
+727,1974,8.0,Dutch Grand Prix,1974-06-23,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,0.8333333333333334,True,Circuit Park Zandvoort
+730,1974,9.0,French Grand Prix,1974-07-07,France,47.3625,4.89913,False,1950–79 Pioneer,2.125,False,Dijon-Prenois
+733,1974,10.0,British Grand Prix,1974-07-20,UK,51.3569,0.263056,False,1950–79 Pioneer,3.2857142857142856,False,Brands Hatch
+736,1974,11.0,German Grand Prix,1974-08-04,Germany,50.3356,6.9475,False,1950–79 Pioneer,1.9333333333333333,False,Nürburgring
+739,1974,12.0,Austrian Grand Prix,1974-08-18,Austria,47.2197,14.7647,False,1950–79 Pioneer,2.0,False,Red Bull Ring
+742,1974,13.0,Italian Grand Prix,1974-09-08,Italy,45.6156,9.28111,False,1950–79 Pioneer,2.727272727272727,False,Autodromo Nazionale di Monza
+745,1974,14.0,Canadian Grand Prix,1974-09-22,Canada,44.0481,-78.6756,False,1950–79 Pioneer,3.0,True,Mosport International Raceway
+748,1974,15.0,United States Grand Prix,1974-10-06,USA,42.3369,-76.9272,False,1950–79 Pioneer,2.0,True,Watkins Glen
+751,1975,1.0,Argentine Grand Prix,1975-01-12,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,2.5714285714285716,False,Autódromo Juan y Oscar Gálvez
+754,1975,2.0,Brazilian Grand Prix,1975-01-26,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,2.1333333333333333,False,Autódromo José Carlos Pace
+757,1975,3.0,South African Grand Prix,1975-03-01,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,3.176470588235294,False,Kyalami
+760,1975,4.0,Spanish Grand Prix,1975-04-27,Spain,41.3664,2.15167,True,1950–79 Pioneer,2.75,False,Montjuïc
+763,1975,5.0,Monaco Grand Prix,1975-05-11,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.0,True,Circuit de Monaco
+766,1975,6.0,Belgian Grand Prix,1975-05-25,Belgium,50.9894,5.25694,False,1950–79 Pioneer,2.0,True,Zolder
+769,1975,7.0,Swedish Grand Prix,1975-06-08,Sweden,57.2653,13.6042,False,1950–79 Pioneer,3.764705882352941,False,Scandinavian Raceway
+772,1975,8.0,Dutch Grand Prix,1975-06-22,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.75,False,Circuit Park Zandvoort
+775,1975,9.0,French Grand Prix,1975-07-06,France,43.2506,5.79167,False,1950–79 Pioneer,2.5555555555555554,True,Circuit Paul Ricard
+778,1975,10.0,British Grand Prix,1975-07-19,UK,52.0786,-1.01694,False,1950–79 Pioneer,3.6842105263157894,False,Silverstone Circuit
+781,1975,11.0,German Grand Prix,1975-08-03,Germany,50.3356,6.9475,False,1950–79 Pioneer,3.0,False,Nürburgring
+784,1975,12.0,Austrian Grand Prix,1975-08-17,Austria,47.2197,14.7647,False,1950–79 Pioneer,3.5294117647058822,False,Red Bull Ring
+787,1975,13.0,Italian Grand Prix,1975-09-07,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.4285714285714286,False,Autodromo Nazionale di Monza
+790,1975,14.0,United States Grand Prix,1975-10-05,USA,42.3369,-76.9272,False,1950–79 Pioneer,1.8,True,Watkins Glen
+793,1976,1.0,Brazilian Grand Prix,1976-01-25,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,3.2857142857142856,False,Autódromo José Carlos Pace
+796,1976,2.0,South African Grand Prix,1976-03-06,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,2.4705882352941178,False,Kyalami
+799,1976,3.0,United States Grand Prix West,1976-03-28,USA,33.7651,-118.189,True,1950–79 Pioneer,2.2,True,Long Beach
+802,1976,4.0,Spanish Grand Prix,1976-05-02,Spain,40.6171,-3.58558,False,1950–79 Pioneer,2.3076923076923075,True,Jarama
+805,1976,5.0,Belgian Grand Prix,1976-05-16,Belgium,50.9894,5.25694,False,1950–79 Pioneer,1.5,True,Zolder
+808,1976,6.0,Monaco Grand Prix,1976-05-30,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.857142857142857,True,Circuit de Monaco
+811,1976,7.0,Swedish Grand Prix,1976-06-13,Sweden,57.2653,13.6042,False,1950–79 Pioneer,0.5333333333333333,True,Scandinavian Raceway
+814,1976,8.0,French Grand Prix,1976-07-04,France,43.2506,5.79167,False,1950–79 Pioneer,3.1578947368421053,True,Circuit Paul Ricard
+817,1976,9.0,British Grand Prix,1976-07-18,UK,51.3569,0.263056,False,1950–79 Pioneer,0.8888888888888888,True,Brands Hatch
+820,1976,10.0,German Grand Prix,1976-08-01,Germany,50.3356,6.9475,False,1950–79 Pioneer,2.533333333333333,True,Nürburgring
+823,1976,11.0,Austrian Grand Prix,1976-08-15,Austria,47.2197,14.7647,False,1950–79 Pioneer,1.3333333333333333,False,Red Bull Ring
+826,1976,12.0,Dutch Grand Prix,1976-08-29,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,0.6666666666666666,False,Circuit Park Zandvoort
+829,1976,13.0,Italian Grand Prix,1976-09-12,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.0526315789473686,False,Autodromo Nazionale di Monza
+832,1976,14.0,Canadian Grand Prix,1976-10-03,Canada,44.0481,-78.6756,False,1950–79 Pioneer,2.5,True,Mosport International Raceway
+835,1976,15.0,United States Grand Prix,1976-10-10,USA,42.3369,-76.9272,False,1950–79 Pioneer,1.4285714285714286,True,Watkins Glen
+838,1976,16.0,Japanese Grand Prix,1976-10-24,Japan,35.3717,138.927,False,1950–79 Pioneer,2.727272727272727,True,Fuji Speedway
+841,1977,1.0,Argentine Grand Prix,1977-01-09,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,1.7142857142857142,False,Autódromo Juan y Oscar Gálvez
+844,1977,2.0,Brazilian Grand Prix,1977-01-23,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,0.8571428571428571,False,Autódromo José Carlos Pace
+847,1977,3.0,South African Grand Prix,1977-03-05,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,3.2,False,Kyalami
+850,1977,4.0,United States Grand Prix West,1977-04-03,USA,33.7651,-118.189,True,1950–79 Pioneer,1.2727272727272727,False,Long Beach
+853,1977,5.0,Spanish Grand Prix,1977-05-08,Spain,40.6171,-3.58558,False,1950–79 Pioneer,1.5714285714285714,True,Jarama
+856,1977,6.0,Monaco Grand Prix,1977-05-22,Monaco,43.7347,7.42056,True,1950–79 Pioneer,0.8333333333333334,False,Circuit de Monaco
+859,1977,7.0,Belgian Grand Prix,1977-06-05,Belgium,50.9894,5.25694,False,1950–79 Pioneer,2.857142857142857,False,Zolder
+862,1977,8.0,Swedish Grand Prix,1977-06-19,Sweden,57.2653,13.6042,False,1950–79 Pioneer,5.052631578947368,False,Scandinavian Raceway
+865,1977,9.0,French Grand Prix,1977-07-03,France,47.3625,4.89913,False,1950–79 Pioneer,1.6923076923076923,True,Dijon-Prenois
+868,1977,10.0,British Grand Prix,1977-07-16,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.933333333333333,True,Silverstone Circuit
+871,1977,11.0,German Grand Prix,1977-07-31,Germany,49.3278,8.56583,False,1950–79 Pioneer,1.0,False,Hockenheimring
+874,1977,12.0,Austrian Grand Prix,1977-08-14,Austria,47.2197,14.7647,False,1950–79 Pioneer,3.0588235294117645,False,Red Bull Ring
+877,1977,13.0,Dutch Grand Prix,1977-08-28,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,2.0,False,Circuit Park Zandvoort
+880,1977,14.0,Italian Grand Prix,1977-09-11,Italy,45.6156,9.28111,False,1950–79 Pioneer,1.5555555555555556,False,Autodromo Nazionale di Monza
+883,1977,15.0,United States Grand Prix,1977-10-02,USA,42.3369,-76.9272,False,1950–79 Pioneer,4.2105263157894735,True,Watkins Glen
+886,1977,16.0,Canadian Grand Prix,1977-10-09,Canada,44.0481,-78.6756,False,1950–79 Pioneer,3.0,False,Mosport International Raceway
+889,1977,17.0,Japanese Grand Prix,1977-10-23,Japan,35.3717,138.927,False,1950–79 Pioneer,3.1666666666666665,False,Fuji Speedway
+892,1978,1.0,Argentine Grand Prix,1978-01-15,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,3.2222222222222223,True,Autódromo Juan y Oscar Gálvez
+895,1978,2.0,Brazilian Grand Prix,1978-01-29,Brazil,-22.9756,-43.395,False,1950–79 Pioneer,2.727272727272727,False,Autódromo Internacional Nelson Piquet
+898,1978,3.0,South African Grand Prix,1978-03-04,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,2.0,False,Kyalami
+901,1978,4.0,United States Grand Prix West,1978-04-02,USA,33.7651,-118.189,True,1950–79 Pioneer,1.8333333333333333,True,Long Beach
+904,1978,5.0,Monaco Grand Prix,1978-05-07,Monaco,43.7347,7.42056,True,1950–79 Pioneer,3.272727272727273,False,Circuit de Monaco
+907,1978,6.0,Belgian Grand Prix,1978-05-21,Belgium,50.9894,5.25694,False,1950–79 Pioneer,2.769230769230769,True,Zolder
+910,1978,7.0,Spanish Grand Prix,1978-06-04,Spain,40.6171,-3.58558,False,1950–79 Pioneer,2.533333333333333,True,Jarama
+913,1978,8.0,Swedish Grand Prix,1978-06-17,Sweden,57.2653,13.6042,False,1950–79 Pioneer,2.0,False,Scandinavian Raceway
+916,1978,9.0,French Grand Prix,1978-07-02,France,43.2506,5.79167,False,1950–79 Pioneer,2.888888888888889,False,Circuit Paul Ricard
+919,1978,10.0,British Grand Prix,1978-07-16,UK,51.3569,0.263056,False,1950–79 Pioneer,2.0,False,Brands Hatch
+922,1978,11.0,German Grand Prix,1978-07-30,Germany,49.3278,8.56583,False,1950–79 Pioneer,1.8181818181818181,True,Hockenheimring
+925,1978,12.0,Austrian Grand Prix,1978-08-13,Austria,47.2197,14.7647,False,1950–79 Pioneer,1.7777777777777777,True,Red Bull Ring
+928,1978,13.0,Dutch Grand Prix,1978-08-27,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,1.6666666666666667,True,Circuit Park Zandvoort
+931,1978,14.0,Italian Grand Prix,1978-09-10,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.7142857142857144,False,Autodromo Nazionale di Monza
+934,1978,15.0,United States Grand Prix,1978-10-01,USA,42.3369,-76.9272,False,1950–79 Pioneer,3.25,False,Watkins Glen
+937,1978,16.0,Canadian Grand Prix,1978-10-08,Canada,45.5,-73.5228,False,1950–79 Pioneer,2.6666666666666665,False,Circuit Gilles Villeneuve
+940,1979,1.0,Argentine Grand Prix,1979-01-21,Argentina,-34.6943,-58.4593,False,1950–79 Pioneer,0.7272727272727273,True,Autódromo Juan y Oscar Gálvez
+943,1979,2.0,Brazilian Grand Prix,1979-02-04,Brazil,-23.7036,-46.6997,False,1950–79 Pioneer,1.7333333333333334,True,Autódromo José Carlos Pace
+946,1979,3.0,South African Grand Prix,1979-03-03,South Africa,-25.9894,28.0767,False,1950–79 Pioneer,1.2307692307692308,False,Kyalami
+949,1979,4.0,United States Grand Prix West,1979-04-08,USA,33.7651,-118.189,True,1950–79 Pioneer,1.1111111111111112,True,Long Beach
+952,1979,5.0,Spanish Grand Prix,1979-04-29,Spain,40.6171,-3.58558,False,1950–79 Pioneer,1.4285714285714286,False,Jarama
+955,1979,6.0,Belgian Grand Prix,1979-05-13,Belgium,50.9894,5.25694,False,1950–79 Pioneer,2.1818181818181817,False,Zolder
+958,1979,7.0,Monaco Grand Prix,1979-05-27,Monaco,43.7347,7.42056,True,1950–79 Pioneer,2.0,True,Circuit de Monaco
+961,1979,8.0,French Grand Prix,1979-07-01,France,47.3625,4.89913,False,1950–79 Pioneer,2.2222222222222223,True,Dijon-Prenois
+964,1979,9.0,British Grand Prix,1979-07-14,UK,52.0786,-1.01694,False,1950–79 Pioneer,2.857142857142857,False,Silverstone Circuit
+967,1979,10.0,German Grand Prix,1979-07-29,Germany,49.3278,8.56583,False,1950–79 Pioneer,2.3333333333333335,False,Hockenheimring
+970,1979,11.0,Austrian Grand Prix,1979-08-12,Austria,47.2197,14.7647,False,1950–79 Pioneer,1.4,False,Red Bull Ring
+973,1979,12.0,Dutch Grand Prix,1979-08-26,Netherlands,52.3888,4.54092,False,1950–79 Pioneer,0.2857142857142857,False,Circuit Park Zandvoort
+976,1979,13.0,Italian Grand Prix,1979-09-09,Italy,45.6156,9.28111,False,1950–79 Pioneer,3.2857142857142856,False,Autodromo Nazionale di Monza
+979,1979,14.0,Canadian Grand Prix,1979-09-30,Canada,45.5,-73.5228,False,1950–79 Pioneer,1.2,True,Circuit Gilles Villeneuve
+982,1979,15.0,United States Grand Prix,1979-10-07,USA,42.3369,-76.9272,False,1950–79 Pioneer,0.5714285714285714,False,Watkins Glen
+985,1980,1.0,Argentine Grand Prix,1980-01-13,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,1.4285714285714286,True,Autódromo Juan y Oscar Gálvez
+988,1980,2.0,Brazilian Grand Prix,1980-01-27,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,3.125,False,Autódromo José Carlos Pace
+991,1980,3.0,South African Grand Prix,1980-03-01,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,1.5384615384615385,False,Kyalami
+994,1980,4.0,United States Grand Prix West,1980-03-30,USA,33.7651,-118.189,True,1980–99 Turbo & Aero,3.2,True,Long Beach
+997,1980,5.0,Belgian Grand Prix,1980-05-04,Belgium,50.9894,5.25694,False,1980–99 Turbo & Aero,2.5,False,Zolder
+1000,1980,6.0,Monaco Grand Prix,1980-05-18,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.7777777777777777,False,Circuit de Monaco
+1003,1980,7.0,French Grand Prix,1980-06-29,France,43.2506,5.79167,False,1980–99 Turbo & Aero,1.5,False,Circuit Paul Ricard
+1006,1980,8.0,British Grand Prix,1980-07-13,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,1.0769230769230769,False,Brands Hatch
+1009,1980,9.0,German Grand Prix,1980-08-10,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.75,False,Hockenheimring
+1012,1980,10.0,Austrian Grand Prix,1980-08-17,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,2.25,False,Red Bull Ring
+1015,1980,11.0,Dutch Grand Prix,1980-08-31,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,2.5454545454545454,False,Circuit Park Zandvoort
+1018,1980,12.0,Italian Grand Prix,1980-09-14,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,3.076923076923077,False,Autodromo Enzo e Dino Ferrari
+1021,1980,13.0,Canadian Grand Prix,1980-09-28,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.8333333333333333,False,Circuit Gilles Villeneuve
+1024,1980,14.0,United States Grand Prix,1980-10-05,USA,42.3369,-76.9272,False,1980–99 Turbo & Aero,1.4545454545454546,False,Watkins Glen
+1027,1981,1.0,United States Grand Prix West,1981-03-15,USA,33.7651,-118.189,True,1980–99 Turbo & Aero,0.0,False,Long Beach
+1030,1981,2.0,Brazilian Grand Prix,1981-03-29,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,2.769230769230769,False,Autódromo Internacional Nelson Piquet
+1033,1981,3.0,Argentine Grand Prix,1981-04-12,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,0.7692307692307693,True,Autódromo Juan y Oscar Gálvez
+1036,1981,4.0,San Marino Grand Prix,1981-05-03,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,3.230769230769231,False,Autodromo Enzo e Dino Ferrari
+1039,1981,5.0,Belgian Grand Prix,1981-05-17,Belgium,50.9894,5.25694,False,1980–99 Turbo & Aero,2.0,True,Zolder
+1042,1981,6.0,Monaco Grand Prix,1981-05-31,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,0.8571428571428571,False,Circuit de Monaco
+1045,1981,7.0,Spanish Grand Prix,1981-06-21,Spain,40.6171,-3.58558,False,1980–99 Turbo & Aero,2.625,False,Jarama
+1048,1981,8.0,French Grand Prix,1981-07-05,France,47.3625,4.89913,False,1980–99 Turbo & Aero,3.176470588235294,False,Dijon-Prenois
+1051,1981,9.0,British Grand Prix,1981-07-18,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,2.5454545454545454,False,Silverstone Circuit
+1054,1981,10.0,German Grand Prix,1981-08-02,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,3.8,False,Hockenheimring
+1057,1981,11.0,Austrian Grand Prix,1981-08-16,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,1.2727272727272727,False,Red Bull Ring
+1060,1981,12.0,Dutch Grand Prix,1981-08-30,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,1.0,True,Circuit Park Zandvoort
+1063,1981,13.0,Italian Grand Prix,1981-09-13,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.2,False,Autodromo Nazionale di Monza
+1066,1981,14.0,Canadian Grand Prix,1981-09-27,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,3.3333333333333335,False,Circuit Gilles Villeneuve
+1069,1981,15.0,Caesars Palace Grand Prix,1981-10-17,USA,36.1162,-115.174,True,1980–99 Turbo & Aero,2.769230769230769,False,Las Vegas Street Circuit
+1072,1982,1.0,South African Grand Prix,1982-01-23,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,2.4444444444444446,False,Kyalami
+1075,1982,2.0,Brazilian Grand Prix,1982-03-21,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,1.4,True,Autódromo Internacional Nelson Piquet
+1078,1982,3.0,United States Grand Prix West,1982-04-04,USA,33.7651,-118.189,True,1980–99 Turbo & Aero,0.8,False,Long Beach
+1081,1982,4.0,San Marino Grand Prix,1982-04-25,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,,False,Autodromo Enzo e Dino Ferrari
+1084,1982,5.0,Belgian Grand Prix,1982-05-09,Belgium,50.9894,5.25694,False,1980–99 Turbo & Aero,1.5555555555555556,False,Zolder
+1087,1982,6.0,Monaco Grand Prix,1982-05-23,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,2.0,False,Circuit de Monaco
+1090,1982,7.0,Detroit Grand Prix,1982-06-06,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,1.8181818181818181,False,Detroit Street Circuit
+1093,1982,8.0,Canadian Grand Prix,1982-06-13,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.1818181818181817,False,Circuit Gilles Villeneuve
+1096,1982,9.0,Dutch Grand Prix,1982-07-03,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,2.6666666666666665,False,Circuit Park Zandvoort
+1099,1982,10.0,British Grand Prix,1982-07-18,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,1.0,False,Brands Hatch
+1102,1982,11.0,French Grand Prix,1982-07-25,France,43.2506,5.79167,False,1980–99 Turbo & Aero,2.25,True,Circuit Paul Ricard
+1105,1982,12.0,German Grand Prix,1982-08-08,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.4545454545454546,False,Hockenheimring
+1108,1982,13.0,Austrian Grand Prix,1982-08-15,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,2.4444444444444446,False,Red Bull Ring
+1111,1982,14.0,Swiss Grand Prix,1982-08-29,France,47.3625,4.89913,False,1980–99 Turbo & Aero,4.125,False,Dijon-Prenois
+1114,1982,15.0,Italian Grand Prix,1982-09-12,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.1666666666666665,False,Autodromo Nazionale di Monza
+1117,1982,16.0,Caesars Palace Grand Prix,1982-09-25,USA,36.1162,-115.174,True,1980–99 Turbo & Aero,1.2307692307692308,False,Las Vegas Street Circuit
+1120,1983,1.0,Brazilian Grand Prix,1983-03-13,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,2.7142857142857144,False,Autódromo Internacional Nelson Piquet
+1123,1983,2.0,United States Grand Prix West,1983-03-27,USA,33.7651,-118.189,True,1980–99 Turbo & Aero,5.230769230769231,False,Long Beach
+1126,1983,3.0,French Grand Prix,1983-04-17,France,43.2506,5.79167,False,1980–99 Turbo & Aero,2.923076923076923,True,Circuit Paul Ricard
+1129,1983,4.0,San Marino Grand Prix,1983-05-01,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,3.0,False,Autodromo Enzo e Dino Ferrari
+1132,1983,5.0,Monaco Grand Prix,1983-05-15,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.7142857142857142,False,Circuit de Monaco
+1135,1983,6.0,Belgian Grand Prix,1983-05-22,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.5714285714285714,True,Circuit de Spa-Francorchamps
+1138,1983,7.0,Detroit Grand Prix,1983-06-05,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,3.3846153846153846,False,Detroit Street Circuit
+1141,1983,8.0,Canadian Grand Prix,1983-06-12,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.4,True,Circuit Gilles Villeneuve
+1144,1983,9.0,British Grand Prix,1983-07-16,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,3.411764705882353,False,Silverstone Circuit
+1147,1983,10.0,German Grand Prix,1983-08-07,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.6153846153846154,False,Hockenheimring
+1150,1983,11.0,Austrian Grand Prix,1983-08-14,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,1.8461538461538463,False,Red Bull Ring
+1153,1983,12.0,Dutch Grand Prix,1983-08-28,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,2.857142857142857,False,Circuit Park Zandvoort
+1156,1983,13.0,Italian Grand Prix,1983-09-11,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.2307692307692308,False,Autodromo Nazionale di Monza
+1159,1983,14.0,European Grand Prix,1983-09-25,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,2.8,False,Brands Hatch
+1162,1983,15.0,South African Grand Prix,1983-10-15,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,1.6666666666666667,False,Kyalami
+1165,1984,1.0,Brazilian Grand Prix,1984-03-25,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,1.0,False,Autódromo Internacional Nelson Piquet
+1168,1984,2.0,South African Grand Prix,1984-04-07,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,2.3333333333333335,False,Kyalami
+1171,1984,3.0,Belgian Grand Prix,1984-04-29,Belgium,50.9894,5.25694,False,1980–99 Turbo & Aero,1.0,True,Zolder
+1174,1984,4.0,San Marino Grand Prix,1984-05-06,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.1111111111111112,False,Autodromo Enzo e Dino Ferrari
+1177,1984,5.0,French Grand Prix,1984-05-20,France,47.3625,4.89913,False,1980–99 Turbo & Aero,2.1538461538461537,False,Dijon-Prenois
+1180,1984,6.0,Monaco Grand Prix,1984-06-03,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.25,True,Circuit de Monaco
+1183,1984,7.0,Canadian Grand Prix,1984-06-17,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.2727272727272727,True,Circuit Gilles Villeneuve
+1186,1984,8.0,Detroit Grand Prix,1984-06-24,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,,True,Detroit Street Circuit
+1189,1984,9.0,Dallas Grand Prix,1984-07-08,USA,32.7774,-96.7587,True,1980–99 Turbo & Aero,2.5,False,Fair Park
+1192,1984,10.0,British Grand Prix,1984-07-22,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,2.0,False,Brands Hatch
+1195,1984,11.0,German Grand Prix,1984-08-05,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.1111111111111112,True,Hockenheimring
+1198,1984,12.0,Austrian Grand Prix,1984-08-19,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,1.8333333333333333,False,Red Bull Ring
+1201,1984,13.0,Dutch Grand Prix,1984-08-26,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,2.3076923076923075,True,Circuit Park Zandvoort
+1204,1984,14.0,Italian Grand Prix,1984-09-09,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.2,False,Autodromo Nazionale di Monza
+1207,1984,15.0,European Grand Prix,1984-10-07,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,2.0,False,Nürburgring
+1210,1984,16.0,Portuguese Grand Prix,1984-10-21,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,2.588235294117647,False,Autódromo do Estoril
+1213,1985,1.0,Brazilian Grand Prix,1985-04-07,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,2.3076923076923075,False,Autódromo Internacional Nelson Piquet
+1216,1985,2.0,Portuguese Grand Prix,1985-04-21,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.5555555555555556,True,Autódromo do Estoril
+1219,1985,3.0,San Marino Grand Prix,1985-05-05,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.2,False,Autodromo Enzo e Dino Ferrari
+1222,1985,4.0,Monaco Grand Prix,1985-05-19,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,2.5454545454545454,False,Circuit de Monaco
+1225,1985,5.0,Canadian Grand Prix,1985-06-16,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,4.0,False,Circuit Gilles Villeneuve
+1228,1985,6.0,Detroit Grand Prix,1985-06-23,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,2.5,False,Detroit Street Circuit
+1231,1985,7.0,French Grand Prix,1985-07-07,France,43.2506,5.79167,False,1980–99 Turbo & Aero,1.4666666666666666,False,Circuit Paul Ricard
+1234,1985,8.0,British Grand Prix,1985-07-21,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,2.3636363636363638,False,Silverstone Circuit
+1237,1985,9.0,German Grand Prix,1985-08-04,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,3.0,False,Nürburgring
+1240,1985,10.0,Austrian Grand Prix,1985-08-18,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,2.2,True,Red Bull Ring
+1243,1985,11.0,Dutch Grand Prix,1985-08-25,Netherlands,52.3888,4.54092,False,1980–99 Turbo & Aero,3.0,False,Circuit Park Zandvoort
+1246,1985,12.0,Italian Grand Prix,1985-09-08,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,3.076923076923077,False,Autodromo Nazionale di Monza
+1249,1985,13.0,Belgian Grand Prix,1985-09-15,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.8461538461538463,False,Circuit de Spa-Francorchamps
+1252,1985,14.0,European Grand Prix,1985-10-06,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,2.3076923076923075,False,Brands Hatch
+1255,1985,15.0,South African Grand Prix,1985-10-19,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,0.5714285714285714,True,Kyalami
+1258,1985,16.0,Australian Grand Prix,1985-11-03,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,1.75,False,Adelaide Street Circuit
+1261,1986,1.0,Brazilian Grand Prix,1986-03-23,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,2.2,False,Autódromo Internacional Nelson Piquet
+1264,1986,2.0,Spanish Grand Prix,1986-04-13,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,0.5,True,Circuito de Jerez
+1267,1986,3.0,San Marino Grand Prix,1986-04-27,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.8,False,Autodromo Enzo e Dino Ferrari
+1270,1986,4.0,Monaco Grand Prix,1986-05-11,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.3333333333333333,True,Circuit de Monaco
+1273,1986,5.0,Belgian Grand Prix,1986-05-25,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.923076923076923,False,Circuit de Spa-Francorchamps
+1276,1986,6.0,Canadian Grand Prix,1986-06-15,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.0,True,Circuit Gilles Villeneuve
+1279,1986,7.0,Detroit Grand Prix,1986-06-22,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,1.2,True,Detroit Street Circuit
+1282,1986,8.0,French Grand Prix,1986-07-06,France,43.2506,5.79167,False,1980–99 Turbo & Aero,1.2727272727272727,False,Circuit Paul Ricard
+1285,1986,9.0,British Grand Prix,1986-07-13,UK,51.3569,0.263056,False,1980–99 Turbo & Aero,1.1111111111111112,False,Brands Hatch
+1288,1986,10.0,German Grand Prix,1986-07-27,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.8333333333333335,False,Hockenheimring
+1291,1986,11.0,Hungarian Grand Prix,1986-08-10,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.2,False,Hungaroring
+1294,1986,12.0,Austrian Grand Prix,1986-08-17,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,3.272727272727273,False,Red Bull Ring
+1297,1986,13.0,Italian Grand Prix,1986-09-07,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.4,False,Autodromo Nazionale di Monza
+1300,1986,14.0,Portuguese Grand Prix,1986-09-21,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.3846153846153846,False,Autódromo do Estoril
+1303,1986,15.0,Mexican Grand Prix,1986-10-12,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,3.125,False,Autódromo Hermanos Rodríguez
+1306,1986,16.0,Australian Grand Prix,1986-10-26,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,2.4,False,Adelaide Street Circuit
+1309,1987,1.0,Brazilian Grand Prix,1987-04-12,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,1.3333333333333333,False,Autódromo Internacional Nelson Piquet
+1312,1987,2.0,San Marino Grand Prix,1987-05-03,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.0,False,Autodromo Enzo e Dino Ferrari
+1315,1987,3.0,Belgian Grand Prix,1987-05-17,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,0.2,False,Circuit de Spa-Francorchamps
+1318,1987,4.0,Monaco Grand Prix,1987-05-31,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.5384615384615385,False,Circuit de Monaco
+1321,1987,5.0,Detroit Grand Prix,1987-06-21,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,1.6666666666666667,False,Detroit Street Circuit
+1324,1987,6.0,French Grand Prix,1987-07-05,France,43.2506,5.79167,False,1980–99 Turbo & Aero,0.8888888888888888,True,Circuit Paul Ricard
+1327,1987,7.0,British Grand Prix,1987-07-12,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.1111111111111112,False,Silverstone Circuit
+1330,1987,8.0,German Grand Prix,1987-07-26,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.2857142857142856,False,Hockenheimring
+1333,1987,9.0,Hungarian Grand Prix,1987-08-09,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.8571428571428572,False,Hungaroring
+1336,1987,10.0,Austrian Grand Prix,1987-08-16,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,1.2857142857142858,False,Red Bull Ring
+1339,1987,11.0,Italian Grand Prix,1987-09-06,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.25,True,Autodromo Nazionale di Monza
+1342,1987,12.0,Portuguese Grand Prix,1987-09-20,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,2.4285714285714284,False,Autódromo do Estoril
+1345,1987,13.0,Spanish Grand Prix,1987-09-27,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,4.125,False,Circuito de Jerez
+1348,1987,14.0,Mexican Grand Prix,1987-10-18,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,1.1111111111111112,True,Autódromo Hermanos Rodríguez
+1351,1987,15.0,Japanese Grand Prix,1987-11-01,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,2.933333333333333,True,Suzuka Circuit
+1354,1987,16.0,Australian Grand Prix,1987-11-15,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,2.0,True,Adelaide Street Circuit
+1357,1988,1.0,Brazilian Grand Prix,1988-04-03,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,0.6666666666666666,False,Autódromo Internacional Nelson Piquet
+1360,1988,2.0,San Marino Grand Prix,1988-05-01,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.4444444444444446,True,Autodromo Enzo e Dino Ferrari
+1363,1988,3.0,Monaco Grand Prix,1988-05-15,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,0.6,False,Circuit de Monaco
+1366,1988,4.0,Mexican Grand Prix,1988-05-29,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,2.375,False,Autódromo Hermanos Rodríguez
+1369,1988,5.0,Canadian Grand Prix,1988-06-12,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.2857142857142856,True,Circuit Gilles Villeneuve
+1372,1988,6.0,Detroit Grand Prix,1988-06-19,USA,42.3298,-83.0401,True,1980–99 Turbo & Aero,0.6666666666666666,True,Detroit Street Circuit
+1375,1988,7.0,French Grand Prix,1988-07-03,France,43.2506,5.79167,False,1980–99 Turbo & Aero,0.8,True,Circuit Paul Ricard
+1378,1988,8.0,British Grand Prix,1988-07-10,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,2.9473684210526314,False,Silverstone Circuit
+1381,1988,9.0,German Grand Prix,1988-07-24,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.736842105263158,True,Hockenheimring
+1384,1988,10.0,Hungarian Grand Prix,1988-08-07,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.3846153846153846,True,Hungaroring
+1387,1988,11.0,Belgian Grand Prix,1988-08-28,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,0.6153846153846154,True,Circuit de Spa-Francorchamps
+1390,1988,12.0,Italian Grand Prix,1988-09-11,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.8461538461538463,False,Autodromo Nazionale di Monza
+1393,1988,13.0,Portuguese Grand Prix,1988-09-25,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.0,True,Autódromo do Estoril
+1396,1988,14.0,Spanish Grand Prix,1988-10-02,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,1.7142857142857142,False,Circuito de Jerez
+1399,1988,15.0,Japanese Grand Prix,1988-10-30,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,2.1176470588235294,True,Suzuka Circuit
+1402,1988,16.0,Australian Grand Prix,1988-11-13,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,0.7272727272727273,False,Adelaide Street Circuit
+1405,1989,1.0,Brazilian Grand Prix,1989-03-26,Brazil,-22.9756,-43.395,False,1980–99 Turbo & Aero,4.133333333333334,False,Autódromo Internacional Nelson Piquet
+1408,1989,2.0,San Marino Grand Prix,1989-04-23,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.6666666666666667,True,Autodromo Enzo e Dino Ferrari
+1411,1989,3.0,Monaco Grand Prix,1989-05-07,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,3.2,True,Circuit de Monaco
+1414,1989,4.0,Mexican Grand Prix,1989-05-28,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,2.533333333333333,True,Autódromo Hermanos Rodríguez
+1417,1989,5.0,United States Grand Prix,1989-06-04,USA,33.4479,-112.075,True,1980–99 Turbo & Aero,2.4444444444444446,False,Phoenix street circuit
+1420,1989,6.0,Canadian Grand Prix,1989-06-18,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.0,False,Circuit Gilles Villeneuve
+1423,1989,7.0,French Grand Prix,1989-07-09,France,43.2506,5.79167,False,1980–99 Turbo & Aero,3.3846153846153846,True,Circuit Paul Ricard
+1426,1989,8.0,British Grand Prix,1989-07-16,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.5,False,Silverstone Circuit
+1429,1989,9.0,German Grand Prix,1989-07-30,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.0,True,Hockenheimring
+1432,1989,10.0,Hungarian Grand Prix,1989-08-13,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,3.3846153846153846,False,Hungaroring
+1435,1989,11.0,Belgian Grand Prix,1989-08-27,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.375,True,Circuit de Spa-Francorchamps
+1438,1989,12.0,Italian Grand Prix,1989-09-10,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.0909090909090908,False,Autodromo Nazionale di Monza
+1441,1989,13.0,Portuguese Grand Prix,1989-09-24,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,3.142857142857143,False,Autódromo do Estoril
+1444,1989,14.0,Spanish Grand Prix,1989-10-01,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,1.2,True,Circuito de Jerez
+1447,1989,15.0,Japanese Grand Prix,1989-10-22,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.4,False,Suzuka Circuit
+1450,1989,16.0,Australian Grand Prix,1989-11-05,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,2.0,False,Adelaide Street Circuit
+1453,1990,1.0,United States Grand Prix,1990-03-11,USA,33.4479,-112.075,True,1980–99 Turbo & Aero,1.5714285714285714,False,Phoenix street circuit
+1456,1990,2.0,Brazilian Grand Prix,1990-03-25,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,2.7142857142857144,False,Autódromo José Carlos Pace
+1459,1990,3.0,San Marino Grand Prix,1990-05-13,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.2307692307692308,False,Autodromo Enzo e Dino Ferrari
+1462,1990,4.0,Monaco Grand Prix,1990-05-27,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,0.5714285714285714,True,Circuit de Monaco
+1465,1990,5.0,Canadian Grand Prix,1990-06-10,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.1538461538461537,True,Circuit Gilles Villeneuve
+1468,1990,6.0,Mexican Grand Prix,1990-06-24,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,3.7,False,Autódromo Hermanos Rodríguez
+1471,1990,7.0,French Grand Prix,1990-07-08,France,43.2506,5.79167,False,1980–99 Turbo & Aero,3.4444444444444446,False,Circuit Paul Ricard
+1474,1990,8.0,British Grand Prix,1990-07-15,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,2.5714285714285716,False,Silverstone Circuit
+1477,1990,9.0,German Grand Prix,1990-07-29,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.6363636363636365,True,Hockenheimring
+1480,1990,10.0,Hungarian Grand Prix,1990-08-12,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,3.6470588235294117,True,Hungaroring
+1483,1990,11.0,Belgian Grand Prix,1990-08-26,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.8823529411764706,True,Circuit de Spa-Francorchamps
+1486,1990,12.0,Italian Grand Prix,1990-09-09,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.0769230769230769,True,Autodromo Nazionale di Monza
+1489,1990,13.0,Portuguese Grand Prix,1990-09-23,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,2.0,True,Autódromo do Estoril
+1492,1990,14.0,Spanish Grand Prix,1990-09-30,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,0.8,False,Circuito de Jerez
+1495,1990,15.0,Japanese Grand Prix,1990-10-21,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.4,False,Suzuka Circuit
+1498,1990,16.0,Australian Grand Prix,1990-11-04,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,1.3846153846153846,False,Adelaide Street Circuit
+1501,1991,1.0,United States Grand Prix,1991-03-10,USA,33.4479,-112.075,True,1980–99 Turbo & Aero,3.230769230769231,True,Phoenix street circuit
+1504,1991,2.0,Brazilian Grand Prix,1991-03-24,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,1.6923076923076923,True,Autódromo José Carlos Pace
+1507,1991,3.0,San Marino Grand Prix,1991-04-28,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,3.5384615384615383,True,Autodromo Enzo e Dino Ferrari
+1510,1991,4.0,Monaco Grand Prix,1991-05-12,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.5,True,Circuit de Monaco
+1513,1991,5.0,Canadian Grand Prix,1991-06-02,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.6,False,Circuit Gilles Villeneuve
+1516,1991,6.0,Mexican Grand Prix,1991-06-16,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,2.1666666666666665,True,Autódromo Hermanos Rodríguez
+1519,1991,7.0,French Grand Prix,1991-07-07,France,46.8642,3.16361,False,1980–99 Turbo & Aero,1.5,False,Circuit de Nevers Magny-Cours
+1522,1991,8.0,British Grand Prix,1991-07-14,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.4285714285714286,True,Silverstone Circuit
+1525,1991,9.0,German Grand Prix,1991-07-28,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.8461538461538463,True,Hockenheimring
+1528,1991,10.0,Hungarian Grand Prix,1991-08-11,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,2.4705882352941178,True,Hungaroring
+1531,1991,11.0,Belgian Grand Prix,1991-08-25,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.4615384615384617,True,Circuit de Spa-Francorchamps
+1534,1991,12.0,Italian Grand Prix,1991-09-08,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.375,False,Autodromo Nazionale di Monza
+1537,1991,13.0,Portuguese Grand Prix,1991-09-22,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,2.235294117647059,True,Autódromo do Estoril
+1540,1991,14.0,Spanish Grand Prix,1991-09-29,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,3.0588235294117645,False,Circuit de Barcelona-Catalunya
+1543,1991,15.0,Japanese Grand Prix,1991-10-20,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.0909090909090908,True,Suzuka Circuit
+1546,1991,16.0,Australian Grand Prix,1991-11-03,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,1.8,True,Adelaide Street Circuit
+1549,1992,1.0,South African Grand Prix,1992-03-01,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,0.9230769230769231,True,Kyalami
+1552,1992,2.0,Mexican Grand Prix,1992-03-22,Mexico,19.4042,-99.0907,False,1980–99 Turbo & Aero,1.2307692307692308,True,Autódromo Hermanos Rodríguez
+1555,1992,3.0,Brazilian Grand Prix,1992-04-05,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,0.4,True,Autódromo José Carlos Pace
+1558,1992,4.0,Spanish Grand Prix,1992-05-03,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,2.1666666666666665,True,Circuit de Barcelona-Catalunya
+1561,1992,5.0,San Marino Grand Prix,1992-05-17,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.142857142857143,True,Autodromo Enzo e Dino Ferrari
+1564,1992,6.0,Monaco Grand Prix,1992-05-31,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.0,False,Circuit de Monaco
+1567,1992,7.0,Canadian Grand Prix,1992-06-14,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.7142857142857142,False,Circuit Gilles Villeneuve
+1570,1992,8.0,French Grand Prix,1992-07-05,France,46.8642,3.16361,False,1980–99 Turbo & Aero,0.36363636363636365,True,Circuit de Nevers Magny-Cours
+1573,1992,9.0,British Grand Prix,1992-07-12,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,0.9411764705882353,True,Silverstone Circuit
+1576,1992,10.0,German Grand Prix,1992-07-26,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.875,True,Hockenheimring
+1579,1992,11.0,Hungarian Grand Prix,1992-08-16,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,0.9090909090909091,False,Hungaroring
+1582,1992,12.0,Belgian Grand Prix,1992-08-30,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.4444444444444446,False,Circuit de Spa-Francorchamps
+1585,1992,13.0,Italian Grand Prix,1992-09-13,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.0,False,Autodromo Nazionale di Monza
+1588,1992,14.0,Portuguese Grand Prix,1992-09-27,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.0,True,Autódromo do Estoril
+1591,1992,15.0,Japanese Grand Prix,1992-10-25,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,2.4,False,Suzuka Circuit
+1594,1992,16.0,Australian Grand Prix,1992-11-08,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,1.8461538461538463,False,Adelaide Street Circuit
+1597,1993,1.0,South African Grand Prix,1993-03-14,South Africa,-25.9894,28.0767,False,1980–99 Turbo & Aero,0.5714285714285714,True,Kyalami
+1600,1993,2.0,Brazilian Grand Prix,1993-03-28,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,1.3333333333333333,False,Autódromo José Carlos Pace
+1603,1993,3.0,European Grand Prix,1993-04-11,UK,52.8306,-1.37528,False,1980–99 Turbo & Aero,1.4545454545454546,False,Donington Park
+1606,1993,4.0,San Marino Grand Prix,1993-04-25,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.3333333333333333,True,Autodromo Enzo e Dino Ferrari
+1609,1993,5.0,Spanish Grand Prix,1993-05-09,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,1.4285714285714286,True,Circuit de Barcelona-Catalunya
+1612,1993,6.0,Monaco Grand Prix,1993-05-23,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,3.2857142857142856,False,Circuit de Monaco
+1615,1993,7.0,Canadian Grand Prix,1993-06-13,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.6666666666666665,True,Circuit Gilles Villeneuve
+1618,1993,8.0,French Grand Prix,1993-07-04,France,46.8642,3.16361,False,1980–99 Turbo & Aero,2.625,False,Circuit de Nevers Magny-Cours
+1621,1993,9.0,British Grand Prix,1993-07-11,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.5714285714285714,True,Silverstone Circuit
+1624,1993,10.0,German Grand Prix,1993-07-25,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.588235294117647,True,Hockenheimring
+1627,1993,11.0,Hungarian Grand Prix,1993-08-15,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,2.1666666666666665,False,Hungaroring
+1630,1993,12.0,Belgian Grand Prix,1993-08-29,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.2,False,Circuit de Spa-Francorchamps
+1633,1993,13.0,Italian Grand Prix,1993-09-12,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,3.2857142857142856,False,Autodromo Nazionale di Monza
+1636,1993,14.0,Portuguese Grand Prix,1993-09-26,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,3.375,False,Autódromo do Estoril
+1639,1993,15.0,Japanese Grand Prix,1993-10-24,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.7142857142857142,False,Suzuka Circuit
+1642,1993,16.0,Australian Grand Prix,1993-11-07,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,1.3333333333333333,True,Adelaide Street Circuit
+1645,1994,1.0,Brazilian Grand Prix,1994-03-27,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,1.3333333333333333,False,Autódromo José Carlos Pace
+1648,1994,2.0,Pacific Grand Prix,1994-04-17,Japan,34.915,134.221,False,1980–99 Turbo & Aero,0.7272727272727273,False,Okayama International Circuit
+1651,1994,3.0,San Marino Grand Prix,1994-05-01,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.8461538461538463,False,Autodromo Enzo e Dino Ferrari
+1654,1994,4.0,Monaco Grand Prix,1994-05-15,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.6363636363636365,True,Circuit de Monaco
+1657,1994,5.0,Spanish Grand Prix,1994-05-29,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,1.6363636363636365,False,Circuit de Barcelona-Catalunya
+1660,1994,6.0,Canadian Grand Prix,1994-06-12,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.4666666666666666,True,Circuit Gilles Villeneuve
+1663,1994,7.0,French Grand Prix,1994-07-03,France,46.8642,3.16361,False,1980–99 Turbo & Aero,1.0909090909090908,False,Circuit de Nevers Magny-Cours
+1666,1994,8.0,British Grand Prix,1994-07-10,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,0.5,True,Silverstone Circuit
+1669,1994,9.0,German Grand Prix,1994-07-31,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.5,True,Hockenheimring
+1672,1994,10.0,Hungarian Grand Prix,1994-08-14,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,2.5714285714285716,True,Hungaroring
+1675,1994,11.0,Belgian Grand Prix,1994-08-28,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.1538461538461537,False,Circuit de Spa-Francorchamps
+1678,1994,12.0,Italian Grand Prix,1994-09-11,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.2,False,Autodromo Nazionale di Monza
+1681,1994,13.0,Portuguese Grand Prix,1994-09-25,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.0,False,Autódromo do Estoril
+1684,1994,14.0,European Grand Prix,1994-10-16,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,2.210526315789474,True,Circuito de Jerez
+1687,1994,15.0,Japanese Grand Prix,1994-11-06,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.5384615384615385,False,Suzuka Circuit
+1690,1994,16.0,Australian Grand Prix,1994-11-13,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,2.5,True,Adelaide Street Circuit
+1693,1995,1.0,Brazilian Grand Prix,1995-03-26,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,0.2,False,Autódromo José Carlos Pace
+1696,1995,2.0,Argentine Grand Prix,1995-04-09,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,0.8888888888888888,False,Autódromo Juan y Oscar Gálvez
+1699,1995,3.0,San Marino Grand Prix,1995-04-30,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.7142857142857142,False,Autodromo Enzo e Dino Ferrari
+1702,1995,4.0,Spanish Grand Prix,1995-05-14,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,1.2,True,Circuit de Barcelona-Catalunya
+1705,1995,5.0,Monaco Grand Prix,1995-05-28,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,0.8,False,Circuit de Monaco
+1708,1995,6.0,Canadian Grand Prix,1995-06-11,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.727272727272727,False,Circuit Gilles Villeneuve
+1711,1995,7.0,French Grand Prix,1995-07-02,France,46.8642,3.16361,False,1980–99 Turbo & Aero,1.5,False,Circuit de Nevers Magny-Cours
+1714,1995,8.0,British Grand Prix,1995-07-16,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.6666666666666667,False,Silverstone Circuit
+1717,1995,9.0,German Grand Prix,1995-07-30,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.1111111111111112,False,Hockenheimring
+1720,1995,10.0,Hungarian Grand Prix,1995-08-13,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.3333333333333333,True,Hungaroring
+1723,1995,11.0,Belgian Grand Prix,1995-08-27,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.7142857142857144,False,Circuit de Spa-Francorchamps
+1726,1995,12.0,Italian Grand Prix,1995-09-10,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.2,False,Autodromo Nazionale di Monza
+1729,1995,13.0,Portuguese Grand Prix,1995-09-24,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,0.7058823529411765,True,Autódromo do Estoril
+1732,1995,14.0,European Grand Prix,1995-10-01,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,1.3333333333333333,False,Nürburgring
+1735,1995,15.0,Pacific Grand Prix,1995-10-22,Japan,34.915,134.221,False,1980–99 Turbo & Aero,1.411764705882353,False,Okayama International Circuit
+1738,1995,16.0,Japanese Grand Prix,1995-10-29,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.6666666666666667,True,Suzuka Circuit
+1741,1995,17.0,Australian Grand Prix,1995-11-12,Australia,-34.9272,138.617,True,1980–99 Turbo & Aero,0.5,True,Adelaide Street Circuit
+1744,1996,1.0,Australian Grand Prix,1996-03-10,Australia,-37.8497,144.968,True,1980–99 Turbo & Aero,1.0909090909090908,False,Albert Park Grand Prix Circuit
+1746,1996,2.0,Brazilian Grand Prix,1996-03-31,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,1.6666666666666667,True,Autódromo José Carlos Pace
+1748,1996,3.0,Argentine Grand Prix,1996-04-07,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,0.4,True,Autódromo Juan y Oscar Gálvez
+1750,1996,4.0,European Grand Prix,1996-04-28,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,1.5384615384615385,False,Nürburgring
+1752,1996,5.0,San Marino Grand Prix,1996-05-05,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.0,False,Autodromo Enzo e Dino Ferrari
+1754,1996,6.0,Monaco Grand Prix,1996-05-19,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,2.5714285714285716,False,Circuit de Monaco
+1756,1996,7.0,Spanish Grand Prix,1996-06-02,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,1.0,False,Circuit de Barcelona-Catalunya
+1758,1996,8.0,Canadian Grand Prix,1996-06-16,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,0.5,True,Circuit Gilles Villeneuve
+1760,1996,9.0,French Grand Prix,1996-06-30,France,46.8642,3.16361,False,1980–99 Turbo & Aero,0.8333333333333334,False,Circuit de Nevers Magny-Cours
+1762,1996,10.0,British Grand Prix,1996-07-14,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,0.9090909090909091,False,Silverstone Circuit
+1764,1996,11.0,German Grand Prix,1996-07-28,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,2.1538461538461537,True,Hockenheimring
+1766,1996,12.0,Hungarian Grand Prix,1996-08-11,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.6,False,Hungaroring
+1768,1996,13.0,Belgian Grand Prix,1996-08-25,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.2,False,Circuit de Spa-Francorchamps
+1770,1996,14.0,Italian Grand Prix,1996-09-08,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.6,False,Autodromo Nazionale di Monza
+1772,1996,15.0,Portuguese Grand Prix,1996-09-22,Portugal,38.7506,-9.39417,False,1980–99 Turbo & Aero,1.375,False,Autódromo do Estoril
+1774,1996,16.0,Japanese Grand Prix,1996-10-13,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,0.7692307692307693,False,Suzuka Circuit
+1776,1997,1.0,Australian Grand Prix,1997-03-09,Australia,-37.8497,144.968,True,1980–99 Turbo & Aero,1.4,False,Albert Park Grand Prix Circuit
+1778,1997,2.0,Brazilian Grand Prix,1997-03-30,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,2.3333333333333335,True,Autódromo José Carlos Pace
+1780,1997,3.0,Argentine Grand Prix,1997-04-13,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,1.2,True,Autódromo Juan y Oscar Gálvez
+1782,1997,4.0,San Marino Grand Prix,1997-04-27,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.0909090909090908,False,Autodromo Enzo e Dino Ferrari
+1784,1997,5.0,Monaco Grand Prix,1997-05-11,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.4,False,Circuit de Monaco
+1786,1997,6.0,Spanish Grand Prix,1997-05-25,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,2.933333333333333,True,Circuit de Barcelona-Catalunya
+1788,1997,7.0,Canadian Grand Prix,1997-06-15,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.1818181818181817,True,Circuit Gilles Villeneuve
+1790,1997,8.0,French Grand Prix,1997-06-29,France,46.8642,3.16361,False,1980–99 Turbo & Aero,1.3333333333333333,True,Circuit de Nevers Magny-Cours
+1792,1997,9.0,British Grand Prix,1997-07-13,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.2727272727272727,True,Silverstone Circuit
+1794,1997,10.0,German Grand Prix,1997-07-27,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.8181818181818181,True,Hockenheimring
+1796,1997,11.0,Hungarian Grand Prix,1997-08-10,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,2.6153846153846154,False,Hungaroring
+1798,1997,12.0,Belgian Grand Prix,1997-08-24,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,2.933333333333333,False,Circuit de Spa-Francorchamps
+1800,1997,13.0,Italian Grand Prix,1997-09-07,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.5714285714285714,False,Autodromo Nazionale di Monza
+1802,1997,14.0,Austrian Grand Prix,1997-09-21,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,2.5714285714285716,True,Red Bull Ring
+1804,1997,15.0,Luxembourg Grand Prix,1997-09-28,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,1.0,False,Nürburgring
+1806,1997,16.0,Japanese Grand Prix,1997-10-12,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.2307692307692308,False,Suzuka Circuit
+1808,1997,17.0,European Grand Prix,1997-10-26,Spain,36.7083,-6.03417,False,1980–99 Turbo & Aero,1.7647058823529411,False,Circuito de Jerez
+1810,1998,1.0,Australian Grand Prix,1998-03-08,Australia,-37.8497,144.968,True,1980–99 Turbo & Aero,1.1111111111111112,True,Albert Park Grand Prix Circuit
+1812,1998,2.0,Brazilian Grand Prix,1998-03-29,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,1.0909090909090908,True,Autódromo José Carlos Pace
+1814,1998,3.0,Argentine Grand Prix,1998-04-12,Argentina,-34.6943,-58.4593,False,1980–99 Turbo & Aero,2.0,False,Autódromo Juan y Oscar Gálvez
+1816,1998,4.0,San Marino Grand Prix,1998-04-26,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,1.2727272727272727,True,Autodromo Enzo e Dino Ferrari
+1818,1998,5.0,Spanish Grand Prix,1998-05-10,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,1.625,True,Circuit de Barcelona-Catalunya
+1820,1998,6.0,Monaco Grand Prix,1998-05-24,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,2.1666666666666665,True,Circuit de Monaco
+1822,1998,7.0,Canadian Grand Prix,1998-06-07,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,1.6,False,Circuit Gilles Villeneuve
+1824,1998,8.0,French Grand Prix,1998-06-28,France,46.8642,3.16361,False,1980–99 Turbo & Aero,2.823529411764706,False,Circuit de Nevers Magny-Cours
+1826,1998,9.0,British Grand Prix,1998-07-12,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,1.5555555555555556,False,Silverstone Circuit
+1828,1998,10.0,Austrian Grand Prix,1998-07-26,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,1.0,False,Red Bull Ring
+1830,1998,11.0,German Grand Prix,1998-08-02,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.125,True,Hockenheimring
+1832,1998,12.0,Hungarian Grand Prix,1998-08-16,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.4666666666666666,False,Hungaroring
+1834,1998,13.0,Belgian Grand Prix,1998-08-30,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.5,False,Circuit de Spa-Francorchamps
+1836,1998,14.0,Italian Grand Prix,1998-09-13,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,1.8461538461538463,True,Autodromo Nazionale di Monza
+1838,1998,15.0,Luxembourg Grand Prix,1998-09-27,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,0.875,False,Nürburgring
+1840,1998,16.0,Japanese Grand Prix,1998-11-01,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.0,False,Suzuka Circuit
+1842,1999,1.0,Australian Grand Prix,1999-03-07,Australia,-37.8497,144.968,True,1980–99 Turbo & Aero,2.5,False,Albert Park Grand Prix Circuit
+1844,1999,2.0,Brazilian Grand Prix,1999-04-11,Brazil,-23.7036,-46.6997,False,1980–99 Turbo & Aero,0.8888888888888888,True,Autódromo José Carlos Pace
+1846,1999,3.0,San Marino Grand Prix,1999-05-02,Italy,44.3439,11.7167,False,1980–99 Turbo & Aero,2.0,False,Autodromo Enzo e Dino Ferrari
+1848,1999,4.0,Monaco Grand Prix,1999-05-16,Monaco,43.7347,7.42056,True,1980–99 Turbo & Aero,1.7777777777777777,False,Circuit de Monaco
+1850,1999,5.0,Spanish Grand Prix,1999-05-30,Spain,41.57,2.26111,False,1980–99 Turbo & Aero,0.6666666666666666,True,Circuit de Barcelona-Catalunya
+1852,1999,6.0,Canadian Grand Prix,1999-06-13,Canada,45.5,-73.5228,False,1980–99 Turbo & Aero,2.3636363636363638,False,Circuit Gilles Villeneuve
+1854,1999,7.0,French Grand Prix,1999-06-27,France,46.8642,3.16361,False,1980–99 Turbo & Aero,2.5454545454545454,False,Circuit de Nevers Magny-Cours
+1856,1999,8.0,British Grand Prix,1999-07-11,UK,52.0786,-1.01694,False,1980–99 Turbo & Aero,2.375,False,Silverstone Circuit
+1858,1999,9.0,Austrian Grand Prix,1999-07-25,Austria,47.2197,14.7647,False,1980–99 Turbo & Aero,2.8,False,Red Bull Ring
+1860,1999,10.0,German Grand Prix,1999-08-01,Germany,49.3278,8.56583,False,1980–99 Turbo & Aero,1.6363636363636365,False,Hockenheimring
+1862,1999,11.0,Hungarian Grand Prix,1999-08-15,Hungary,47.5789,19.2486,False,1980–99 Turbo & Aero,1.5294117647058822,True,Hungaroring
+1864,1999,12.0,Belgian Grand Prix,1999-08-29,Belgium,50.4372,5.97139,False,1980–99 Turbo & Aero,1.625,False,Circuit de Spa-Francorchamps
+1866,1999,13.0,Italian Grand Prix,1999-09-12,Italy,45.6156,9.28111,False,1980–99 Turbo & Aero,2.0,False,Autodromo Nazionale di Monza
+1868,1999,14.0,European Grand Prix,1999-09-26,Germany,50.3356,6.9475,False,1980–99 Turbo & Aero,4.0,False,Nürburgring
+1870,1999,15.0,Malaysian Grand Prix,1999-10-17,Malaysia,2.76083,101.738,False,1980–99 Turbo & Aero,1.2727272727272727,False,Sepang International Circuit
+1872,1999,16.0,Japanese Grand Prix,1999-10-31,Japan,34.8431,136.541,False,1980–99 Turbo & Aero,1.2857142857142858,False,Suzuka Circuit
+1874,2000,1.0,Australian Grand Prix,2000-03-12,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.1111111111111112,False,Albert Park Grand Prix Circuit
+1876,2000,2.0,Brazilian Grand Prix,2000-03-26,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,1.2,False,Autódromo José Carlos Pace
+1878,2000,3.0,San Marino Grand Prix,2000-04-09,Italy,44.3439,11.7167,False,2000–13 V10/V8,2.0,False,Autodromo Enzo e Dino Ferrari
+1880,2000,4.0,British Grand Prix,2000-04-23,UK,52.0786,-1.01694,False,2000–13 V10/V8,3.5294117647058822,False,Silverstone Circuit
+1882,2000,5.0,Spanish Grand Prix,2000-05-07,Spain,41.57,2.26111,False,2000–13 V10/V8,2.7058823529411766,False,Circuit de Barcelona-Catalunya
+1884,2000,6.0,European Grand Prix,2000-05-21,Germany,50.3356,6.9475,False,2000–13 V10/V8,1.8333333333333333,False,Nürburgring
+1886,2000,7.0,Monaco Grand Prix,2000-06-04,Monaco,43.7347,7.42056,True,2000–13 V10/V8,2.6,False,Circuit de Monaco
+1888,2000,8.0,Canadian Grand Prix,2000-06-18,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.875,True,Circuit Gilles Villeneuve
+1890,2000,9.0,French Grand Prix,2000-07-02,France,46.8642,3.16361,False,2000–13 V10/V8,1.3333333333333333,False,Circuit de Nevers Magny-Cours
+1892,2000,10.0,Austrian Grand Prix,2000-07-16,Austria,47.2197,14.7647,False,2000–13 V10/V8,1.1666666666666667,True,Red Bull Ring
+1894,2000,11.0,German Grand Prix,2000-07-30,Germany,49.3278,8.56583,False,2000–13 V10/V8,3.6666666666666665,False,Hockenheimring
+1896,2000,12.0,Hungarian Grand Prix,2000-08-13,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.5,False,Hungaroring
+1898,2000,13.0,Belgian Grand Prix,2000-08-27,Belgium,50.4372,5.97139,False,2000–13 V10/V8,1.2941176470588236,True,Circuit de Spa-Francorchamps
+1900,2000,14.0,Italian Grand Prix,2000-09-10,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.5,True,Autodromo Nazionale di Monza
+1902,2000,15.0,United States Grand Prix,2000-09-24,USA,39.795,-86.2347,False,2000–13 V10/V8,1.3333333333333333,True,Indianapolis Motor Speedway
+1904,2000,16.0,Japanese Grand Prix,2000-10-08,Japan,34.8431,136.541,False,2000–13 V10/V8,1.4666666666666666,True,Suzuka Circuit
+1906,2000,17.0,Malaysian Grand Prix,2000-10-22,Malaysia,2.76083,101.738,False,2000–13 V10/V8,1.2307692307692308,True,Sepang International Circuit
+1908,2001,1.0,Australian Grand Prix,2001-03-04,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.6923076923076923,True,Albert Park Grand Prix Circuit
+1910,2001,2.0,Malaysian Grand Prix,2001-03-18,Malaysia,2.76083,101.738,False,2000–13 V10/V8,1.5714285714285714,True,Sepang International Circuit
+1912,2001,3.0,Brazilian Grand Prix,2001-04-01,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,1.8181818181818181,False,Autódromo José Carlos Pace
+1914,2001,4.0,San Marino Grand Prix,2001-04-15,Italy,44.3439,11.7167,False,2000–13 V10/V8,1.1666666666666667,False,Autodromo Enzo e Dino Ferrari
+1916,2001,5.0,Spanish Grand Prix,2001-04-29,Spain,41.57,2.26111,False,2000–13 V10/V8,1.5,True,Circuit de Barcelona-Catalunya
+1918,2001,6.0,Austrian Grand Prix,2001-05-13,Austria,47.2197,14.7647,False,2000–13 V10/V8,1.8181818181818181,False,Red Bull Ring
+1920,2001,7.0,Monaco Grand Prix,2001-05-27,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.4,False,Circuit de Monaco
+1922,2001,8.0,Canadian Grand Prix,2001-06-10,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.3636363636363638,False,Circuit Gilles Villeneuve
+1924,2001,9.0,European Grand Prix,2001-06-24,Germany,50.3356,6.9475,False,2000–13 V10/V8,1.6,True,Nürburgring
+1926,2001,10.0,French Grand Prix,2001-07-01,France,46.8642,3.16361,False,2000–13 V10/V8,1.7647058823529411,False,Circuit de Nevers Magny-Cours
+1928,2001,11.0,British Grand Prix,2001-07-15,UK,52.0786,-1.01694,False,2000–13 V10/V8,1.375,False,Silverstone Circuit
+1930,2001,12.0,German Grand Prix,2001-07-29,Germany,49.3278,8.56583,False,2000–13 V10/V8,0.8,False,Hockenheimring
+1932,2001,13.0,Hungarian Grand Prix,2001-08-19,Hungary,47.5789,19.2486,False,2000–13 V10/V8,0.3333333333333333,True,Hungaroring
+1934,2001,14.0,Belgian Grand Prix,2001-09-02,Belgium,50.4372,5.97139,False,2000–13 V10/V8,2.769230769230769,False,Circuit de Spa-Francorchamps
+1936,2001,15.0,Italian Grand Prix,2001-09-16,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.5384615384615385,True,Autodromo Nazionale di Monza
+1938,2001,16.0,United States Grand Prix,2001-09-30,USA,39.795,-86.2347,False,2000–13 V10/V8,2.2666666666666666,False,Indianapolis Motor Speedway
+1940,2001,17.0,Japanese Grand Prix,2001-10-14,Japan,34.8431,136.541,False,2000–13 V10/V8,1.7647058823529411,True,Suzuka Circuit
+1942,2002,1.0,Australian Grand Prix,2002-03-03,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.0,False,Albert Park Grand Prix Circuit
+1944,2002,2.0,Malaysian Grand Prix,2002-03-17,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.769230769230769,False,Sepang International Circuit
+1946,2002,3.0,Brazilian Grand Prix,2002-03-31,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,1.6923076923076923,False,Autódromo José Carlos Pace
+1948,2002,4.0,San Marino Grand Prix,2002-04-14,Italy,44.3439,11.7167,False,2000–13 V10/V8,1.2727272727272727,True,Autodromo Enzo e Dino Ferrari
+1950,2002,5.0,Spanish Grand Prix,2002-04-28,Spain,41.57,2.26111,False,2000–13 V10/V8,3.3333333333333335,True,Circuit de Barcelona-Catalunya
+1952,2002,6.0,Austrian Grand Prix,2002-05-12,Austria,47.2197,14.7647,False,2000–13 V10/V8,1.6666666666666667,False,Red Bull Ring
+1954,2002,7.0,Monaco Grand Prix,2002-05-26,Monaco,43.7347,7.42056,True,2000–13 V10/V8,0.6666666666666666,False,Circuit de Monaco
+1956,2002,8.0,Canadian Grand Prix,2002-06-09,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.0,False,Circuit Gilles Villeneuve
+1958,2002,9.0,European Grand Prix,2002-06-23,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.0,False,Nürburgring
+1960,2002,10.0,British Grand Prix,2002-07-07,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.5,False,Silverstone Circuit
+1962,2002,11.0,French Grand Prix,2002-07-21,France,46.8642,3.16361,False,2000–13 V10/V8,1.2727272727272727,False,Circuit de Nevers Magny-Cours
+1964,2002,12.0,German Grand Prix,2002-07-28,Germany,49.3278,8.56583,False,2000–13 V10/V8,0.6666666666666666,True,Hockenheimring
+1966,2002,13.0,Hungarian Grand Prix,2002-08-18,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.625,True,Hungaroring
+1968,2002,14.0,Belgian Grand Prix,2002-09-01,Belgium,50.4372,5.97139,False,2000–13 V10/V8,0.6666666666666666,True,Circuit de Spa-Francorchamps
+1970,2002,15.0,Italian Grand Prix,2002-09-15,Italy,45.6156,9.28111,False,2000–13 V10/V8,2.1538461538461537,False,Autodromo Nazionale di Monza
+1972,2002,16.0,United States Grand Prix,2002-09-29,USA,39.795,-86.2347,False,2000–13 V10/V8,2.0,False,Indianapolis Motor Speedway
+1974,2002,17.0,Japanese Grand Prix,2002-10-13,Japan,34.8431,136.541,False,2000–13 V10/V8,1.2727272727272727,True,Suzuka Circuit
+1976,2003,1.0,Australian Grand Prix,2003-03-09,Australia,-37.8497,144.968,True,2000–13 V10/V8,3.272727272727273,False,Albert Park Grand Prix Circuit
+1979,2003,2.0,Malaysian Grand Prix,2003-03-23,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.923076923076923,False,Sepang International Circuit
+1982,2003,3.0,Brazilian Grand Prix,2003-04-06,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,3.2,False,Autódromo José Carlos Pace
+1985,2003,4.0,San Marino Grand Prix,2003-04-20,Italy,44.3439,11.7167,False,2000–13 V10/V8,1.3333333333333333,True,Autodromo Enzo e Dino Ferrari
+1988,2003,5.0,Spanish Grand Prix,2003-05-04,Spain,41.57,2.26111,False,2000–13 V10/V8,1.1666666666666667,True,Circuit de Barcelona-Catalunya
+1991,2003,6.0,Austrian Grand Prix,2003-05-18,Austria,47.2197,14.7647,False,2000–13 V10/V8,1.8461538461538463,True,Red Bull Ring
+1994,2003,7.0,Monaco Grand Prix,2003-06-01,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.0769230769230769,False,Circuit de Monaco
+1997,2003,8.0,Canadian Grand Prix,2003-06-15,Canada,45.5,-73.5228,False,2000–13 V10/V8,1.4545454545454546,False,Circuit Gilles Villeneuve
+2000,2003,9.0,European Grand Prix,2003-06-29,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.4,False,Nürburgring
+2003,2003,10.0,French Grand Prix,2003-07-06,France,46.8642,3.16361,False,2000–13 V10/V8,0.625,True,Circuit de Nevers Magny-Cours
+2006,2003,11.0,British Grand Prix,2003-07-20,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.588235294117647,True,Silverstone Circuit
+2009,2003,12.0,German Grand Prix,2003-08-03,Germany,49.3278,8.56583,False,2000–13 V10/V8,1.9230769230769231,True,Hockenheimring
+2012,2003,13.0,Hungarian Grand Prix,2003-08-24,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.2307692307692308,True,Hungaroring
+2015,2003,14.0,Italian Grand Prix,2003-09-14,Italy,45.6156,9.28111,False,2000–13 V10/V8,0.9230769230769231,True,Autodromo Nazionale di Monza
+2018,2003,15.0,United States Grand Prix,2003-09-28,USA,39.795,-86.2347,False,2000–13 V10/V8,1.8181818181818181,False,Indianapolis Motor Speedway
+2021,2003,16.0,Japanese Grand Prix,2003-10-12,Japan,34.8431,136.541,False,2000–13 V10/V8,3.75,True,Suzuka Circuit
+2024,2004,1.0,Australian Grand Prix,2004-03-07,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.5714285714285714,True,Albert Park Grand Prix Circuit
+2027,2004,2.0,Malaysian Grand Prix,2004-03-21,Malaysia,2.76083,101.738,False,2000–13 V10/V8,1.5,True,Sepang International Circuit
+2030,2004,3.0,Bahrain Grand Prix,2004-04-04,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,2.588235294117647,True,Bahrain International Circuit
+2033,2004,4.0,San Marino Grand Prix,2004-04-25,Italy,44.3439,11.7167,False,2000–13 V10/V8,2.75,False,Autodromo Enzo e Dino Ferrari
+2036,2004,5.0,Spanish Grand Prix,2004-05-09,Spain,41.57,2.26111,False,2000–13 V10/V8,2.3076923076923075,True,Circuit de Barcelona-Catalunya
+2039,2004,6.0,Monaco Grand Prix,2004-05-23,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.4,True,Circuit de Monaco
+2042,2004,7.0,European Grand Prix,2004-05-30,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.4,True,Nürburgring
+2045,2004,8.0,Canadian Grand Prix,2004-06-13,Canada,45.5,-73.5228,False,2000–13 V10/V8,1.4,False,Circuit Gilles Villeneuve
+2048,2004,9.0,United States Grand Prix,2004-06-20,USA,39.795,-86.2347,False,2000–13 V10/V8,1.3333333333333333,False,Indianapolis Motor Speedway
+2051,2004,10.0,French Grand Prix,2004-07-04,France,46.8642,3.16361,False,2000–13 V10/V8,1.7777777777777777,False,Circuit de Nevers Magny-Cours
+2054,2004,11.0,British Grand Prix,2004-07-11,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.25,False,Silverstone Circuit
+2057,2004,12.0,German Grand Prix,2004-07-25,Germany,49.3278,8.56583,False,2000–13 V10/V8,2.823529411764706,True,Hockenheimring
+2060,2004,13.0,Hungarian Grand Prix,2004-08-15,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.0666666666666667,True,Hungaroring
+2063,2004,14.0,Belgian Grand Prix,2004-08-29,Belgium,50.4372,5.97139,False,2000–13 V10/V8,2.727272727272727,False,Circuit de Spa-Francorchamps
+2066,2004,15.0,Italian Grand Prix,2004-09-12,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.6,True,Autodromo Nazionale di Monza
+2069,2004,16.0,Chinese Grand Prix,2004-09-26,China,31.3389,121.22,False,2000–13 V10/V8,2.25,True,Shanghai International Circuit
+2072,2004,17.0,Japanese Grand Prix,2004-10-10,Japan,34.8431,136.541,False,2000–13 V10/V8,2.5,True,Suzuka Circuit
+2075,2004,18.0,Brazilian Grand Prix,2004-10-24,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,1.7647058823529411,False,Autódromo José Carlos Pace
+2078,2005,1.0,Australian Grand Prix,2005-03-06,Australia,-37.8497,144.968,True,2000–13 V10/V8,3.2,True,Albert Park Grand Prix Circuit
+2081,2005,2.0,Malaysian Grand Prix,2005-03-20,Malaysia,2.76083,101.738,False,2000–13 V10/V8,1.5384615384615385,True,Sepang International Circuit
+2084,2005,3.0,Bahrain Grand Prix,2005-04-03,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,1.0769230769230769,True,Bahrain International Circuit
+2087,2005,4.0,San Marino Grand Prix,2005-04-24,Italy,44.3439,11.7167,False,2000–13 V10/V8,2.3076923076923075,False,Autodromo Enzo e Dino Ferrari
+2090,2005,5.0,Spanish Grand Prix,2005-05-08,Spain,41.57,2.26111,False,2000–13 V10/V8,1.3846153846153846,True,Circuit de Barcelona-Catalunya
+2093,2005,6.0,Monaco Grand Prix,2005-05-22,Monaco,43.7347,7.42056,True,2000–13 V10/V8,3.142857142857143,True,Circuit de Monaco
+2096,2005,7.0,European Grand Prix,2005-05-29,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.7777777777777777,False,Nürburgring
+2098,2005,8.0,Canadian Grand Prix,2005-06-12,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.3636363636363638,False,Circuit Gilles Villeneuve
+2100,2005,9.0,United States Grand Prix,2005-06-19,USA,39.795,-86.2347,False,2000–13 V10/V8,0.3333333333333333,False,Indianapolis Motor Speedway
+2102,2005,10.0,French Grand Prix,2005-07-03,France,46.8642,3.16361,False,2000–13 V10/V8,2.533333333333333,True,Circuit de Nevers Magny-Cours
+2104,2005,11.0,British Grand Prix,2005-07-10,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.736842105263158,False,Silverstone Circuit
+2106,2005,12.0,German Grand Prix,2005-07-24,Germany,49.3278,8.56583,False,2000–13 V10/V8,3.4444444444444446,False,Hockenheimring
+2108,2005,13.0,Hungarian Grand Prix,2005-07-31,Hungary,47.5789,19.2486,False,2000–13 V10/V8,2.4285714285714284,False,Hungaroring
+2110,2005,14.0,Turkish Grand Prix,2005-08-21,Turkey,40.9517,29.405,False,2000–13 V10/V8,2.1333333333333333,True,Istanbul Park
+2112,2005,15.0,Italian Grand Prix,2005-09-04,Italy,45.6156,9.28111,False,2000–13 V10/V8,3.2,True,Autodromo Nazionale di Monza
+2114,2005,16.0,Belgian Grand Prix,2005-09-11,Belgium,50.4372,5.97139,False,2000–13 V10/V8,3.6,False,Circuit de Spa-Francorchamps
+2116,2005,17.0,Brazilian Grand Prix,2005-09-25,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.533333333333333,False,Autódromo José Carlos Pace
+2118,2005,18.0,Japanese Grand Prix,2005-10-09,Japan,34.8431,136.541,False,2000–13 V10/V8,4.5,False,Suzuka Circuit
+2120,2005,19.0,Chinese Grand Prix,2005-10-16,China,31.3389,121.22,False,2000–13 V10/V8,3.125,True,Shanghai International Circuit
+2122,2006,1.0,Bahrain Grand Prix,2006-03-12,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,3.0,False,Bahrain International Circuit
+2129,2006,2.0,Malaysian Grand Prix,2006-03-19,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.857142857142857,True,Sepang International Circuit
+2136,2006,3.0,Australian Grand Prix,2006-04-02,Australia,-37.8497,144.968,True,2000–13 V10/V8,2.3076923076923075,False,Albert Park Grand Prix Circuit
+2143,2006,4.0,San Marino Grand Prix,2006-04-23,Italy,44.3439,11.7167,False,2000–13 V10/V8,2.0,True,Autodromo Enzo e Dino Ferrari
+2150,2006,5.0,European Grand Prix,2006-05-07,Germany,50.3356,6.9475,False,2000–13 V10/V8,1.5384615384615385,False,Nürburgring
+2157,2006,6.0,Spanish Grand Prix,2006-05-14,Spain,41.57,2.26111,False,2000–13 V10/V8,1.6470588235294117,True,Circuit de Barcelona-Catalunya
+2164,2006,7.0,Monaco Grand Prix,2006-05-28,Monaco,43.7347,7.42056,True,2000–13 V10/V8,3.0588235294117645,True,Circuit de Monaco
+2171,2006,8.0,British Grand Prix,2006-06-11,UK,52.0786,-1.01694,False,2000–13 V10/V8,1.5555555555555556,True,Silverstone Circuit
+2178,2006,9.0,Canadian Grand Prix,2006-06-25,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.1333333333333333,True,Circuit Gilles Villeneuve
+2185,2006,10.0,United States Grand Prix,2006-07-02,USA,39.795,-86.2347,False,2000–13 V10/V8,1.1111111111111112,True,Indianapolis Motor Speedway
+2192,2006,11.0,French Grand Prix,2006-07-16,France,46.8642,3.16361,False,2000–13 V10/V8,1.0,True,Circuit de Nevers Magny-Cours
+2199,2006,12.0,German Grand Prix,2006-07-30,Germany,49.3278,8.56583,False,2000–13 V10/V8,1.5,False,Hockenheimring
+2206,2006,13.0,Hungarian Grand Prix,2006-08-06,Hungary,47.5789,19.2486,False,2000–13 V10/V8,3.076923076923077,False,Hungaroring
+2213,2006,14.0,Turkish Grand Prix,2006-08-27,Turkey,40.9517,29.405,False,2000–13 V10/V8,2.933333333333333,True,Istanbul Park
+2220,2006,15.0,Italian Grand Prix,2006-09-10,Italy,45.6156,9.28111,False,2000–13 V10/V8,2.3529411764705883,False,Autodromo Nazionale di Monza
+2227,2006,16.0,Chinese Grand Prix,2006-10-01,China,31.3389,121.22,False,2000–13 V10/V8,2.25,False,Shanghai International Circuit
+2234,2006,17.0,Japanese Grand Prix,2006-10-08,Japan,34.8431,136.541,False,2000–13 V10/V8,2.111111111111111,False,Suzuka Circuit
+2241,2006,18.0,Brazilian Grand Prix,2006-10-22,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.823529411764706,True,Autódromo José Carlos Pace
+2248,2007,1.0,Australian Grand Prix,2007-03-18,Australia,-37.8497,144.968,True,2000–13 V10/V8,2.588235294117647,True,Albert Park Grand Prix Circuit
+2255,2007,2.0,Malaysian Grand Prix,2007-04-08,Malaysia,2.76083,101.738,False,2000–13 V10/V8,3.111111111111111,False,Sepang International Circuit
+2262,2007,3.0,Bahrain Grand Prix,2007-04-15,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,1.0,True,Bahrain International Circuit
+2269,2007,4.0,Spanish Grand Prix,2007-05-13,Spain,41.57,2.26111,False,2000–13 V10/V8,1.0,True,Circuit de Barcelona-Catalunya
+2276,2007,5.0,Monaco Grand Prix,2007-05-27,Monaco,43.7347,7.42056,True,2000–13 V10/V8,2.1052631578947367,True,Circuit de Monaco
+2283,2007,6.0,Canadian Grand Prix,2007-06-10,Canada,45.5,-73.5228,False,2000–13 V10/V8,3.3333333333333335,True,Circuit Gilles Villeneuve
+2290,2007,7.0,United States Grand Prix,2007-06-17,USA,39.795,-86.2347,False,2000–13 V10/V8,1.411764705882353,True,Indianapolis Motor Speedway
+2297,2007,8.0,French Grand Prix,2007-07-01,France,46.8642,3.16361,False,2000–13 V10/V8,1.6470588235294117,False,Circuit de Nevers Magny-Cours
+2304,2007,9.0,British Grand Prix,2007-07-08,UK,52.0786,-1.01694,False,2000–13 V10/V8,1.75,False,Silverstone Circuit
+2311,2007,10.0,European Grand Prix,2007-07-22,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.3076923076923075,False,Nürburgring
+2318,2007,11.0,Hungarian Grand Prix,2007-08-05,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.4444444444444444,True,Hungaroring
+2325,2007,12.0,Turkish Grand Prix,2007-08-26,Turkey,40.9517,29.405,False,2000–13 V10/V8,2.380952380952381,True,Istanbul Park
+2332,2007,13.0,Italian Grand Prix,2007-09-09,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.0,True,Autodromo Nazionale di Monza
+2339,2007,14.0,Belgian Grand Prix,2007-09-16,Belgium,50.4372,5.97139,False,2000–13 V10/V8,0.7058823529411765,True,Circuit de Spa-Francorchamps
+2346,2007,15.0,Japanese Grand Prix,2007-09-30,Japan,35.3717,138.927,False,2000–13 V10/V8,3.3333333333333335,True,Fuji Speedway
+2353,2007,16.0,Chinese Grand Prix,2007-10-07,China,31.3389,121.22,False,2000–13 V10/V8,2.7058823529411766,False,Shanghai International Circuit
+2360,2007,17.0,Brazilian Grand Prix,2007-10-21,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,1.7142857142857142,False,Autódromo José Carlos Pace
+2367,2008,1.0,Australian Grand Prix,2008-03-16,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.0,True,Albert Park Grand Prix Circuit
+2374,2008,2.0,Malaysian Grand Prix,2008-03-23,Malaysia,2.76083,101.738,False,2000–13 V10/V8,1.411764705882353,False,Sepang International Circuit
+2381,2008,3.0,Bahrain Grand Prix,2008-04-06,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,2.1052631578947367,False,Bahrain International Circuit
+2388,2008,4.0,Spanish Grand Prix,2008-04-27,Spain,41.57,2.26111,False,2000–13 V10/V8,1.0769230769230769,True,Circuit de Barcelona-Catalunya
+2395,2008,5.0,Turkish Grand Prix,2008-05-11,Turkey,40.9517,29.405,False,2000–13 V10/V8,2.1176470588235294,True,Istanbul Park
+2402,2008,6.0,Monaco Grand Prix,2008-05-25,Monaco,43.7347,7.42056,True,2000–13 V10/V8,4.285714285714286,False,Circuit de Monaco
+2409,2008,7.0,Canadian Grand Prix,2008-06-08,Canada,45.5,-73.5228,False,2000–13 V10/V8,3.5384615384615383,False,Circuit Gilles Villeneuve
+2416,2008,8.0,French Grand Prix,2008-06-22,France,46.8642,3.16361,False,2000–13 V10/V8,2.1052631578947367,False,Circuit de Nevers Magny-Cours
+2423,2008,9.0,British Grand Prix,2008-07-06,UK,52.0786,-1.01694,False,2000–13 V10/V8,3.8461538461538463,False,Silverstone Circuit
+2430,2008,10.0,German Grand Prix,2008-07-20,Germany,49.3278,8.56583,False,2000–13 V10/V8,2.7058823529411766,True,Hockenheimring
+2437,2008,11.0,Hungarian Grand Prix,2008-08-03,Hungary,47.5789,19.2486,False,2000–13 V10/V8,2.7777777777777777,False,Hungaroring
+2444,2008,12.0,European Grand Prix,2008-08-24,Spain,39.4589,-0.331667,True,2000–13 V10/V8,1.2941176470588236,True,Valencia Street Circuit
+2451,2008,13.0,Belgian Grand Prix,2008-09-07,Belgium,50.4372,5.97139,False,2000–13 V10/V8,3.2222222222222223,False,Circuit de Spa-Francorchamps
+2458,2008,14.0,Italian Grand Prix,2008-09-14,Italy,45.6156,9.28111,False,2000–13 V10/V8,4.421052631578948,True,Autodromo Nazionale di Monza
+2465,2008,15.0,Singapore Grand Prix,2008-09-28,Singapore,1.2914,103.864,True,2000–13 V10/V8,4.933333333333334,False,Marina Bay Street Circuit
+2472,2008,16.0,Japanese Grand Prix,2008-10-12,Japan,35.3717,138.927,False,2000–13 V10/V8,2.8,False,Fuji Speedway
+2479,2008,17.0,Chinese Grand Prix,2008-10-19,China,31.3389,121.22,False,2000–13 V10/V8,1.7647058823529411,True,Shanghai International Circuit
+2486,2008,18.0,Brazilian Grand Prix,2008-11-02,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.4444444444444446,True,Autódromo José Carlos Pace
+2493,2009,1.0,Australian Grand Prix,2009-03-29,Australia,-37.8497,144.968,True,2000–13 V10/V8,4.933333333333334,True,Albert Park Grand Prix Circuit
+2500,2009,2.0,Malaysian Grand Prix,2009-04-05,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.7777777777777777,True,Sepang International Circuit
+2507,2009,3.0,Chinese Grand Prix,2009-04-19,China,31.3389,121.22,False,2000–13 V10/V8,3.0588235294117645,True,Shanghai International Circuit
+2514,2009,4.0,Bahrain Grand Prix,2009-04-26,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,3.0526315789473686,False,Bahrain International Circuit
+2521,2009,5.0,Spanish Grand Prix,2009-05-10,Spain,41.57,2.26111,False,2000–13 V10/V8,2.0,True,Circuit de Barcelona-Catalunya
+2528,2009,6.0,Monaco Grand Prix,2009-05-24,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.6,True,Circuit de Monaco
+2535,2009,7.0,Turkish Grand Prix,2009-06-07,Turkey,40.9517,29.405,False,2000–13 V10/V8,1.6666666666666667,False,Istanbul Park
+2542,2009,8.0,British Grand Prix,2009-06-21,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.0,True,Silverstone Circuit
+2549,2009,9.0,German Grand Prix,2009-07-12,Germany,50.3356,6.9475,False,2000–13 V10/V8,4.111111111111111,True,Nürburgring
+2556,2009,10.0,Hungarian Grand Prix,2009-07-26,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.875,False,Hungaroring
+2563,2009,11.0,European Grand Prix,2009-08-23,Spain,39.4589,-0.331667,True,2000–13 V10/V8,1.6666666666666667,False,Valencia Street Circuit
+2570,2009,12.0,Belgian Grand Prix,2009-08-30,Belgium,50.4372,5.97139,False,2000–13 V10/V8,2.0,False,Circuit de Spa-Francorchamps
+2577,2009,13.0,Italian Grand Prix,2009-09-13,Italy,45.6156,9.28111,False,2000–13 V10/V8,3.25,False,Autodromo Nazionale di Monza
+2584,2009,14.0,Singapore Grand Prix,2009-09-27,Singapore,1.2914,103.864,True,2000–13 V10/V8,1.7142857142857142,True,Marina Bay Street Circuit
+2591,2009,15.0,Japanese Grand Prix,2009-10-04,Japan,34.8431,136.541,False,2000–13 V10/V8,1.2941176470588236,True,Suzuka Circuit
+2598,2009,16.0,Brazilian Grand Prix,2009-10-18,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,4.142857142857143,False,Autódromo José Carlos Pace
+2605,2009,17.0,Abu Dhabi Grand Prix,2009-11-01,UAE,24.4672,54.6031,False,2000–13 V10/V8,1.7777777777777777,False,Yas Marina Circuit
+2612,2010,1.0,Bahrain Grand Prix,2010-03-14,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,1.5294117647058822,False,Bahrain International Circuit
+2619,2010,2.0,Australian Grand Prix,2010-03-28,Australia,-37.8497,144.968,True,2000–13 V10/V8,2.2857142857142856,False,Albert Park Grand Prix Circuit
+2626,2010,3.0,Malaysian Grand Prix,2010-04-04,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.7058823529411766,False,Sepang International Circuit
+2633,2010,4.0,Chinese Grand Prix,2010-04-18,China,31.3389,121.22,False,2000–13 V10/V8,2.235294117647059,False,Shanghai International Circuit
+2640,2010,5.0,Spanish Grand Prix,2010-05-09,Spain,41.57,2.26111,False,2000–13 V10/V8,2.736842105263158,True,Circuit de Barcelona-Catalunya
+2647,2010,6.0,Monaco Grand Prix,2010-05-16,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.6,True,Circuit de Monaco
+2654,2010,7.0,Turkish Grand Prix,2010-05-30,Turkey,40.9517,29.405,False,2000–13 V10/V8,1.4,False,Istanbul Park
+2661,2010,8.0,Canadian Grand Prix,2010-06-13,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.526315789473684,True,Circuit Gilles Villeneuve
+2668,2010,9.0,European Grand Prix,2010-06-27,Spain,39.4589,-0.331667,True,2000–13 V10/V8,2.6666666666666665,True,Valencia Street Circuit
+2675,2010,10.0,British Grand Prix,2010-07-11,UK,52.0786,-1.01694,False,2000–13 V10/V8,3.1,False,Silverstone Circuit
+2682,2010,11.0,German Grand Prix,2010-07-25,Germany,49.3278,8.56583,False,2000–13 V10/V8,1.4736842105263157,False,Hockenheimring
+2689,2010,12.0,Hungarian Grand Prix,2010-08-01,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.263157894736842,False,Hungaroring
+2696,2010,13.0,Belgian Grand Prix,2010-08-29,Belgium,50.4372,5.97139,False,2000–13 V10/V8,4.5,False,Circuit de Spa-Francorchamps
+2703,2010,14.0,Italian Grand Prix,2010-09-12,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.6,True,Autodromo Nazionale di Monza
+2710,2010,15.0,Singapore Grand Prix,2010-09-26,Singapore,1.2914,103.864,True,2000–13 V10/V8,2.0,True,Marina Bay Street Circuit
+2717,2010,16.0,Japanese Grand Prix,2010-10-10,Japan,34.8431,136.541,False,2000–13 V10/V8,0.75,True,Suzuka Circuit
+2724,2010,17.0,Korean Grand Prix,2010-10-24,Korea,34.7333,126.417,False,2000–13 V10/V8,1.4666666666666666,False,Korean International Circuit
+2731,2010,18.0,Brazilian Grand Prix,2010-11-07,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,3.4545454545454546,False,Autódromo José Carlos Pace
+2738,2010,19.0,Abu Dhabi Grand Prix,2010-11-14,UAE,24.4672,54.6031,False,2000–13 V10/V8,2.4761904761904763,True,Yas Marina Circuit
+2745,2011,1.0,Australian Grand Prix,2011-03-27,Australia,-37.8497,144.968,True,2000–13 V10/V8,0.8571428571428571,True,Albert Park Grand Prix Circuit
+2752,2011,2.0,Malaysian Grand Prix,2011-04-10,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.588235294117647,True,Sepang International Circuit
+2759,2011,3.0,Chinese Grand Prix,2011-04-17,China,31.3389,121.22,False,2000–13 V10/V8,2.5217391304347827,False,Shanghai International Circuit
+2766,2011,4.0,Turkish Grand Prix,2011-05-08,Turkey,40.9517,29.405,False,2000–13 V10/V8,2.090909090909091,True,Istanbul Park
+2773,2011,5.0,Spanish Grand Prix,2011-05-22,Spain,41.57,2.26111,False,2000–13 V10/V8,2.761904761904762,False,Circuit de Barcelona-Catalunya
+2780,2011,6.0,Monaco Grand Prix,2011-05-29,Monaco,43.7347,7.42056,True,2000–13 V10/V8,2.5555555555555554,True,Circuit de Monaco
+2787,2011,7.0,Canadian Grand Prix,2011-06-12,Canada,45.5,-73.5228,False,2000–13 V10/V8,2.888888888888889,False,Circuit Gilles Villeneuve
+2794,2011,8.0,European Grand Prix,2011-06-26,Spain,39.4589,-0.331667,True,2000–13 V10/V8,2.0,True,Valencia Street Circuit
+2801,2011,9.0,British Grand Prix,2011-07-10,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.4210526315789473,False,Silverstone Circuit
+2808,2011,10.0,German Grand Prix,2011-07-24,Germany,50.3356,6.9475,False,2000–13 V10/V8,1.7,False,Nürburgring
+2815,2011,11.0,Hungarian Grand Prix,2011-07-31,Hungary,47.5789,19.2486,False,2000–13 V10/V8,2.5,False,Hungaroring
+2822,2011,12.0,Belgian Grand Prix,2011-08-28,Belgium,50.4372,5.97139,False,2000–13 V10/V8,3.6842105263157894,True,Circuit de Spa-Francorchamps
+2829,2011,13.0,Italian Grand Prix,2011-09-11,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.3333333333333333,True,Autodromo Nazionale di Monza
+2836,2011,14.0,Singapore Grand Prix,2011-09-25,Singapore,1.2914,103.864,True,2000–13 V10/V8,1.3333333333333333,True,Marina Bay Street Circuit
+2843,2011,15.0,Japanese Grand Prix,2011-10-09,Japan,34.8431,136.541,False,2000–13 V10/V8,2.5217391304347827,False,Suzuka Circuit
+2850,2011,16.0,Korean Grand Prix,2011-10-16,Korea,34.7333,126.417,False,2000–13 V10/V8,1.4285714285714286,False,Korean International Circuit
+2857,2011,17.0,Indian Grand Prix,2011-10-30,India,28.3487,77.5331,False,2000–13 V10/V8,1.7894736842105263,True,Buddh International Circuit
+2864,2011,18.0,Abu Dhabi Grand Prix,2011-11-13,UAE,24.4672,54.6031,False,2000–13 V10/V8,1.9,False,Yas Marina Circuit
+2871,2011,19.0,Brazilian Grand Prix,2011-11-27,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.2,False,Autódromo José Carlos Pace
+2878,2012,1.0,Australian Grand Prix,2012-03-18,Australia,-37.8497,144.968,True,2000–13 V10/V8,3.375,False,Albert Park Grand Prix Circuit
+2885,2012,2.0,Malaysian Grand Prix,2012-03-25,Malaysia,2.76083,101.738,False,2000–13 V10/V8,4.545454545454546,False,Sepang International Circuit
+2892,2012,3.0,Chinese Grand Prix,2012-04-15,China,31.3389,121.22,False,2000–13 V10/V8,2.869565217391304,True,Shanghai International Circuit
+2899,2012,4.0,Bahrain Grand Prix,2012-04-22,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,3.909090909090909,True,Bahrain International Circuit
+2906,2012,5.0,Spanish Grand Prix,2012-05-13,Spain,41.57,2.26111,False,2000–13 V10/V8,1.5789473684210527,True,Circuit de Barcelona-Catalunya
+2913,2012,6.0,Monaco Grand Prix,2012-05-27,Monaco,43.7347,7.42056,True,2000–13 V10/V8,1.625,True,Circuit de Monaco
+2920,2012,7.0,Canadian Grand Prix,2012-06-10,Canada,45.5,-73.5228,False,2000–13 V10/V8,3.0476190476190474,False,Circuit Gilles Villeneuve
+2927,2012,8.0,European Grand Prix,2012-06-24,Spain,39.4589,-0.331667,True,2000–13 V10/V8,4.105263157894737,False,Valencia Street Circuit
+2934,2012,9.0,British Grand Prix,2012-07-08,UK,52.0786,-1.01694,False,2000–13 V10/V8,2.5714285714285716,False,Silverstone Circuit
+2941,2012,10.0,German Grand Prix,2012-07-22,Germany,49.3278,8.56583,False,2000–13 V10/V8,3.391304347826087,True,Hockenheimring
+2948,2012,11.0,Hungarian Grand Prix,2012-07-29,Hungary,47.5789,19.2486,False,2000–13 V10/V8,1.3636363636363635,True,Hungaroring
+2955,2012,12.0,Belgian Grand Prix,2012-09-02,Belgium,50.4372,5.97139,False,2000–13 V10/V8,2.5555555555555554,True,Circuit de Spa-Francorchamps
+2962,2012,13.0,Italian Grand Prix,2012-09-09,Italy,45.6156,9.28111,False,2000–13 V10/V8,3.3636363636363638,True,Autodromo Nazionale di Monza
+2969,2012,14.0,Singapore Grand Prix,2012-09-23,Singapore,1.2914,103.864,True,2000–13 V10/V8,1.894736842105263,False,Marina Bay Street Circuit
+2976,2012,15.0,Japanese Grand Prix,2012-10-07,Japan,34.8431,136.541,False,2000–13 V10/V8,3.1578947368421053,True,Suzuka Circuit
+2983,2012,16.0,Korean Grand Prix,2012-10-14,Korea,34.7333,126.417,False,2000–13 V10/V8,2.1,False,Korean International Circuit
+2990,2012,17.0,Indian Grand Prix,2012-10-28,India,28.3487,77.5331,False,2000–13 V10/V8,2.0,True,Buddh International Circuit
+2997,2012,18.0,Abu Dhabi Grand Prix,2012-11-04,UAE,24.4672,54.6031,False,2000–13 V10/V8,2.823529411764706,False,Yas Marina Circuit
+3004,2012,19.0,United States Grand Prix,2012-11-18,USA,30.1328,-97.6411,False,2000–13 V10/V8,2.5454545454545454,False,Circuit of the Americas
+3011,2012,20.0,Brazilian Grand Prix,2012-11-25,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.736842105263158,False,Autódromo José Carlos Pace
+3018,2013,1.0,Australian Grand Prix,2013-03-17,Australia,-37.8497,144.968,True,2000–13 V10/V8,1.6666666666666667,False,Albert Park Grand Prix Circuit
+3025,2013,2.0,Malaysian Grand Prix,2013-03-24,Malaysia,2.76083,101.738,False,2000–13 V10/V8,2.5555555555555554,True,Sepang International Circuit
+3032,2013,3.0,Chinese Grand Prix,2013-04-14,China,31.3389,121.22,False,2000–13 V10/V8,1.4444444444444444,False,Shanghai International Circuit
+3039,2013,4.0,Bahrain Grand Prix,2013-04-21,Bahrain,26.0325,50.5106,False,2000–13 V10/V8,3.5238095238095237,False,Bahrain International Circuit
+3046,2013,5.0,Spanish Grand Prix,2013-05-12,Spain,41.57,2.26111,False,2000–13 V10/V8,4.0,False,Circuit de Barcelona-Catalunya
+3053,2013,6.0,Monaco Grand Prix,2013-05-26,Monaco,43.7347,7.42056,True,2000–13 V10/V8,2.375,True,Circuit de Monaco
+3060,2013,7.0,Canadian Grand Prix,2013-06-09,Canada,45.5,-73.5228,False,2000–13 V10/V8,3.1,True,Circuit Gilles Villeneuve
+3067,2013,8.0,British Grand Prix,2013-06-30,UK,52.0786,-1.01694,False,2000–13 V10/V8,3.5,False,Silverstone Circuit
+3074,2013,9.0,German Grand Prix,2013-07-07,Germany,50.3356,6.9475,False,2000–13 V10/V8,2.0,False,Nürburgring
+3081,2013,10.0,Hungarian Grand Prix,2013-07-28,Hungary,47.5789,19.2486,False,2000–13 V10/V8,2.9473684210526314,True,Hungaroring
+3088,2013,11.0,Belgian Grand Prix,2013-08-25,Belgium,50.4372,5.97139,False,2000–13 V10/V8,2.8421052631578947,False,Circuit de Spa-Francorchamps
+3095,2013,12.0,Italian Grand Prix,2013-09-08,Italy,45.6156,9.28111,False,2000–13 V10/V8,1.2,True,Autodromo Nazionale di Monza
+3102,2013,13.0,Singapore Grand Prix,2013-09-22,Singapore,1.2914,103.864,True,2000–13 V10/V8,3.1,True,Marina Bay Street Circuit
+3109,2013,14.0,Korean Grand Prix,2013-10-06,Korea,34.7333,126.417,False,2000–13 V10/V8,3.1,True,Korean International Circuit
+3116,2013,15.0,Japanese Grand Prix,2013-10-13,Japan,34.8431,136.541,False,2000–13 V10/V8,2.526315789473684,False,Suzuka Circuit
+3123,2013,16.0,Indian Grand Prix,2013-10-27,India,28.3487,77.5331,False,2000–13 V10/V8,3.0526315789473686,True,Buddh International Circuit
+3130,2013,17.0,Abu Dhabi Grand Prix,2013-11-03,UAE,24.4672,54.6031,False,2000–13 V10/V8,2.5714285714285716,False,Yas Marina Circuit
+3137,2013,18.0,United States Grand Prix,2013-11-17,USA,30.1328,-97.6411,False,2000–13 V10/V8,1.9047619047619047,True,Circuit of the Americas
+3144,2013,19.0,Brazilian Grand Prix,2013-11-24,Brazil,-23.7036,-46.6997,False,2000–13 V10/V8,2.736842105263158,True,Autódromo José Carlos Pace
+3151,2014,1.0,Australian Grand Prix,2014-03-16,Australia,-37.8497,144.968,True,2014–21 Hybrid,1.8461538461538463,False,Albert Park Grand Prix Circuit
+3158,2014,2.0,Malaysian Grand Prix,2014-03-30,Malaysia,2.76083,101.738,False,2014–21 Hybrid,1.6,True,Sepang International Circuit
+3165,2014,3.0,Bahrain Grand Prix,2014-04-06,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,2.7058823529411766,False,Bahrain International Circuit
+3172,2014,4.0,Chinese Grand Prix,2014-04-20,China,31.3389,121.22,False,2014–21 Hybrid,2.1,True,Shanghai International Circuit
+3179,2014,5.0,Spanish Grand Prix,2014-05-11,Spain,41.57,2.26111,False,2014–21 Hybrid,2.1,True,Circuit de Barcelona-Catalunya
+3186,2014,6.0,Monaco Grand Prix,2014-05-25,Monaco,43.7347,7.42056,True,2014–21 Hybrid,2.142857142857143,True,Circuit de Monaco
+3193,2014,7.0,Canadian Grand Prix,2014-06-08,Canada,45.5,-73.5228,False,2014–21 Hybrid,2.2857142857142856,False,Circuit Gilles Villeneuve
+3200,2014,8.0,Austrian Grand Prix,2014-06-22,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.1052631578947367,False,Red Bull Ring
+3207,2014,9.0,British Grand Prix,2014-07-06,UK,52.0786,-1.01694,False,2014–21 Hybrid,3.411764705882353,False,Silverstone Circuit
+3214,2014,10.0,German Grand Prix,2014-07-20,Germany,49.3278,8.56583,False,2014–21 Hybrid,2.0,True,Hockenheimring
+3221,2014,11.0,Hungarian Grand Prix,2014-07-27,Hungary,47.5789,19.2486,False,2014–21 Hybrid,3.75,False,Hungaroring
+3228,2014,12.0,Belgian Grand Prix,2014-08-24,Belgium,50.4372,5.97139,False,2014–21 Hybrid,2.6666666666666665,False,Circuit de Spa-Francorchamps
+3235,2014,13.0,Italian Grand Prix,2014-09-07,Italy,45.6156,9.28111,False,2014–21 Hybrid,1.7,True,Autodromo Nazionale di Monza
+3242,2014,14.0,Singapore Grand Prix,2014-09-21,Singapore,1.2914,103.864,True,2014–21 Hybrid,1.8823529411764706,True,Marina Bay Street Circuit
+3249,2014,15.0,Japanese Grand Prix,2014-10-05,Japan,34.8431,136.541,False,2014–21 Hybrid,2.9523809523809526,False,Suzuka Circuit
+3256,2014,16.0,Russian Grand Prix,2014-10-12,Russia,43.4057,39.9578,False,2014–21 Hybrid,2.526315789473684,True,Sochi Autodrom
+3263,2014,17.0,United States Grand Prix,2014-11-02,USA,30.1328,-97.6411,False,2014–21 Hybrid,1.8666666666666667,False,Circuit of the Americas
+3270,2014,18.0,Brazilian Grand Prix,2014-11-09,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,2.3529411764705883,True,Autódromo José Carlos Pace
+3277,2014,19.0,Abu Dhabi Grand Prix,2014-11-23,UAE,24.4672,54.6031,False,2014–21 Hybrid,4.0,False,Yas Marina Circuit
+3284,2015,1.0,Australian Grand Prix,2015-03-15,Australia,-37.8497,144.968,True,2014–21 Hybrid,1.0909090909090908,True,Albert Park Grand Prix Circuit
+3291,2015,2.0,Malaysian Grand Prix,2015-03-29,Malaysia,2.76083,101.738,False,2014–21 Hybrid,2.4,False,Sepang International Circuit
+3298,2015,3.0,Chinese Grand Prix,2015-04-12,China,31.3389,121.22,False,2014–21 Hybrid,1.2941176470588236,True,Shanghai International Circuit
+3305,2015,4.0,Bahrain Grand Prix,2015-04-19,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,1.8823529411764706,True,Bahrain International Circuit
+3312,2015,5.0,Spanish Grand Prix,2015-05-10,Spain,41.57,2.26111,False,2014–21 Hybrid,1.6666666666666667,True,Circuit de Barcelona-Catalunya
+3319,2015,6.0,Monaco Grand Prix,2015-05-24,Monaco,43.7347,7.42056,True,2014–21 Hybrid,1.125,False,Circuit de Monaco
+3326,2015,7.0,Canadian Grand Prix,2015-06-07,Canada,45.5,-73.5228,False,2014–21 Hybrid,2.588235294117647,True,Circuit Gilles Villeneuve
+3333,2015,8.0,Austrian Grand Prix,2015-06-21,Austria,47.2197,14.7647,False,2014–21 Hybrid,1.5714285714285714,False,Red Bull Ring
+3340,2015,9.0,British Grand Prix,2015-07-05,UK,52.0786,-1.01694,False,2014–21 Hybrid,1.0769230769230769,True,Silverstone Circuit
+3347,2015,10.0,Hungarian Grand Prix,2015-07-26,Hungary,47.5789,19.2486,False,2014–21 Hybrid,3.5,False,Hungaroring
+3354,2015,11.0,Belgian Grand Prix,2015-08-23,Belgium,50.4372,5.97139,False,2014–21 Hybrid,2.875,True,Circuit de Spa-Francorchamps
+3361,2015,12.0,Italian Grand Prix,2015-09-06,Italy,45.6156,9.28111,False,2014–21 Hybrid,3.6666666666666665,True,Autodromo Nazionale di Monza
+3368,2015,13.0,Singapore Grand Prix,2015-09-20,Singapore,1.2914,103.864,True,2014–21 Hybrid,1.2,True,Marina Bay Street Circuit
+3375,2015,14.0,Japanese Grand Prix,2015-09-27,Japan,34.8431,136.541,False,2014–21 Hybrid,3.1578947368421053,False,Suzuka Circuit
+3382,2015,15.0,Russian Grand Prix,2015-10-11,Russia,43.4057,39.9578,False,2014–21 Hybrid,3.6,False,Sochi Autodrom
+3389,2015,16.0,United States Grand Prix,2015-10-25,USA,30.1328,-97.6411,False,2014–21 Hybrid,2.5,False,Circuit of the Americas
+3396,2015,17.0,Mexican Grand Prix,2015-11-01,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,1.125,True,Autódromo Hermanos Rodríguez
+3403,2015,18.0,Brazilian Grand Prix,2015-11-15,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,2.0,True,Autódromo José Carlos Pace
+3410,2015,19.0,Abu Dhabi Grand Prix,2015-11-29,UAE,24.4672,54.6031,False,2014–21 Hybrid,2.1052631578947367,True,Yas Marina Circuit
+3417,2016,1.0,Australian Grand Prix,2016-03-20,Australia,-37.8497,144.968,True,2014–21 Hybrid,2.5,False,Albert Park Grand Prix Circuit
+3424,2016,2.0,Bahrain Grand Prix,2016-04-03,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,2.4705882352941178,False,Bahrain International Circuit
+3431,2016,3.0,Chinese Grand Prix,2016-04-17,China,31.3389,121.22,False,2014–21 Hybrid,2.909090909090909,True,Shanghai International Circuit
+3438,2016,4.0,Russian Grand Prix,2016-05-01,Russia,43.4057,39.9578,False,2014–21 Hybrid,3.111111111111111,True,Sochi Autodrom
+3445,2016,5.0,Spanish Grand Prix,2016-05-15,Spain,41.57,2.26111,False,2014–21 Hybrid,1.1764705882352942,False,Circuit de Barcelona-Catalunya
+3452,2016,6.0,Monaco Grand Prix,2016-05-29,Monaco,43.7347,7.42056,True,2014–21 Hybrid,1.8666666666666667,False,Circuit de Monaco
+3459,2016,7.0,Canadian Grand Prix,2016-06-12,Canada,45.5,-73.5228,False,2014–21 Hybrid,2.210526315789474,True,Circuit Gilles Villeneuve
+3466,2016,8.0,European Grand Prix,2016-06-19,Azerbaijan,40.3725,49.8533,True,2014–21 Hybrid,2.4444444444444446,True,Baku City Circuit
+3473,2016,9.0,Austrian Grand Prix,2016-07-03,Austria,47.2197,14.7647,False,2014–21 Hybrid,3.473684210526316,True,Red Bull Ring
+3480,2016,10.0,British Grand Prix,2016-07-10,UK,52.0786,-1.01694,False,2014–21 Hybrid,2.235294117647059,True,Silverstone Circuit
+3487,2016,11.0,Hungarian Grand Prix,2016-07-24,Hungary,47.5789,19.2486,False,2014–21 Hybrid,1.8095238095238095,False,Hungaroring
+3494,2016,12.0,German Grand Prix,2016-07-31,Germany,49.3278,8.56583,False,2014–21 Hybrid,1.8,False,Hockenheimring
+3501,2016,13.0,Belgian Grand Prix,2016-08-28,Belgium,50.4372,5.97139,False,2014–21 Hybrid,3.8823529411764706,True,Circuit de Spa-Francorchamps
+3508,2016,14.0,Italian Grand Prix,2016-09-04,Italy,45.6156,9.28111,False,2014–21 Hybrid,1.0,False,Autodromo Nazionale di Monza
+3515,2016,15.0,Singapore Grand Prix,2016-09-18,Singapore,1.2914,103.864,True,2014–21 Hybrid,2.5555555555555554,True,Marina Bay Street Circuit
+3522,2016,16.0,Malaysian Grand Prix,2016-10-02,Malaysia,2.76083,101.738,False,2014–21 Hybrid,2.25,False,Sepang International Circuit
+3529,2016,17.0,Japanese Grand Prix,2016-10-09,Japan,34.8431,136.541,False,2014–21 Hybrid,2.272727272727273,True,Suzuka Circuit
+3536,2016,18.0,United States Grand Prix,2016-10-23,USA,30.1328,-97.6411,False,2014–21 Hybrid,2.0,True,Circuit of the Americas
+3543,2016,19.0,Mexican Grand Prix,2016-10-30,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,1.9047619047619047,True,Autódromo Hermanos Rodríguez
+3550,2016,20.0,Brazilian Grand Prix,2016-11-13,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,2.25,True,Autódromo José Carlos Pace
+3557,2016,21.0,Abu Dhabi Grand Prix,2016-11-27,UAE,24.4672,54.6031,False,2014–21 Hybrid,1.2941176470588236,True,Yas Marina Circuit
+3564,2017,1.0,Australian Grand Prix,2017-03-26,Australia,-37.8497,144.968,True,2014–21 Hybrid,0.6153846153846154,False,Albert Park Grand Prix Circuit
+3571,2017,2.0,Chinese Grand Prix,2017-04-09,China,31.3389,121.22,False,2014–21 Hybrid,2.933333333333333,True,Shanghai International Circuit
+3578,2017,3.0,Bahrain Grand Prix,2017-04-16,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,1.8571428571428572,False,Bahrain International Circuit
+3585,2017,4.0,Russian Grand Prix,2017-04-30,Russia,43.4057,39.9578,False,2014–21 Hybrid,1.5,False,Sochi Autodrom
+3592,2017,5.0,Spanish Grand Prix,2017-05-14,Spain,41.57,2.26111,False,2014–21 Hybrid,2.875,True,Circuit de Barcelona-Catalunya
+3599,2017,6.0,Monaco Grand Prix,2017-05-28,Monaco,43.7347,7.42056,True,2014–21 Hybrid,1.8666666666666667,False,Circuit de Monaco
+3606,2017,7.0,Canadian Grand Prix,2017-06-11,Canada,45.5,-73.5228,False,2014–21 Hybrid,1.75,True,Circuit Gilles Villeneuve
+3613,2017,8.0,Azerbaijan Grand Prix,2017-06-25,Azerbaijan,40.3725,49.8533,True,2014–21 Hybrid,2.7142857142857144,False,Baku City Circuit
+3620,2017,9.0,Austrian Grand Prix,2017-07-09,Austria,47.2197,14.7647,False,2014–21 Hybrid,1.875,True,Red Bull Ring
+3627,2017,10.0,British Grand Prix,2017-07-16,UK,52.0786,-1.01694,False,2014–21 Hybrid,2.9411764705882355,True,Silverstone Circuit
+3634,2017,11.0,Hungarian Grand Prix,2017-07-30,Hungary,47.5789,19.2486,False,2014–21 Hybrid,1.411764705882353,True,Hungaroring
+3641,2017,12.0,Belgian Grand Prix,2017-08-27,Belgium,50.4372,5.97139,False,2014–21 Hybrid,2.3529411764705883,True,Circuit de Spa-Francorchamps
+3648,2017,13.0,Italian Grand Prix,2017-09-03,Italy,45.6156,9.28111,False,2014–21 Hybrid,2.888888888888889,True,Autodromo Nazionale di Monza
+3655,2017,14.0,Singapore Grand Prix,2017-09-17,Singapore,1.2914,103.864,True,2014–21 Hybrid,1.1666666666666667,False,Marina Bay Street Circuit
+3662,2017,15.0,Malaysian Grand Prix,2017-10-01,Malaysia,2.76083,101.738,False,2014–21 Hybrid,2.888888888888889,False,Sepang International Circuit
+3669,2017,16.0,Japanese Grand Prix,2017-10-08,Japan,34.8431,136.541,False,2014–21 Hybrid,2.1333333333333333,True,Suzuka Circuit
+3676,2017,17.0,United States Grand Prix,2017-10-22,USA,30.1328,-97.6411,False,2014–21 Hybrid,2.125,True,Circuit of the Americas
+3683,2017,18.0,Mexican Grand Prix,2017-10-29,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,2.533333333333333,False,Autódromo Hermanos Rodríguez
+3690,2017,19.0,Brazilian Grand Prix,2017-11-12,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,3.0,False,Autódromo José Carlos Pace
+3697,2017,20.0,Abu Dhabi Grand Prix,2017-11-26,UAE,24.4672,54.6031,False,2014–21 Hybrid,1.0,True,Yas Marina Circuit
+3704,2018,1.0,Australian Grand Prix,2018-03-25,Australia,-37.8497,144.968,True,2014–21 Hybrid,1.8666666666666667,False,Albert Park Grand Prix Circuit
+3711,2018,2.0,Bahrain Grand Prix,2018-04-08,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,2.823529411764706,True,Bahrain International Circuit
+3718,2018,3.0,Chinese Grand Prix,2018-04-15,China,31.3389,121.22,False,2014–21 Hybrid,2.5,False,Shanghai International Circuit
+3725,2018,4.0,Azerbaijan Grand Prix,2018-04-29,Azerbaijan,40.3725,49.8533,True,2014–21 Hybrid,1.5384615384615385,False,Baku City Circuit
+3732,2018,5.0,Spanish Grand Prix,2018-05-13,Spain,41.57,2.26111,False,2014–21 Hybrid,0.8571428571428571,True,Circuit de Barcelona-Catalunya
+3739,2018,6.0,Monaco Grand Prix,2018-05-27,Monaco,43.7347,7.42056,True,2014–21 Hybrid,2.0,True,Circuit de Monaco
+3746,2018,7.0,Canadian Grand Prix,2018-06-10,Canada,45.5,-73.5228,False,2014–21 Hybrid,1.6470588235294117,True,Circuit Gilles Villeneuve
+3753,2018,8.0,French Grand Prix,2018-06-24,France,43.2506,5.79167,False,2014–21 Hybrid,1.8823529411764706,True,Circuit Paul Ricard
+3760,2018,9.0,Austrian Grand Prix,2018-07-01,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.533333333333333,False,Red Bull Ring
+3767,2018,10.0,British Grand Prix,2018-07-08,UK,52.0786,-1.01694,False,2014–21 Hybrid,1.1428571428571428,False,Silverstone Circuit
+3774,2018,11.0,German Grand Prix,2018-07-22,Germany,49.3278,8.56583,False,2014–21 Hybrid,3.625,False,Hockenheimring
+3781,2018,12.0,Hungarian Grand Prix,2018-07-29,Hungary,47.5789,19.2486,False,2014–21 Hybrid,2.0,True,Hungaroring
+3788,2018,13.0,Belgian Grand Prix,2018-08-26,Belgium,50.4372,5.97139,False,2014–21 Hybrid,2.0,False,Circuit de Spa-Francorchamps
+3795,2018,14.0,Italian Grand Prix,2018-09-02,Italy,45.6156,9.28111,False,2014–21 Hybrid,2.125,False,Autodromo Nazionale di Monza
+3802,2018,15.0,Singapore Grand Prix,2018-09-16,Singapore,1.2914,103.864,True,2014–21 Hybrid,2.3157894736842106,True,Marina Bay Street Circuit
+3809,2018,16.0,Russian Grand Prix,2018-09-30,Russia,43.4057,39.9578,False,2014–21 Hybrid,3.0,False,Sochi Autodrom
+3816,2018,17.0,Japanese Grand Prix,2018-10-07,Japan,34.8431,136.541,False,2014–21 Hybrid,2.588235294117647,True,Suzuka Circuit
+3823,2018,18.0,United States Grand Prix,2018-10-21,USA,30.1328,-97.6411,False,2014–21 Hybrid,2.4285714285714284,False,Circuit of the Americas
+3830,2018,19.0,Mexican Grand Prix,2018-10-28,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,1.875,False,Autódromo Hermanos Rodríguez
+3837,2018,20.0,Brazilian Grand Prix,2018-11-11,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,2.2222222222222223,True,Autódromo José Carlos Pace
+3844,2018,21.0,Abu Dhabi Grand Prix,2018-11-25,UAE,24.4672,54.6031,False,2014–21 Hybrid,1.2,True,Yas Marina Circuit
+3851,2019,1.0,Australian Grand Prix,2019-03-17,Australia,-37.8497,144.968,True,2014–21 Hybrid,2.0,False,Albert Park Grand Prix Circuit
+3858,2019,2.0,Bahrain Grand Prix,2019-03-31,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,1.5,False,Bahrain International Circuit
+3865,2019,3.0,Chinese Grand Prix,2019-04-14,China,31.3389,121.22,False,2014–21 Hybrid,1.411764705882353,False,Shanghai International Circuit
+3872,2019,4.0,Azerbaijan Grand Prix,2019-04-28,Azerbaijan,40.3725,49.8533,True,2014–21 Hybrid,1.1428571428571428,True,Baku City Circuit
+3879,2019,5.0,Spanish Grand Prix,2019-05-12,Spain,41.57,2.26111,False,2014–21 Hybrid,0.9411764705882353,False,Circuit de Barcelona-Catalunya
+3886,2019,6.0,Monaco Grand Prix,2019-05-26,Monaco,43.7347,7.42056,True,2014–21 Hybrid,2.210526315789474,True,Circuit de Monaco
+3893,2019,7.0,Canadian Grand Prix,2019-06-09,Canada,45.5,-73.5228,False,2014–21 Hybrid,1.5294117647058822,False,Circuit Gilles Villeneuve
+3900,2019,8.0,French Grand Prix,2019-06-23,France,43.2506,5.79167,False,2014–21 Hybrid,2.4,True,Circuit Paul Ricard
+3907,2019,9.0,Austrian Grand Prix,2019-06-30,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.6315789473684212,False,Red Bull Ring
+3914,2019,10.0,British Grand Prix,2019-07-14,UK,52.0786,-1.01694,False,2014–21 Hybrid,2.588235294117647,False,Silverstone Circuit
+3921,2019,11.0,German Grand Prix,2019-07-28,Germany,49.3278,8.56583,False,2014–21 Hybrid,5.0,False,Hockenheimring
+3928,2019,12.0,Hungarian Grand Prix,2019-08-04,Hungary,47.5789,19.2486,False,2014–21 Hybrid,2.0,False,Hungaroring
+3935,2019,13.0,Belgian Grand Prix,2019-09-01,Belgium,50.4372,5.97139,False,2014–21 Hybrid,3.764705882352941,True,Circuit de Spa-Francorchamps
+3942,2019,14.0,Italian Grand Prix,2019-09-08,Italy,45.6156,9.28111,False,2014–21 Hybrid,3.25,True,Autodromo Nazionale di Monza
+3949,2019,15.0,Singapore Grand Prix,2019-09-22,Singapore,1.2914,103.864,True,2014–21 Hybrid,1.8823529411764706,False,Marina Bay Street Circuit
+3956,2019,16.0,Russian Grand Prix,2019-09-29,Russia,43.4057,39.9578,False,2014–21 Hybrid,1.8571428571428572,False,Sochi Autodrom
+3963,2019,17.0,Japanese Grand Prix,2019-10-13,Japan,34.8431,136.541,False,2014–21 Hybrid,2.25,False,Suzuka Circuit
+3970,2019,18.0,Mexican Grand Prix,2019-10-27,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,1.7777777777777777,False,Autódromo Hermanos Rodríguez
+3977,2019,19.0,United States Grand Prix,2019-11-03,USA,30.1328,-97.6411,False,2014–21 Hybrid,1.8823529411764706,True,Circuit of the Americas
+3984,2019,20.0,Brazilian Grand Prix,2019-11-17,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,5.2631578947368425,True,Autódromo José Carlos Pace
+3991,2019,21.0,Abu Dhabi Grand Prix,2019-12-01,UAE,24.4672,54.6031,False,2014–21 Hybrid,2.526315789473684,True,Yas Marina Circuit
+3998,2020,1.0,Austrian Grand Prix,2020-07-05,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.4615384615384617,True,Red Bull Ring
+4005,2020,2.0,Styrian Grand Prix,2020-07-12,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.875,True,Red Bull Ring
+4012,2020,3.0,Hungarian Grand Prix,2020-07-19,Hungary,47.5789,19.2486,False,2014–21 Hybrid,2.588235294117647,True,Hungaroring
+4019,2020,4.0,British Grand Prix,2020-08-02,UK,52.0786,-1.01694,False,2014–21 Hybrid,2.7058823529411766,True,Silverstone Circuit
+4026,2020,5.0,70th Anniversary Grand Prix,2020-08-09,UK,52.0786,-1.01694,False,2014–21 Hybrid,3.0526315789473686,False,Silverstone Circuit
+4033,2020,6.0,Spanish Grand Prix,2020-08-16,Spain,41.57,2.26111,False,2014–21 Hybrid,1.1578947368421053,True,Circuit de Barcelona-Catalunya
+4040,2020,7.0,Belgian Grand Prix,2020-08-30,Belgium,50.4372,5.97139,False,2014–21 Hybrid,0.9411764705882353,True,Circuit de Spa-Francorchamps
+4047,2020,8.0,Italian Grand Prix,2020-09-06,Italy,45.6156,9.28111,False,2014–21 Hybrid,3.125,False,Autodromo Nazionale di Monza
+4054,2020,9.0,Tuscan Grand Prix,2020-09-13,Italy,43.9975,11.3719,False,2014–21 Hybrid,0.8333333333333334,True,Autodromo Internazionale del Mugello
+4061,2020,10.0,Russian Grand Prix,2020-09-27,Russia,43.4057,39.9578,False,2014–21 Hybrid,2.5555555555555554,False,Sochi Autodrom
+4068,2020,11.0,Eifel Grand Prix,2020-10-11,Germany,50.3356,6.9475,False,2014–21 Hybrid,2.2666666666666666,False,Nürburgring
+4075,2020,12.0,Portuguese Grand Prix,2020-10-25,Portugal,37.227,-8.6267,False,2014–21 Hybrid,2.210526315789474,True,Autódromo Internacional do Algarve
+4082,2020,13.0,Emilia Romagna Grand Prix,2020-11-01,Italy,44.3439,11.7167,False,2014–21 Hybrid,2.533333333333333,False,Autodromo Enzo e Dino Ferrari
+4089,2020,14.0,Turkish Grand Prix,2020-11-15,Turkey,40.9517,29.405,False,2014–21 Hybrid,5.0,False,Istanbul Park
+4096,2020,15.0,Bahrain Grand Prix,2020-11-29,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,2.888888888888889,True,Bahrain International Circuit
+4103,2020,16.0,Sakhir Grand Prix,2020-12-06,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,3.176470588235294,False,Bahrain International Circuit
+4110,2020,17.0,Abu Dhabi Grand Prix,2020-12-13,UAE,24.4672,54.6031,False,2014–21 Hybrid,1.368421052631579,True,Yas Marina Circuit
+4117,2021,1.0,Bahrain Grand Prix,2021-03-28,Bahrain,26.0325,50.5106,False,2014–21 Hybrid,1.8823529411764706,False,Bahrain International Circuit
+4124,2021,2.0,Emilia Romagna Grand Prix,2021-04-18,Italy,44.3439,11.7167,False,2014–21 Hybrid,2.125,False,Autodromo Enzo e Dino Ferrari
+4131,2021,3.0,Portuguese Grand Prix,2021-05-02,Portugal,37.227,-8.6267,False,2014–21 Hybrid,2.1052631578947367,False,Autódromo Internacional do Algarve
+4138,2021,4.0,Spanish Grand Prix,2021-05-09,Spain,41.57,2.26111,False,2014–21 Hybrid,1.4736842105263157,True,Circuit de Barcelona-Catalunya
+4145,2021,5.0,Monaco Grand Prix,2021-05-23,Monaco,43.7347,7.42056,True,2014–21 Hybrid,1.2222222222222223,False,Circuit de Monaco
+4152,2021,6.0,Azerbaijan Grand Prix,2021-06-06,Azerbaijan,40.3725,49.8533,True,2014–21 Hybrid,3.375,False,Baku City Circuit
+4159,2021,7.0,French Grand Prix,2021-06-20,France,43.2506,5.79167,False,2014–21 Hybrid,2.526315789473684,True,Circuit Paul Ricard
+4166,2021,8.0,Styrian Grand Prix,2021-06-27,Austria,47.2197,14.7647,False,2014–21 Hybrid,1.4444444444444444,True,Red Bull Ring
+4173,2021,9.0,Austrian Grand Prix,2021-07-04,Austria,47.2197,14.7647,False,2014–21 Hybrid,2.6315789473684212,True,Red Bull Ring
+4180,2021,10.0,British Grand Prix,2021-07-18,UK,52.0786,-1.01694,False,2014–21 Hybrid,1.5294117647058822,False,Silverstone Circuit
+4187,2021,11.0,Hungarian Grand Prix,2021-08-01,Hungary,47.5789,19.2486,False,2014–21 Hybrid,3.0,False,Hungaroring
+4194,2021,12.0,Belgian Grand Prix,2021-08-29,Belgium,50.4372,5.97139,False,2014–21 Hybrid,0.0,True,Circuit de Spa-Francorchamps
+4201,2021,13.0,Dutch Grand Prix,2021-09-05,Netherlands,52.3888,4.54092,False,2014–21 Hybrid,1.375,True,Circuit Park Zandvoort
+4208,2021,14.0,Italian Grand Prix,2021-09-12,Italy,45.6156,9.28111,False,2014–21 Hybrid,2.1333333333333333,False,Autodromo Nazionale di Monza
+4215,2021,15.0,Russian Grand Prix,2021-09-26,Russia,43.4057,39.9578,False,2014–21 Hybrid,4.105263157894737,False,Sochi Autodrom
+4222,2021,16.0,Turkish Grand Prix,2021-10-10,Turkey,40.9517,29.405,False,2014–21 Hybrid,3.9,True,Istanbul Park
+4229,2021,17.0,United States Grand Prix,2021-10-24,USA,30.1328,-97.6411,False,2014–21 Hybrid,1.411764705882353,True,Circuit of the Americas
+4236,2021,18.0,Mexico City Grand Prix,2021-11-07,Mexico,19.4042,-99.0907,False,2014–21 Hybrid,3.111111111111111,False,Autódromo Hermanos Rodríguez
+4243,2021,19.0,São Paulo Grand Prix,2021-11-14,Brazil,-23.7036,-46.6997,False,2014–21 Hybrid,1.8823529411764706,False,Autódromo José Carlos Pace
+4250,2021,20.0,Qatar Grand Prix,2021-11-21,Qatar,25.49,51.4542,False,2014–21 Hybrid,2.888888888888889,True,Lusail International Circuit
+4257,2021,21.0,Saudi Arabian Grand Prix,2021-12-05,Saudi Arabia,21.6319,39.1044,True,2014–21 Hybrid,2.8,True,Jeddah Corniche Circuit
+4264,2021,22.0,Abu Dhabi Grand Prix,2021-12-12,UAE,24.4672,54.6031,False,2014–21 Hybrid,2.6666666666666665,True,Yas Marina Circuit
+4271,2022,1.0,Bahrain Grand Prix,2022-03-20,Bahrain,26.0325,50.5106,False,2022–25 Ground-effect,3.789473684210526,True,Bahrain International Circuit
+4278,2022,2.0,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,21.6319,39.1044,True,2022–25 Ground-effect,1.4285714285714286,False,Jeddah Corniche Circuit
+4285,2022,3.0,Australian Grand Prix,2022-04-10,Australia,-37.8497,144.968,True,2022–25 Ground-effect,1.8823529411764706,True,Albert Park Grand Prix Circuit
+4292,2022,4.0,Emilia Romagna Grand Prix,2022-04-24,Italy,44.3439,11.7167,False,2022–25 Ground-effect,3.176470588235294,True,Autodromo Enzo e Dino Ferrari
+4299,2022,5.0,Miami Grand Prix,2022-05-08,USA,25.9581,-80.2389,True,2022–25 Ground-effect,2.4,False,Miami International Autodrome
+4306,2022,6.0,Spanish Grand Prix,2022-05-22,Spain,41.57,2.26111,False,2022–25 Ground-effect,2.5555555555555554,False,Circuit de Barcelona-Catalunya
+4313,2022,7.0,Monaco Grand Prix,2022-05-29,Monaco,43.7347,7.42056,True,2022–25 Ground-effect,1.5294117647058822,False,Circuit de Monaco
+4320,2022,8.0,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,40.3725,49.8533,True,2022–25 Ground-effect,1.375,False,Baku City Circuit
+4327,2022,9.0,Canadian Grand Prix,2022-06-19,Canada,45.5,-73.5228,False,2022–25 Ground-effect,3.2941176470588234,True,Circuit Gilles Villeneuve
+4334,2022,10.0,British Grand Prix,2022-07-03,UK,52.0786,-1.01694,False,2022–25 Ground-effect,2.5714285714285716,True,Silverstone Circuit
+4341,2022,11.0,Austrian Grand Prix,2022-07-10,Austria,47.2197,14.7647,False,2022–25 Ground-effect,1.75,False,Red Bull Ring
+4348,2022,12.0,French Grand Prix,2022-07-24,France,43.2506,5.79167,False,2022–25 Ground-effect,2.125,False,Circuit Paul Ricard
+4355,2022,13.0,Hungarian Grand Prix,2022-07-31,Hungary,47.5789,19.2486,False,2022–25 Ground-effect,3.789473684210526,False,Hungaroring
+4362,2022,14.0,Belgian Grand Prix,2022-08-28,Belgium,50.4372,5.97139,False,2022–25 Ground-effect,3.625,False,Circuit de Spa-Francorchamps
+4369,2022,15.0,Dutch Grand Prix,2022-09-04,Netherlands,52.3888,4.54092,False,2022–25 Ground-effect,2.0,True,Circuit Park Zandvoort
+4376,2022,16.0,Italian Grand Prix,2022-09-11,Italy,45.6156,9.28111,False,2022–25 Ground-effect,3.75,False,Autodromo Nazionale di Monza
+4383,2022,17.0,Singapore Grand Prix,2022-10-02,Singapore,1.2914,103.864,True,2022–25 Ground-effect,2.769230769230769,False,Marina Bay Street Circuit
+4390,2022,18.0,Japanese Grand Prix,2022-10-09,Japan,34.8431,136.541,False,2022–25 Ground-effect,2.111111111111111,True,Suzuka Circuit
+4397,2022,19.0,United States Grand Prix,2022-10-23,USA,30.1328,-97.6411,False,2022–25 Ground-effect,2.875,False,Circuit of the Americas
+4404,2022,20.0,Mexico City Grand Prix,2022-10-30,Mexico,19.4042,-99.0907,False,2022–25 Ground-effect,2.210526315789474,True,Autódromo Hermanos Rodríguez
+4411,2022,21.0,São Paulo Grand Prix,2022-11-13,Brazil,-23.7036,-46.6997,False,2022–25 Ground-effect,2.875,True,Autódromo José Carlos Pace
+4418,2022,22.0,Abu Dhabi Grand Prix,2022-11-20,UAE,24.4672,54.6031,False,2022–25 Ground-effect,2.4210526315789473,True,Yas Marina Circuit
+4425,2023,1.0,Bahrain Grand Prix,2023-03-05,Bahrain,26.0325,50.5106,False,2022–25 Ground-effect,2.7058823529411766,True,Bahrain International Circuit
+4432,2023,2.0,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,21.6319,39.1044,True,2022–25 Ground-effect,3.0,True,Jeddah Corniche Circuit
+4439,2023,3.0,Australian Grand Prix,2023-04-02,Australia,-37.8497,144.968,True,2022–25 Ground-effect,3.764705882352941,True,Albert Park Grand Prix Circuit
+4446,2023,4.0,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,40.3725,49.8533,True,2022–25 Ground-effect,1.7777777777777777,False,Baku City Circuit
+4455,2023,5.0,Miami Grand Prix,2023-05-07,USA,25.9581,-80.2389,True,2022–25 Ground-effect,2.9,False,Miami International Autodrome
+4462,2023,6.0,Monaco Grand Prix,2023-05-28,Monaco,43.7347,7.42056,True,2022–25 Ground-effect,1.7894736842105263,True,Circuit de Monaco
+4469,2023,7.0,Spanish Grand Prix,2023-06-04,Spain,41.57,2.26111,False,2022–25 Ground-effect,3.6,True,Circuit de Barcelona-Catalunya
+4476,2023,8.0,Canadian Grand Prix,2023-06-18,Canada,45.5,-73.5228,False,2022–25 Ground-effect,3.5555555555555554,True,Circuit Gilles Villeneuve
+4483,2023,9.0,Austrian Grand Prix,2023-07-02,Austria,47.2197,14.7647,False,2022–25 Ground-effect,2.736842105263158,True,Red Bull Ring
+4492,2023,10.0,British Grand Prix,2023-07-09,UK,52.0786,-1.01694,False,2022–25 Ground-effect,2.6666666666666665,True,Silverstone Circuit
+4499,2023,11.0,Hungarian Grand Prix,2023-07-23,Hungary,47.5789,19.2486,False,2022–25 Ground-effect,3.0,False,Hungaroring
+4506,2023,12.0,Belgian Grand Prix,2023-07-30,Belgium,50.4372,5.97139,False,2022–25 Ground-effect,1.3333333333333333,False,Circuit de Spa-Francorchamps
+4515,2023,13.0,Dutch Grand Prix,2023-08-27,Netherlands,52.3888,4.54092,False,2022–25 Ground-effect,3.25,True,Circuit Park Zandvoort
+4522,2023,14.0,Italian Grand Prix,2023-09-03,Italy,45.6156,9.28111,False,2022–25 Ground-effect,1.7777777777777777,False,Autodromo Nazionale di Monza
+4529,2023,15.0,Singapore Grand Prix,2023-09-17,Singapore,1.2914,103.864,True,2022–25 Ground-effect,4.0,True,Marina Bay Street Circuit
+4536,2023,16.0,Japanese Grand Prix,2023-09-24,Japan,34.8431,136.541,False,2022–25 Ground-effect,1.2,True,Suzuka Circuit
+4543,2023,17.0,Qatar Grand Prix,2023-10-08,Qatar,25.49,51.4542,False,2022–25 Ground-effect,3.0588235294117645,True,Lusail International Circuit
+4552,2023,18.0,United States Grand Prix,2023-10-22,USA,30.1328,-97.6411,False,2022–25 Ground-effect,4.235294117647059,False,Circuit of the Americas
+4561,2023,19.0,Mexico City Grand Prix,2023-10-29,Mexico,19.4042,-99.0907,False,2022–25 Ground-effect,3.0,False,Autódromo Hermanos Rodríguez
+4568,2023,20.0,São Paulo Grand Prix,2023-11-05,Brazil,-23.7036,-46.6997,False,2022–25 Ground-effect,2.2857142857142856,True,Autódromo José Carlos Pace
+4577,2023,21.0,Las Vegas Grand Prix,2023-11-19,USA,36.1147,-115.173,True,2022–25 Ground-effect,5.368421052631579,False,Las Vegas Strip Street Circuit
+4584,2023,22.0,Abu Dhabi Grand Prix,2023-11-26,UAE,24.4672,54.6031,False,2022–25 Ground-effect,2.1,True,Yas Marina Circuit
+4591,2024,1.0,Bahrain Grand Prix,2024-03-02,Bahrain,26.0325,50.5106,False,2022–25 Ground-effect,2.3,True,Bahrain International Circuit
+4598,2024,2.0,Saudi Arabian Grand Prix,2024-03-09,Saudi Arabia,21.6319,39.1044,True,2022–25 Ground-effect,1.7777777777777777,True,Jeddah Corniche Circuit
+4605,2024,3.0,Australian Grand Prix,2024-03-24,Australia,-37.8497,144.968,True,2022–25 Ground-effect,2.235294117647059,False,Albert Park Grand Prix Circuit
+4612,2024,4.0,Japanese Grand Prix,2024-04-07,Japan,34.8431,136.541,False,2022–25 Ground-effect,1.411764705882353,True,Suzuka Circuit
+4619,2024,5.0,Chinese Grand Prix,2024-04-21,China,31.3389,121.22,False,2022–25 Ground-effect,1.7647058823529411,True,Shanghai International Circuit
+4628,2024,6.0,Miami Grand Prix,2024-05-05,USA,25.9581,-80.2389,True,2022–25 Ground-effect,2.736842105263158,False,Miami International Autodrome
+4637,2024,7.0,Emilia Romagna Grand Prix,2024-05-19,Italy,44.3439,11.7167,False,2022–25 Ground-effect,1.7894736842105263,True,Autodromo Enzo e Dino Ferrari
+4644,2024,8.0,Monaco Grand Prix,2024-05-26,Monaco,43.7347,7.42056,True,2022–25 Ground-effect,0.5,True,Circuit de Monaco
+4651,2024,9.0,Canadian Grand Prix,2024-06-09,Canada,45.5,-73.5228,False,2022–25 Ground-effect,1.8666666666666667,False,Circuit Gilles Villeneuve
+4658,2024,10.0,Spanish Grand Prix,2024-06-23,Spain,41.57,2.26111,False,2022–25 Ground-effect,1.5,False,Circuit de Barcelona-Catalunya
+4665,2024,11.0,Austrian Grand Prix,2024-06-30,Austria,47.2197,14.7647,False,2022–25 Ground-effect,3.2,False,Red Bull Ring
+4674,2024,12.0,British Grand Prix,2024-07-07,UK,52.0786,-1.01694,False,2022–25 Ground-effect,1.3333333333333333,False,Silverstone Circuit
+4681,2024,13.0,Hungarian Grand Prix,2024-07-21,Hungary,47.5789,19.2486,False,2022–25 Ground-effect,2.6315789473684212,False,Hungaroring
+4688,2024,14.0,Belgian Grand Prix,2024-07-28,Belgium,50.4372,5.97139,False,2022–25 Ground-effect,2.8421052631578947,False,Circuit de Spa-Francorchamps
+4695,2024,15.0,Dutch Grand Prix,2024-08-25,Netherlands,52.3888,4.54092,False,2022–25 Ground-effect,2.5,True,Circuit Park Zandvoort
+4702,2024,16.0,Italian Grand Prix,2024-09-01,Italy,45.6156,9.28111,False,2022–25 Ground-effect,1.894736842105263,False,Autodromo Nazionale di Monza
+4709,2024,17.0,Azerbaijan Grand Prix,2024-09-15,Azerbaijan,40.3725,49.8533,True,2022–25 Ground-effect,3.8947368421052633,False,Baku City Circuit
+4716,2024,18.0,Singapore Grand Prix,2024-09-22,Singapore,1.2914,103.864,True,2022–25 Ground-effect,2.1052631578947367,True,Marina Bay Street Circuit
+4723,2024,19.0,United States Grand Prix,2024-10-20,USA,30.1328,-97.6411,False,2022–25 Ground-effect,3.789473684210526,False,Circuit of the Americas
+4732,2024,20.0,Mexico City Grand Prix,2024-10-27,Mexico,19.4042,-99.0907,False,2022–25 Ground-effect,1.625,True,Autódromo Hermanos Rodríguez
+4739,2024,21.0,São Paulo Grand Prix,2024-11-03,Brazil,-23.7036,-46.6997,False,2022–25 Ground-effect,3.6,False,Autódromo José Carlos Pace
+4748,2024,22.0,Las Vegas Grand Prix,2024-11-23,USA,36.1147,-115.173,True,2022–25 Ground-effect,2.2222222222222223,True,Las Vegas Strip Street Circuit
+4755,2024,23.0,Qatar Grand Prix,2024-12-01,Qatar,25.49,51.4542,False,2022–25 Ground-effect,2.2666666666666666,False,Lusail International Circuit
+4764,2024,24.0,Abu Dhabi Grand Prix,2024-12-08,UAE,24.4672,54.6031,False,2022–25 Ground-effect,3.6470588235294117,True,Yas Marina Circuit
+4777,2025,1.0,Australian Grand Prix,2025-03-16,Australia,-37.8497,144.968,True,2022–25 Ground-effect,2.7142857142857144,True,Albert Park Grand Prix Circuit
+4786,2025,2.0,Chinese Grand Prix,2025-03-23,China,31.3389,121.22,False,2022–25 Ground-effect,2.625,True,Shanghai International Circuit
+4793,2025,3.0,Japanese Grand Prix,2025-04-06,Japan,34.8431,136.541,False,2022–25 Ground-effect,0.9,True,Suzuka Circuit
+4800,2025,4.0,Bahrain Grand Prix,2025-04-13,Bahrain,26.0325,50.5106,False,2022–25 Ground-effect,2.5555555555555554,True,Bahrain International Circuit
+4807,2025,5.0,Saudi Arabian Grand Prix,2025-04-20,Saudi Arabia,21.6319,39.1044,True,2022–25 Ground-effect,1.3333333333333333,False,Jeddah Corniche Circuit
+4816,2025,6.0,Miami Grand Prix,2025-05-04,USA,25.9581,-80.2389,True,2022–25 Ground-effect,1.875,False,Miami International Autodrome
+4823,2025,7.0,Emilia Romagna Grand Prix,2025-05-18,Italy,44.3439,11.7167,False,2022–25 Ground-effect,3.3333333333333335,False,Autodromo Enzo e Dino Ferrari
+4830,2025,8.0,Monaco Grand Prix,2025-05-25,Monaco,43.7347,7.42056,True,2022–25 Ground-effect,1.6666666666666667,True,Circuit de Monaco
+4837,2025,9.0,Spanish Grand Prix,2025-06-01,Spain,41.57,2.26111,False,2022–25 Ground-effect,2.1176470588235294,True,Circuit de Barcelona-Catalunya
+4844,2025,10.0,Canadian Grand Prix,2025-06-15,Canada,45.5,-73.5228,False,2022–25 Ground-effect,2.6666666666666665,True,Circuit Gilles Villeneuve
+4851,2025,11.0,Austrian Grand Prix,2025-06-29,Austria,47.2197,14.7647,False,2022–25 Ground-effect,1.875,True,Red Bull Ring
+4858,2025,12.0,British Grand Prix,2025-07-06,UK,52.0786,-1.01694,False,2022–25 Ground-effect,3.8666666666666667,False,Silverstone Circuit
+4867,2025,13.0,Belgian Grand Prix,2025-07-27,Belgium,50.4372,5.97139,False,2022–25 Ground-effect,2.9,False,Circuit de Spa-Francorchamps
+4874,2025,14.0,Hungarian Grand Prix,2025-08-03,Hungary,47.5789,19.2486,False,2022–25 Ground-effect,1.894736842105263,False,Hungaroring
+4881,2025,15.0,Dutch Grand Prix,2025-08-31,Netherlands,52.3888,4.54092,False,2022–25 Ground-effect,4.888888888888889,True,Circuit Park Zandvoort
+4888,2025,16.0,Italian Grand Prix,2025-09-07,Italy,45.6156,9.28111,False,2022–25 Ground-effect,2.111111111111111,True,Autodromo Nazionale di Monza
+4895,2025,17.0,Azerbaijan Grand Prix,2025-09-21,Azerbaijan,40.3725,49.8533,True,2022–25 Ground-effect,2.0,True,Baku City Circuit
+4902,2025,18.0,Singapore Grand Prix,2025-10-05,Singapore,1.2914,103.864,True,2022–25 Ground-effect,2.3,True,Marina Bay Street Circuit
+4950,2025,19.0,United States Grand Prix,2025-10-19,USA,30.1328,-97.6411,False,2022–25 Ground-effect,2.3157894736842106,True,Circuit of the Americas
+4916,2025,20.0,Mexico City Grand Prix,2025-10-26,Mexico,19.4042,-99.0907,False,2022–25 Ground-effect,2.235294117647059,True,Autódromo Hermanos Rodríguez
+4925,2025,21.0,São Paulo Grand Prix,2025-11-09,Brazil,-23.7036,-46.6997,False,2022–25 Ground-effect,2.3529411764705883,True,Autódromo José Carlos Pace
+4932,2025,22.0,Las Vegas Grand Prix,2025-11-22,USA,36.1147,-115.173,True,2022–25 Ground-effect,3.6,False,Las Vegas Strip Street Circuit
+4941,2025,23.0,Qatar Grand Prix,2025-11-30,Qatar,25.49,51.4542,False,2022–25 Ground-effect,2.888888888888889,False,Lusail International Circuit
+4948,2025,24.0,Abu Dhabi Grand Prix,2025-12-07,UAE,24.4672,54.6031,False,2022–25 Ground-effect,2.6,True,Yas Marina Circuit

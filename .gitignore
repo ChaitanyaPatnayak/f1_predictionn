@@ -1,0 +1,23 @@
+# Dependencies and build output (recreate with `npm install` / `npm run build`)
+node_modules/
+dist/
+
+# Large files kept out of the repo
+*.mp4
+F1_Case_Study.html
+outputs/
+powerbi/data/Results.csv
+data/formula_one_sessionentry.csv
+data/formula_one_driverchampionship.csv
+data/formula_one_roundentry.csv
+
+# Local and editor files
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+*.pbix.bak

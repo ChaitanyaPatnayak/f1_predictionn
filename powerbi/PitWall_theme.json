@@ -1,0 +1,43 @@
+{
+  "name": "Pit Wall",
+  "dataColors": ["#FF2C2C", "#F5F5F5", "#9A9A9A", "#B31E1E", "#6B6B6B", "#FF8A80", "#D9D9D9", "#454545", "#7A1414", "#C4C4C4"],
+  "background": "#161616",
+  "foreground": "#F5F5F5",
+  "tableAccent": "#FF2C2C",
+  "good": "#F5F5F5",
+  "neutral": "#9A9A9A",
+  "bad": "#FF2C2C",
+  "maximum": "#FF2C2C",
+  "center": "#6B6B6B",
+  "minimum": "#2A0F0F",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#F5F5F5" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#F5F5F5" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#BDBDBD" },
+    "callout": { "fontFace": "Segoe UI Light", "fontSize": 32, "color": "#F5F5F5" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#161616" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#2B2B2B" } }, "radius": 10 }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#F5F5F5" } }, "fontSize": 12 }],
+        "categoryAxis": [{ "labelColor": { "solid": { "color": "#9A9A9A" } }, "gridlineColor": { "solid": { "color": "#262626" } } }],
+        "valueAxis": [{ "labelColor": { "solid": { "color": "#9A9A9A" } }, "gridlineColor": { "solid": { "color": "#262626" } } }],
+        "legend": [{ "labelColor": { "solid": { "color": "#BDBDBD" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#0A0A0A" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#0A0A0A" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#FF2C2C" } }, "fontSize": 30 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#9A9A9A" } } }]
+      }
+    }
+  }
+}

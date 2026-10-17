@@ -1,0 +1,65 @@
+// Pit Wall · DAX measures
+// In Power BI: Modeling > New measure, paste ONE measure at a time (name = expression).
+// Create them inside the Results table (or a blank "_Measures" table).
+
+Races = DISTINCTCOUNT ( Results[race_id] )
+
+Entries = COUNTROWS ( Results )
+
+Wins = CALCULATE ( COUNTROWS ( Results ), Results[won] = TRUE () )
+
+Podiums = CALCULATE ( COUNTROWS ( Results ), Results[podium] = TRUE () )
+
+Win Rate = DIVIDE ( [Wins], [Entries] )
+
+Finish Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Results ), Results[outcome] = "Running at finish" ),
+    [Entries]
+)
+
+Mechanical Failure Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Results ), Results[outcome] = "Mechanical failure" ),
+    [Entries]
+)
+
+Accident Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Results ), Results[outcome] = "Accident" ),
+    [Entries]
+)
+
+Pole Conversion =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Results ), Results[pole] = TRUE (), Results[won] = TRUE () ),
+    CALCULATE ( COUNTROWS ( Results ), Results[pole] = TRUE () )
+)
+
+Avg Positions Gained = AVERAGE ( Results[positions_gained] )
+
+Win Share = DIVIDE ( [Wins], CALCULATE ( [Wins], ALL ( Results[team] ) ) )
+
+// Herfindahl–Hirschman Index of race wins (10,000 = one team wins everything)
+HHI =
+SUMX (
+    VALUES ( Results[team] ),
+    ( 100 * DIVIDE ( CALCULATE ( [Wins] ), CALCULATE ( [Wins], ALL ( Results[team] ) ) ) ) ^ 2
+)
+
+Effective Winning Teams = DIVIDE ( 10000, [HHI] )
+
+// Regression model, tested on the unseen 2024–2025 seasons
+Model MAE = AVERAGE ( Predictions[abs_error] )
+
+Grid Baseline MAE = AVERAGE ( Predictions[grid_baseline_error] )
+
+Model Improvement vs Grid = 1 - DIVIDE ( [Model MAE], [Grid Baseline MAE] )
+
+Model R2 =
+VAR m = AVERAGE ( Predictions[actual_position] )
+RETURN
+    1 - DIVIDE (
+        SUMX ( Predictions, ( Predictions[actual_position] - Predictions[predicted_position] ) ^ 2 ),
+        SUMX ( Predictions, ( Predictions[actual_position] - m ) ^ 2 )
+    )

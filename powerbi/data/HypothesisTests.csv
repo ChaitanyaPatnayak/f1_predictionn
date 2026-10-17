@@ -1,0 +1,14 @@
+﻿question,hypothesis,test,p_value,decision,key_result
+Q1,Does grid position decide the result?,Kruskal–Wallis,8.9e-09,Reject H0,Grid–finish correlation ≈ 0.8 since 2000
+Q2,Hybrid era: does pole convert more often? (A/B),Two-proportion z-test,0.35,Fail to reject H0,49.4% vs 53.6%
+Q3,Is Monaco won on Saturday?,Two-proportion z-test,0.6,Fail to reject H0,Pole converts 46.5% vs 43.3%
+Q4,Is F1 more dominated by one team? (since 1980),Kendall's tau,0.0095,Reject H0,"HHI rising, 2.1 effective teams in 2020s"
+Q5,Car or driver?,Nested ANOVA,0.0,Reject H0,Car 60.4% vs driver 4.5% of variance
+Q6,Have cars become more reliable?,Chi-square,0.0,Reject H0,Finish rate 50% → 86%
+Q7,Are pit crews more consistent?,Spearman trend,3.7e-07,Reject H0,Within-race spread 1.43 s → 0.93 s
+Q8,When do drivers peak?,Likelihood-ratio tests,1.2e-25,Reject H0,Peak at age 28–30
+Q9,Is there a home advantage?,Paired t-test,0.41,Fail to reject H0,52.8% home vs 50.3% away
+Q10,Which nations produce the best drivers?,Binomial + Holm,1.5e-10,Reject H0 (6 of 11),"Germany 60.3%, Spain 62.2%"
+Q11,Did the 2022 rules increase overtaking? (A/B),Welch t-test,0.023,Reject H0,"+13% order change, d = 0.33"
+Q12,Are street circuits more crash-prone? (A/B),Chi-square,1.9e-05,Reject H0,10.2% vs 7.2% crash rate
+Q13,When is the title decided?,Fisher's exact (eras),0.59,Fail to reject H0,Mid-season leader wins 73.7%
