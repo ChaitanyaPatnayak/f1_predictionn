@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "5a61bd740b0330149653",
+  "position": {
+    "x": 20,
+    "y": 20,
+    "z": 1000,
+    "height": 860,
+    "width": 610,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "q14_model_evaluation.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

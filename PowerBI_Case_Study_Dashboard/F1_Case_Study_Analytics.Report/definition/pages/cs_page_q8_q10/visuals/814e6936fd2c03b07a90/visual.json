@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "814e6936fd2c03b07a90",
+  "position": {
+    "x": 20,
+    "y": 460,
+    "z": 1020,
+    "height": 420,
+    "width": 1240,
+    "tabOrder": 1020
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "q10_nationality_pipeline.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

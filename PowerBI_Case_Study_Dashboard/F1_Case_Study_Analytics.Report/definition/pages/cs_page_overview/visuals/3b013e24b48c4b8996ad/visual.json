@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "3b013e24b48c4b8996ad",
+  "position": {
+    "x": 780,
+    "y": 20,
+    "z": 1010,
+    "height": 420,
+    "width": 480,
+    "tabOrder": 1010
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "eda_growth.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

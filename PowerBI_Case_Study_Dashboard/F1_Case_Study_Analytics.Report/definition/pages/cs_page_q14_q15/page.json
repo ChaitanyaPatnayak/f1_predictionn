@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "cs_page_q14_q15",
+  "displayName": "6. Predictive AI & Strategy (Q14-Q15)",
+  "displayOption": "FitToPage",
+  "height": 900,
+  "width": 1280
+}

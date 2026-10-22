@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "a193a568eb07f5c36b05",
+  "position": {
+    "x": 780,
+    "y": 460,
+    "z": 1020,
+    "height": 420,
+    "width": 480,
+    "tabOrder": 1020
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "eda_correlation_heatmap.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

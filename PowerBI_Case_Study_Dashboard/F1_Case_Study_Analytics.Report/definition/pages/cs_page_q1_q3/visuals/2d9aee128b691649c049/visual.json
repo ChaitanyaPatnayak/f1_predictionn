@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "2d9aee128b691649c049",
+  "position": {
+    "x": 640,
+    "y": 460,
+    "z": 1020,
+    "height": 420,
+    "width": 620,
+    "tabOrder": 1020
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "q3_circuits_pole_conversion.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

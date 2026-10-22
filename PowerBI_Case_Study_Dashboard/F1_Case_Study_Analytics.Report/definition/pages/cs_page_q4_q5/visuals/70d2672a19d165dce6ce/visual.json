@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "70d2672a19d165dce6ce",
+  "position": {
+    "x": 650,
+    "y": 20,
+    "z": 1010,
+    "height": 860,
+    "width": 610,
+    "tabOrder": 1010
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "q5_car_vs_driver.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

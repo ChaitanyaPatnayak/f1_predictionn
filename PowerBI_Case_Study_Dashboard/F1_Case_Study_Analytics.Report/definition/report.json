@@ -68,6 +68,96 @@
           "name": "VeteranAffairs_Theme.json",
           "path": "VeteranAffairs_Theme.json",
           "type": "CustomTheme"
+        },
+        {
+          "name": "q1_qualifying_importance.png",
+          "path": "q1_qualifying_importance.png",
+          "type": "Image"
+        },
+        {
+          "name": "q2_ab_pole_conversion.png",
+          "path": "q2_ab_pole_conversion.png",
+          "type": "Image"
+        },
+        {
+          "name": "q3_circuits_pole_conversion.png",
+          "path": "q3_circuits_pole_conversion.png",
+          "type": "Image"
+        },
+        {
+          "name": "q4_dominance_hhi.png",
+          "path": "q4_dominance_hhi.png",
+          "type": "Image"
+        },
+        {
+          "name": "q5_car_vs_driver.png",
+          "path": "q5_car_vs_driver.png",
+          "type": "Image"
+        },
+        {
+          "name": "q6_reliability_revolution.png",
+          "path": "q6_reliability_revolution.png",
+          "type": "Image"
+        },
+        {
+          "name": "q7_pitstop_strategy.png",
+          "path": "q7_pitstop_strategy.png",
+          "type": "Image"
+        },
+        {
+          "name": "q8_driver_peak.png",
+          "path": "q8_driver_peak.png",
+          "type": "Image"
+        },
+        {
+          "name": "q9_home_advantage.png",
+          "path": "q9_home_advantage.png",
+          "type": "Image"
+        },
+        {
+          "name": "q10_nationality_pipeline.png",
+          "path": "q10_nationality_pipeline.png",
+          "type": "Image"
+        },
+        {
+          "name": "q11_ground_effect_ab.png",
+          "path": "q11_ground_effect_ab.png",
+          "type": "Image"
+        },
+        {
+          "name": "q12_street_vs_permanent.png",
+          "path": "q12_street_vs_permanent.png",
+          "type": "Image"
+        },
+        {
+          "name": "q13_championship_decision.png",
+          "path": "q13_championship_decision.png",
+          "type": "Image"
+        },
+        {
+          "name": "q14_model_evaluation.png",
+          "path": "q14_model_evaluation.png",
+          "type": "Image"
+        },
+        {
+          "name": "q15_strategy_insights.png",
+          "path": "q15_strategy_insights.png",
+          "type": "Image"
+        },
+        {
+          "name": "dashboard_static.png",
+          "path": "dashboard_static.png",
+          "type": "Image"
+        },
+        {
+          "name": "eda_growth.png",
+          "path": "eda_growth.png",
+          "type": "Image"
+        },
+        {
+          "name": "eda_correlation_heatmap.png",
+          "path": "eda_correlation_heatmap.png",
+          "type": "Image"
         }
       ]
     }

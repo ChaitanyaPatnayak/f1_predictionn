@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "cs_page_q1_q3",
+  "displayName": "1. Qualifying & Track Advantage (Q1-Q3)",
+  "displayOption": "FitToPage",
+  "height": 900,
+  "width": 1280
+}

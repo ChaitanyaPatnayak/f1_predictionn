@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "4b2a6b009e7abfb94d21",
+  "position": {
+    "x": 20,
+    "y": 460,
+    "z": 1010,
+    "height": 420,
+    "width": 600,
+    "tabOrder": 1010
+  },
+  "visual": {
+    "visualType": "image",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "q2_ab_pole_conversion.png"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
