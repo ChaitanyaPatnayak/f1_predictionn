@@ -1,0 +1,136 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "ef9633897138d632243f",
+  "position": {
+    "x": 17.5,
+    "y": 272.5,
+    "z": 1000,
+    "height": 495,
+    "width": 780,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "HypothesisTests"
+                    }
+                  },
+                  "Property": "question"
+                }
+              },
+              "queryRef": "HypothesisTests.question",
+              "nativeQueryRef": "ID"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "HypothesisTests"
+                    }
+                  },
+                  "Property": "test"
+                }
+              },
+              "queryRef": "HypothesisTests.test",
+              "nativeQueryRef": "Statistical Test"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "HypothesisTests"
+                    }
+                  },
+                  "Property": "p_value"
+                }
+              },
+              "queryRef": "Sum(HypothesisTests.p_value)",
+              "nativeQueryRef": "p-value"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "HypothesisTests"
+                    }
+                  },
+                  "Property": "decision"
+                }
+              },
+              "queryRef": "HypothesisTests.decision",
+              "nativeQueryRef": "Decision"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "HypothesisTests"
+                    }
+                  },
+                  "Property": "key_result"
+                }
+              },
+              "queryRef": "HypothesisTests.key_result",
+              "nativeQueryRef": "Key Finding"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Empirical Hypothesis Testing Results (Q1–Q13)'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Rigorous statistical testing of era variance, pole conversion, home advantage & overtaking'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

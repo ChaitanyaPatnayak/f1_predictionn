@@ -1,0 +1,193 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "g5a2b3c4d5e60718293e",
+  "position": {
+    "x": 820,
+    "y": 267.5,
+    "z": 1500,
+    "height": 495,
+    "width": 440,
+    "tabOrder": 1500
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "EXECUTIVE ANALYTICAL SYNTHESIS",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "13pt",
+                      "color": "#162e51"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Machine Learning Model Evaluation",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "10.5pt",
+                      "color": "#005ea2"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "• Test Set (2024–25): The regression model achieves a Mean Absolute Error of 2.50 positions, beating the naive Grid Baseline of 2.72 positions by +8.1% (R² = 0.60).",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "• Predictive features successfully capture driver skill differentials, car pace decay, and pit-stop dynamics beyond grid position alone.",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Key Hypothesis Testing Takeaways",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "10.5pt",
+                      "color": "#005ea2"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "• Statistically Confirmed Effects (9 of 13 Rejected H0):",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "  - Reliability Evolution: Kruskal-Wallis & Spearman tests confirm monotonic increases in car finish rates across 1950–2025 (p < 0.001).",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "  - Era Heterogeneity: Pole-to-win conversion differs significantly across regulatory cycles.",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "  - Street Track Volatility: Significant increase in overtaking and DNF churn on non-permanent circuits.",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "• Null Effects (4 of 13 Failed to Reject H0):",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "  - Home Race Advantage: Two-proportion z-tests indicate no statistically significant home-driver win or podium boost.",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#1b1b1b"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Analytical Methodology & Insights'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

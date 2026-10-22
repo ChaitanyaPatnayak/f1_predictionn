@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "65f54b2220cd16b4771a",
+  "displayName": "Drivers & Model-2",
+  "displayOption": "ActualSize",
+  "height": 800,
+  "width": 1280
+}

@@ -1,0 +1,138 @@
+table Races
+	lineageTag: 33a9d4a0-f28f-414c-a757-39ce428f98e8
+
+	column race_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 029c45b4-6e67-448b-8958-255ad121f92e
+		summarizeBy: none
+		sourceColumn: race_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 3a811356-1643-4be2-ae4d-50febc61a20a
+		summarizeBy: sum
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column round
+		dataType: int64
+		formatString: 0
+		lineageTag: 339aa206-7e13-4db2-a51e-a5fc0a4af6c3
+		summarizeBy: sum
+		sourceColumn: round
+
+		annotation SummarizationSetBy = Automatic
+
+	column race_name
+		dataType: string
+		lineageTag: e7e10f2d-5194-470d-a544-f0486769f504
+		summarizeBy: none
+		sourceColumn: race_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: ae671eb8-4009-43b1-88ee-3a9d96723ad2
+		summarizeBy: none
+		sourceColumn: date
+
+		variation Variation
+			isDefault
+			relationship: 538527a3-895f-4d68-9d54-798f05adf0c8
+			defaultHierarchy: LocalDateTable_505d8c6f-84c6-4d40-beb3-d411bef8b8ac.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column country
+		dataType: string
+		lineageTag: ed724c2b-0c9a-4fb3-9dc5-78292c63deb8
+		summarizeBy: none
+		sourceColumn: country
+
+		annotation SummarizationSetBy = Automatic
+
+	column latitude
+		dataType: double
+		lineageTag: 41ac9df5-0fc8-49b4-99f5-e246629b5d0f
+		summarizeBy: sum
+		sourceColumn: latitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column longitude
+		dataType: double
+		lineageTag: ec5149ba-d906-4010-a915-cf9bce67d8cb
+		summarizeBy: sum
+		sourceColumn: longitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column street
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: dbe48097-85b5-45c9-bae9-35e0cf9a6ddc
+		summarizeBy: none
+		sourceColumn: street
+
+		annotation SummarizationSetBy = Automatic
+
+	column era
+		dataType: string
+		lineageTag: 721b5f22-bb7b-4a6f-a747-b0064dbc9ec3
+		summarizeBy: none
+		sourceColumn: era
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_change
+		dataType: double
+		lineageTag: 64d9474f-089f-4aa8-b266-13fbb74c1f25
+		summarizeBy: sum
+		sourceColumn: order_change
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column pole_won
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 1258e96e-79d9-4768-a7ef-012de46ec963
+		summarizeBy: none
+		sourceColumn: pole_won
+
+		annotation SummarizationSetBy = Automatic
+
+	column circuit
+		dataType: string
+		lineageTag: ae99274a-2a59-41d8-89ca-76882c9637b2
+		summarizeBy: none
+		sourceColumn: circuit
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Races = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Races.csv"),[Delimiter=",", Columns=13, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"race_id", Int64.Type}, {"year", Int64.Type}, {"round", Int64.Type}, {"race_name", type text}, {"date", type date}, {"country", type text}, {"latitude", type number}, {"longitude", type number}, {"street", type logical}, {"era", type text}, {"order_change", type number}, {"pole_won", type logical}, {"circuit", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

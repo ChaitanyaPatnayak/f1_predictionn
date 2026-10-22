@@ -1,0 +1,104 @@
+table Predictions
+	lineageTag: 094c6ddb-9e46-497a-9a52-b5b256783733
+
+	column entry_id
+		dataType: int64
+		formatString: 0
+		lineageTag: bbf671d9-c266-4292-8112-7364e5aabdd8
+		summarizeBy: sum
+		sourceColumn: entry_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 7d47f2ab-8b16-4315-a965-00213f0b0672
+		summarizeBy: sum
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column race_name
+		dataType: string
+		lineageTag: bb1b60f5-e7ac-480c-8267-3e47429fd8ee
+		summarizeBy: none
+		sourceColumn: race_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver
+		dataType: string
+		lineageTag: e36806b8-7693-4421-861b-478c85ddd3ea
+		summarizeBy: none
+		sourceColumn: driver
+
+		annotation SummarizationSetBy = Automatic
+
+	column team
+		dataType: string
+		lineageTag: b23b2fcf-45f9-4dd5-a946-29a61d86f121
+		summarizeBy: none
+		sourceColumn: team
+
+		annotation SummarizationSetBy = Automatic
+
+	column grid
+		dataType: int64
+		formatString: 0
+		lineageTag: acb47694-ea86-4e6e-b945-bd1a6afd88cd
+		summarizeBy: sum
+		sourceColumn: grid
+
+		annotation SummarizationSetBy = Automatic
+
+	column actual_position
+		dataType: int64
+		formatString: 0
+		lineageTag: 487bc2ee-35df-4265-b78d-7fb55a725a8e
+		summarizeBy: sum
+		sourceColumn: actual_position
+
+		annotation SummarizationSetBy = Automatic
+
+	column predicted_position
+		dataType: double
+		lineageTag: 485a50ec-97a1-4d6a-abe5-0b496705727e
+		summarizeBy: sum
+		sourceColumn: predicted_position
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column abs_error
+		dataType: double
+		lineageTag: 24faf164-7b0b-4a6c-9dec-63dd1e2ac7cd
+		summarizeBy: sum
+		sourceColumn: abs_error
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column grid_baseline_error
+		dataType: int64
+		formatString: 0
+		lineageTag: 1c3550a9-2f15-4c55-a231-af824cc7ec76
+		summarizeBy: sum
+		sourceColumn: grid_baseline_error
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Predictions = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Predictions.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"entry_id", Int64.Type}, {"year", Int64.Type}, {"race_name", type text}, {"driver", type text}, {"team", type text}, {"grid", Int64.Type}, {"actual_position", Int64.Type}, {"predicted_position", type number}, {"abs_error", type number}, {"grid_baseline_error", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,26 @@
+relationship 538527a3-895f-4d68-9d54-798f05adf0c8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Races.date
+	toColumn: LocalDateTable_505d8c6f-84c6-4d40-beb3-d411bef8b8ac.Date
+
+relationship 16775513-4658-461d-9e2a-a95b45b70504
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Results.date
+	toColumn: LocalDateTable_e7cb5dbc-9de0-49f3-bad2-6831af885e13.Date
+
+relationship AutoDetected_2c8eb06e-e984-4402-a5f3-b3b83d070a27
+	fromColumn: Results.circuit
+	toColumn: Circuits.circuit
+
+relationship AutoDetected_ba413a7e-4918-43ec-bf15-ee43533c3a25
+	fromColumn: Results.driver_id
+	toColumn: Drivers.driver_id
+
+relationship AutoDetected_89de266a-5a8e-4b45-91c7-985439baa7a4
+	fromColumn: Results.race_id
+	toColumn: Races.race_id
+
+relationship AutoDetected_1308935d-6e67-412b-b585-aac25ca46e7a
+	fromColumn: Results.year
+	toColumn: Seasons.year
+

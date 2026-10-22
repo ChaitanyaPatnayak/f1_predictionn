@@ -1,0 +1,150 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "c5a2b3c4d5e6f708192e",
+  "position": {
+    "x": 770,
+    "y": 352.5,
+    "z": 1500,
+    "height": 495,
+    "width": 470,
+    "tabOrder": 1500
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Circuits"
+                    }
+                  },
+                  "Property": "circuit"
+                }
+              },
+              "queryRef": "Circuits.circuit",
+              "nativeQueryRef": "Circuit"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Circuits"
+                    }
+                  },
+                  "Property": "country"
+                }
+              },
+              "queryRef": "Circuits.country",
+              "nativeQueryRef": "Country"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Circuits"
+                        }
+                      },
+                      "Property": "races"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(Circuits.races)",
+              "nativeQueryRef": "Races"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Circuits"
+                    }
+                  },
+                  "Property": "on_2025_calendar"
+                }
+              },
+              "queryRef": "Circuits.on_2025_calendar",
+              "nativeQueryRef": "2025"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Entity": "Circuits"
+                      }
+                    },
+                    "Property": "races"
+                  }
+                },
+                "Function": 0
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Circuit Milestone Leaderboard'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Ranked by all-time Grand Prix races hosted'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,348 @@
+table Results
+	lineageTag: 63e0e468-56bc-4620-b7db-88f7b4f71a2e
+
+	measure Races = ```
+			DISTINCTCOUNT ( Results[race_id] )
+			
+			```
+		formatString: 0
+		lineageTag: 1471da9c-38ce-44c8-9840-d1701100301f
+
+	measure Entries = ```
+			COUNTROWS ( Results )
+			
+			```
+		formatString: 0
+		lineageTag: 150d6761-174c-4598-8015-307cc794bb7e
+
+	measure Wins = ```
+			CALCULATE ( COUNTROWS ( Results ), Results[won] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: e67d1d10-7081-4140-854e-ad95e62102cb
+
+	measure Podiums = ```
+			CALCULATE ( COUNTROWS ( Results ), Results[podium] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: 3e9bc154-5a93-4558-8523-74cb64da5621
+
+	measure 'Win Rate' = ```
+			DIVIDE ( [Wins], [Entries] )
+			
+			```
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: a045fb4d-ad8d-47bf-a93a-e804b1f23df6
+
+	measure 'Finish Rate' = ```
+			DIVIDE ( CALCULATE ( COUNTROWS ( Results ), Results[outcome] = "Running at finish" ), [Entries] )
+			
+			```
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 240e2a18-dcf2-465a-8a46-6cf6ffea257a
+
+	measure 'Pole Conversion' = ```
+			DIVIDE ( CALCULATE ( COUNTROWS ( Results ), Results[pole] = TRUE (), Results[won] = TRUE () ), CALCULATE ( COUNTROWS ( Results ), Results[pole] = TRUE () ) )
+			
+			```
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 9c9ac22f-573f-4375-bd17-490d3e19c4fc
+
+	measure HHI = ```
+			SUMX ( VALUES ( Results[team] ), ( 100 * DIVIDE ( CALCULATE ( [Wins] ), CALCULATE ( [Wins], ALL ( Results[team] ) ) ) ) ^ 2 )
+			
+			```
+		formatString: 0
+		lineageTag: 250a8c77-51cd-4ab2-a676-a63b4601fc3e
+
+	measure 'Effective Winning Teams' = ```
+			DIVIDE ( 10000, [HHI] )
+			
+			```
+		formatString: 0.00
+		lineageTag: 58ed4d7b-c44a-4946-90e5-510d669d9848
+
+	measure 'Model MAE' = ```
+			AVERAGE ( Predictions[abs_error] )
+			
+			```
+		formatString: 0.00
+		lineageTag: f871f1e2-1834-442b-b985-cb36415666d0
+
+	measure 'Grid Baseline MAE' = ```
+			AVERAGE ( Predictions[grid_baseline_error] )
+			
+			```
+		formatString: 0.00
+		lineageTag: 7ed4d8a6-49ad-4047-8fdb-bb6e060cece8
+
+	measure 'Model R2' = ```
+			VAR m = AVERAGE ( Predictions[actual_position] ) RETURN 1 - DIVIDE ( SUMX ( Predictions, ( Predictions[actual_position] - Predictions[predicted_position] ) ^ 2 ), SUMX ( Predictions, ( Predictions[actual_position] - m ) ^ 2 ) )
+			
+			```
+		formatString: 0.00
+		lineageTag: f6266c5b-7bbe-4441-a1cb-5a16b1c97e77
+
+	measure 'Winning Constructors' = ```
+			CALCULATE ( DISTINCTCOUNT ( Results[team] ), Results[won] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: f7266c5b-7bbe-4441-a1cb-5a16b1c97e78
+
+	measure 'Winning Drivers' = ```
+			CALCULATE ( DISTINCTCOUNT ( Results[driver_id] ), Results[won] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: f8266c5b-7bbe-4441-a1cb-5a16b1c97e79
+
+	measure 'MAE Improvement' = ```
+			DIVIDE ( [Grid Baseline MAE] - [Model MAE], [Grid Baseline MAE] )
+			
+			```
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: f9266c5b-7bbe-4441-a1cb-5a16b1c97e7a
+
+	column entry_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 5ec94679-ea4f-476c-befc-353a7c1074db
+		summarizeBy: sum
+		sourceColumn: entry_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column race_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 4a058325-af39-4560-96b0-37d1a3631d65
+		summarizeBy: none
+		sourceColumn: race_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 3b16e023-9f58-4934-8540-4cd47c1c6d94
+		summarizeBy: none
+		sourceColumn: date
+
+		variation Variation
+			isDefault
+			relationship: 16775513-4658-461d-9e2a-a95b45b70504
+			defaultHierarchy: LocalDateTable_e7cb5dbc-9de0-49f3-bad2-6831af885e13.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 5232fc88-3749-4910-a001-edd193528be1
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column decade
+		dataType: int64
+		formatString: 0
+		lineageTag: 8f2712f5-4421-41e3-af72-cceed59c8c73
+		summarizeBy: sum
+		sourceColumn: decade
+
+		annotation SummarizationSetBy = Automatic
+
+	column era
+		dataType: string
+		lineageTag: 041ec6f5-186e-4542-a1cd-784a3f293364
+		summarizeBy: none
+		sourceColumn: era
+
+		annotation SummarizationSetBy = Automatic
+
+	column round
+		dataType: int64
+		formatString: 0
+		lineageTag: 6f59499d-605c-4290-b7ef-b80eb0273f53
+		summarizeBy: sum
+		sourceColumn: round
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver_id
+		dataType: int64
+		formatString: 0
+		lineageTag: aa287431-0598-4a9b-9a33-75cf49d5cadf
+		summarizeBy: none
+		sourceColumn: driver_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column team
+		dataType: string
+		lineageTag: a1cebd8b-9910-49a4-8d32-d57d88945308
+		summarizeBy: none
+		sourceColumn: team
+
+		annotation SummarizationSetBy = Automatic
+
+	column circuit
+		dataType: string
+		lineageTag: 5c50e6ca-5a18-417a-af9b-3a2954594ac1
+		summarizeBy: none
+		sourceColumn: circuit
+
+		annotation SummarizationSetBy = Automatic
+
+	column grid
+		dataType: int64
+		formatString: 0
+		lineageTag: 36ec08c5-30df-4781-999c-64f5bb1ae937
+		summarizeBy: sum
+		sourceColumn: grid
+
+		annotation SummarizationSetBy = Automatic
+
+	column position
+		dataType: int64
+		formatString: 0
+		lineageTag: 884fc1dc-0244-4a55-8c67-ddc6a8feeddd
+		summarizeBy: sum
+		sourceColumn: position
+
+		annotation SummarizationSetBy = Automatic
+
+	column points
+		dataType: int64
+		formatString: 0
+		lineageTag: 54c3637e-bb2d-458c-9522-4eae0305460c
+		summarizeBy: sum
+		sourceColumn: points
+
+		annotation SummarizationSetBy = Automatic
+
+	column positions_gained
+		dataType: int64
+		formatString: 0
+		lineageTag: 156b74af-abc0-4f0d-9db2-c278110706e1
+		summarizeBy: sum
+		sourceColumn: positions_gained
+
+		annotation SummarizationSetBy = Automatic
+
+	column outcome
+		dataType: string
+		lineageTag: 65079d9d-3b9a-427c-80fc-a12b8829652f
+		summarizeBy: none
+		sourceColumn: outcome
+
+		annotation SummarizationSetBy = Automatic
+
+	column detail
+		dataType: string
+		lineageTag: df3f489a-4da2-4d92-8ff1-7c3d9c002ace
+		summarizeBy: none
+		sourceColumn: detail
+
+		annotation SummarizationSetBy = Automatic
+
+	column classified
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: f080c4e1-c332-4cee-acfb-ef0e430a5a1f
+		summarizeBy: none
+		sourceColumn: classified
+
+		annotation SummarizationSetBy = Automatic
+
+	column won
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: c2b5e07f-e2a4-461e-b736-630f289f7b68
+		summarizeBy: none
+		sourceColumn: won
+
+		annotation SummarizationSetBy = Automatic
+
+	column podium
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 837e34fe-3132-4932-b5e3-575ac1aeab3c
+		summarizeBy: none
+		sourceColumn: podium
+
+		annotation SummarizationSetBy = Automatic
+
+	column pole
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: ca1143ab-fb6e-4f17-aab6-7df0ad1c5f08
+		summarizeBy: none
+		sourceColumn: pole
+
+		annotation SummarizationSetBy = Automatic
+
+	column points_finish
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: bb31cfe8-2584-486a-95f4-6b5cdd7163b3
+		summarizeBy: none
+		sourceColumn: points_finish
+
+		annotation SummarizationSetBy = Automatic
+
+	column age
+		dataType: double
+		lineageTag: 2b2daba7-f77d-4874-b819-ab91b190b972
+		summarizeBy: sum
+		sourceColumn: age
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column experience
+		dataType: int64
+		formatString: 0
+		lineageTag: 4bd840ef-939b-49ff-90a9-023cabba3fd7
+		summarizeBy: sum
+		sourceColumn: experience
+
+		annotation SummarizationSetBy = Automatic
+
+	column home
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 3461719d-ced5-4c81-9bc8-959ad9ccb1f1
+		summarizeBy: none
+		sourceColumn: home
+
+		annotation SummarizationSetBy = Automatic
+
+	column street
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: ca63b328-59fd-4711-bfd5-8c67404043c6
+		summarizeBy: none
+		sourceColumn: street
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Results = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Results.csv"),[Delimiter=",", Columns=25, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"entry_id", Int64.Type}, {"race_id", Int64.Type}, {"date", type date}, {"year", Int64.Type}, {"decade", Int64.Type}, {"era", type text}, {"round", Int64.Type}, {"driver_id", Int64.Type}, {"team", type text}, {"circuit", type text}, {"grid", Int64.Type}, {"position", Int64.Type}, {"points", Int64.Type}, {"positions_gained", Int64.Type}, {"outcome", type text}, {"detail", type text}, {"classified", type logical}, {"won", type logical}, {"podium", type logical}, {"pole", type logical}, {"points_finish", type logical}, {"age", type number}, {"experience", Int64.Type}, {"home", type logical}, {"street", type logical}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

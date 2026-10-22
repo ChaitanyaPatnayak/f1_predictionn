@@ -1,0 +1,49 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "d1e2f3a4b5c60718293a",
+  "position": {
+    "x": 20,
+    "y": 15,
+    "z": 100,
+    "height": 85,
+    "width": 1240,
+    "tabOrder": 100
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "CONSTRUCTOR DYNASTIES: SEASONAL VICTORY TIMELINE",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "19pt",
+                      "color": "#162e51"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Annual Grand Prix Race Victories by Top 8 Historic Constructors Across Eras (1950–2025)",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#555e68"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,135 @@
+table Seasons
+	lineageTag: 662e1035-671d-44d9-8cf0-365b06302b0e
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 6f13a49a-ef68-4732-8457-6749ad50c4a2
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column era
+		dataType: string
+		lineageTag: f4a81088-f3f4-4c87-8f60-7141c31d727d
+		summarizeBy: none
+		sourceColumn: era
+
+		annotation SummarizationSetBy = Automatic
+
+	column races
+		dataType: int64
+		formatString: 0
+		lineageTag: 518132b5-f7a1-4340-8256-448ace246157
+		summarizeBy: none
+		sourceColumn: races
+
+		annotation SummarizationSetBy = Automatic
+
+	column champion
+		dataType: string
+		lineageTag: e168a21e-8d8b-469f-8493-0647563bce83
+		summarizeBy: none
+		sourceColumn: champion
+
+		annotation SummarizationSetBy = Automatic
+
+	column most_wins_team
+		dataType: string
+		lineageTag: 8faa12a9-8a66-494f-91b8-d64c00f7d2e1
+		summarizeBy: none
+		sourceColumn: most_wins_team
+
+		annotation SummarizationSetBy = Automatic
+
+	column hhi
+		dataType: double
+		lineageTag: 4f15d763-49ed-4947-859c-f1ff0ad492bf
+		summarizeBy: none
+		sourceColumn: hhi
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column effective_teams
+		dataType: double
+		lineageTag: c3b65592-d893-4a6b-83d1-2835bd792787
+		summarizeBy: none
+		sourceColumn: effective_teams
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column top_team_share
+		dataType: double
+		lineageTag: dbc0d263-702f-4bf8-83c8-1f3509d24059
+		summarizeBy: none
+		sourceColumn: top_team_share
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column distinct_winners
+		dataType: int64
+		formatString: 0
+		lineageTag: caef1bc6-6065-49b6-88cd-d18b7deebc75
+		summarizeBy: none
+		sourceColumn: distinct_winners
+
+		annotation SummarizationSetBy = Automatic
+
+	column winning_teams
+		dataType: int64
+		formatString: 0
+		lineageTag: bff54c13-66e6-4c66-ab1c-15bf107363cd
+		summarizeBy: none
+		sourceColumn: winning_teams
+
+		annotation SummarizationSetBy = Automatic
+
+	column finish_rate
+		dataType: double
+		lineageTag: 7a8a21bc-9f45-49d4-9b37-9e9c5a61ef40
+		summarizeBy: none
+		sourceColumn: finish_rate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column pole_conversion
+		dataType: double
+		lineageTag: a1da6167-cb67-4b17-8500-3c9fbba0a9ee
+		summarizeBy: none
+		sourceColumn: pole_conversion
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column order_change
+		dataType: double
+		lineageTag: 92175fee-0a6f-486d-a773-be1a6e75276a
+		summarizeBy: none
+		sourceColumn: order_change
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition Seasons = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Seasons.csv"),[Delimiter=",", Columns=13, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"year", Int64.Type}, {"era", type text}, {"races", Int64.Type}, {"champion", type text}, {"most_wins_team", type text}, {"hhi", type number}, {"effective_teams", type number}, {"top_team_share", type number}, {"distinct_winners", Int64.Type}, {"winning_teams", Int64.Type}, {"finish_rate", type number}, {"pole_conversion", type number}, {"order_change", type number}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

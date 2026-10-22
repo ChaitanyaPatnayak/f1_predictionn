@@ -1,0 +1,49 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "ac3ee97367697ae05e04",
+  "position": {
+    "x": 20,
+    "y": 15,
+    "z": 100,
+    "height": 95,
+    "width": 1240,
+    "tabOrder": 100
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "PREDICTIVE MODELING & STATISTICAL HYPOTHESIS TESTING",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "19pt",
+                      "color": "#162e51"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Machine Learning Race Position Regression (2024–25 Test Set) & Empirical F1 Statistical Tests",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#555e68"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

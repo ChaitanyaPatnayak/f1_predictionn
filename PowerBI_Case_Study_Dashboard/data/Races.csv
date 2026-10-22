@@ -1,0 +1,1131 @@
+race_id,year,round,race_name,date,country,latitude,longitude,street,era,order_change,pole_won,circuit
+1,1950,,British Grand Prix,,,,,False,,5.0,True,Silverstone Circuit
+4,1950,,Monaco Grand Prix,,,,,True,,6.714285714285714,True,Circuit de Monaco
+10,1950,,Swiss Grand Prix,,,,,False,,5.454545454545454,False,Circuit Bremgarten
+13,1950,,Belgian Grand Prix,,,,,False,,2.7,False,Circuit de Spa-Francorchamps
+16,1950,,French Grand Prix,,,,,False,,5.25,True,Reims-Gueux
+19,1950,,Italian Grand Prix,,,,,False,,7.142857142857143,False,Autodromo Nazionale di Monza
+22,1951,,Swiss Grand Prix,,,,,False,,3.2142857142857144,True,Circuit Bremgarten
+28,1951,,Belgian Grand Prix,,,,,False,,3.5555555555555554,False,Circuit de Spa-Francorchamps
+31,1951,,French Grand Prix,,,,,False,,5.090909090909091,False,Reims-Gueux
+34,1951,,British Grand Prix,,,,,False,,3.1538461538461537,True,Silverstone Circuit
+37,1951,,German Grand Prix,,,,,False,,4.0,True,Nürburgring
+40,1951,,Italian Grand Prix,,,,,False,,4.222222222222222,False,Autodromo Nazionale di Monza
+43,1951,,Spanish Grand Prix,,,,,False,,3.4,False,Circuit de Pedralbes
+46,1952,,Swiss Grand Prix,,,,,False,,6.25,False,Circuit Bremgarten
+52,1952,,Belgian Grand Prix,,,,,False,,4.333333333333333,True,Circuit de Spa-Francorchamps
+55,1952,,French Grand Prix,,,,,False,,2.6666666666666665,True,Rouen-Les-Essarts
+58,1952,,British Grand Prix,,,,,False,,5.636363636363637,False,Silverstone Circuit
+61,1952,,German Grand Prix,,,,,False,,7.333333333333333,True,Nürburgring
+64,1952,,Dutch Grand Prix,,,,,False,,1.6666666666666667,True,Circuit Park Zandvoort
+67,1952,,Italian Grand Prix,,,,,False,,5.0,True,Autodromo Nazionale di Monza
+70,1953,,Argentine Grand Prix,,,,,False,,2.7777777777777777,True,Autódromo Juan y Oscar Gálvez
+76,1953,,Dutch Grand Prix,,,,,False,,3.3333333333333335,True,Circuit Park Zandvoort
+79,1953,,Belgian Grand Prix,,,,,False,,4.545454545454546,False,Circuit de Spa-Francorchamps
+82,1953,,French Grand Prix,,,,,False,,4.133333333333334,False,Reims-Gueux
+85,1953,,British Grand Prix,,,,,False,,5.2,True,Silverstone Circuit
+88,1953,,German Grand Prix,,,,,False,,7.75,False,Nürburgring
+91,1953,,Swiss Grand Prix,,,,,False,,4.111111111111111,False,Circuit Bremgarten
+94,1953,,Italian Grand Prix,,,,,False,,6.5,False,Autodromo Nazionale di Monza
+97,1954,,Argentine Grand Prix,,,,,False,,3.4444444444444446,False,Autódromo Juan y Oscar Gálvez
+103,1954,,Belgian Grand Prix,,,,,False,,3.5714285714285716,True,Circuit de Spa-Francorchamps
+106,1954,,French Grand Prix,,,,,False,,5.166666666666667,True,Reims-Gueux
+109,1954,,British Grand Prix,,,,,False,,7.0,False,Silverstone Circuit
+112,1954,,German Grand Prix,,,,,False,,5.7,True,Nürburgring
+115,1954,,Swiss Grand Prix,,,,,False,,4.0,False,Circuit Bremgarten
+118,1954,,Italian Grand Prix,,,,,False,,6.636363636363637,True,Autodromo Nazionale di Monza
+121,1954,,Spanish Grand Prix,,,,,False,,6.0,False,Circuit de Pedralbes
+124,1955,,Argentine Grand Prix,,,,,False,,4.857142857142857,False,Autódromo Juan y Oscar Gálvez
+127,1955,,Monaco Grand Prix,,,,,True,,7.0,False,Circuit de Monaco
+133,1955,,Belgian Grand Prix,,,,,False,,2.7777777777777777,False,Circuit de Spa-Francorchamps
+136,1955,,Dutch Grand Prix,,,,,False,,2.4545454545454546,True,Circuit Park Zandvoort
+139,1955,,British Grand Prix,,,,,False,,4.666666666666667,True,Aintree
+142,1955,,Italian Grand Prix,,,,,False,,4.9,True,Autodromo Nazionale di Monza
+145,1956,,Argentine Grand Prix,,,,,False,,4.666666666666667,False,Autódromo Juan y Oscar Gálvez
+148,1956,,Monaco Grand Prix,,,,,True,,4.25,False,Circuit de Monaco
+154,1956,,Belgian Grand Prix,,,,,False,,4.625,False,Circuit de Spa-Francorchamps
+157,1956,,French Grand Prix,,,,,False,,5.181818181818182,False,Reims-Gueux
+160,1956,,British Grand Prix,,,,,False,,9.727272727272727,False,Silverstone Circuit
+163,1956,,German Grand Prix,,,,,False,,5.6,True,Nürburgring
+166,1956,,Italian Grand Prix,,,,,False,,10.181818181818182,False,Autodromo Nazionale di Monza
+169,1957,,Argentine Grand Prix,,,,,False,,4.2,False,Autódromo Juan y Oscar Gálvez
+172,1957,,Monaco Grand Prix,,,,,True,,4.666666666666667,True,Circuit de Monaco
+178,1957,,French Grand Prix,,,,,False,,2.7142857142857144,True,Rouen-Les-Essarts
+181,1957,,British Grand Prix,,,,,False,,6.375,False,Aintree
+184,1957,,German Grand Prix,,,,,False,,2.8,True,Nürburgring
+187,1957,,Pescara Grand Prix,,,,,False,,3.2857142857142856,False,Pescara Circuit
+190,1957,,Italian Grand Prix,,,,,False,,4.545454545454546,False,Autodromo Nazionale di Monza
+193,1958,,Argentine Grand Prix,,,,,False,,2.111111111111111,False,Autódromo Juan y Oscar Gálvez
+196,1958,,Monaco Grand Prix,,,,,True,,5.5,False,Circuit de Monaco
+199,1958,,Dutch Grand Prix,,,,,False,,3.4545454545454546,False,Circuit Park Zandvoort
+205,1958,,Belgian Grand Prix,,,,,False,,5.1,False,Circuit de Spa-Francorchamps
+208,1958,,French Grand Prix,,,,,False,,5.818181818181818,True,Reims-Gueux
+211,1958,,British Grand Prix,,,,,False,,3.2222222222222223,False,Silverstone Circuit
+214,1958,,German Grand Prix,,,,,False,,4.909090909090909,False,Nürburgring
+217,1958,,Portuguese Grand Prix,,,,,False,,0.6666666666666666,True,Circuito da Boavista
+220,1958,,Italian Grand Prix,,,,,False,,5.285714285714286,False,Autodromo Nazionale di Monza
+223,1958,,Moroccan Grand Prix,,,,,False,,5.5625,False,Ain Diab
+226,1959,,Monaco Grand Prix,,,,,True,,3.0,False,Circuit de Monaco
+232,1959,,Dutch Grand Prix,,,,,False,,3.1,True,Circuit Park Zandvoort
+235,1959,,French Grand Prix,,,,,False,,5.2727272727272725,True,Reims-Gueux
+238,1959,,British Grand Prix,,,,,False,,4.153846153846154,True,Aintree
+241,1959,,German Grand Prix,,,,,False,,3.4285714285714284,True,AVUS
+244,1959,,Portuguese Grand Prix,,,,,False,,2.8,True,Monsanto Park Circuit
+247,1959,,Italian Grand Prix,,,,,False,,2.6,True,Autodromo Nazionale di Monza
+250,1959,,United States Grand Prix,,,,,False,,4.0,False,Sebring International Raceway
+253,1960,,Argentine Grand Prix,,,,,False,,4.857142857142857,False,Autódromo Juan y Oscar Gálvez
+256,1960,,Monaco Grand Prix,,,,,True,,2.5555555555555554,True,Circuit de Monaco
+262,1960,,Dutch Grand Prix,,,,,False,,5.0,False,Circuit Park Zandvoort
+265,1960,,Belgian Grand Prix,,,,,False,,4.666666666666667,True,Circuit de Spa-Francorchamps
+268,1960,,French Grand Prix,,,,,False,,6.5,True,Reims-Gueux
+271,1960,,British Grand Prix,,,,,False,,5.0,True,Silverstone Circuit
+274,1960,,Portuguese Grand Prix,,,,,False,,4.428571428571429,False,Circuito da Boavista
+277,1960,,Italian Grand Prix,,,,,False,,2.5,True,Autodromo Nazionale di Monza
+280,1960,,United States Grand Prix,,,,,False,,5.375,True,Riverside International Raceway
+283,1961,,Monaco Grand Prix,,,,,True,,3.6153846153846154,True,Circuit de Monaco
+286,1961,,Dutch Grand Prix,,,,,False,,2.2666666666666666,False,Circuit Park Zandvoort
+289,1961,,Belgian Grand Prix,,,,,False,,2.230769230769231,True,Circuit de Spa-Francorchamps
+292,1961,,French Grand Prix,,,,,False,,7.466666666666667,False,Reims-Gueux
+295,1961,,British Grand Prix,,,,,False,,5.294117647058823,False,Aintree
+298,1961,,German Grand Prix,,,,,False,,5.25,False,Nürburgring
+301,1961,,Italian Grand Prix,,,,,False,,11.333333333333334,False,Autodromo Nazionale di Monza
+304,1961,,United States Grand Prix,,,,,False,,4.090909090909091,False,Watkins Glen
+307,1962,,Dutch Grand Prix,,,,,False,,6.0,False,Circuit Park Zandvoort
+310,1962,,Monaco Grand Prix,,,,,True,,5.625,False,Circuit de Monaco
+313,1962,,Belgian Grand Prix,,,,,False,,5.8,False,Circuit de Spa-Francorchamps
+316,1962,,French Grand Prix,,,,,False,,5.555555555555555,False,Rouen-Les-Essarts
+319,1962,,British Grand Prix,,,,,False,,4.25,True,Aintree
+322,1962,,German Grand Prix,,,,,False,,3.3125,False,Nürburgring
+325,1962,,Italian Grand Prix,,,,,False,,5.214285714285714,False,Autodromo Nazionale di Monza
+328,1962,,United States Grand Prix,,,,,False,,3.1538461538461537,True,Watkins Glen
+331,1962,,South African Grand Prix,,,,,False,,3.272727272727273,False,Prince George Circuit
+334,1963,,Monaco Grand Prix,,,,,True,,3.888888888888889,False,Circuit de Monaco
+337,1963,,Belgian Grand Prix,,,,,False,,6.25,False,Circuit de Spa-Francorchamps
+340,1963,,Dutch Grand Prix,,,,,False,,5.090909090909091,True,Circuit Park Zandvoort
+343,1963,,French Grand Prix,,,,,False,,4.6923076923076925,True,Reims-Gueux
+346,1963,,British Grand Prix,,,,,False,,5.538461538461538,True,Silverstone Circuit
+349,1963,,German Grand Prix,,,,,False,,5.5,False,Nürburgring
+352,1963,,Italian Grand Prix,,,,,False,,6.4375,False,Autodromo Nazionale di Monza
+355,1963,,United States Grand Prix,,,,,False,,4.636363636363637,True,Watkins Glen
+358,1963,,Mexican Grand Prix,,,,,False,,3.6363636363636362,True,Autódromo Hermanos Rodríguez
+361,1963,,South African Grand Prix,,,,,False,,4.071428571428571,True,Prince George Circuit
+364,1964,,Monaco Grand Prix,,,,,True,,4.5,False,Circuit de Monaco
+367,1964,,Dutch Grand Prix,,,,,False,,3.230769230769231,False,Circuit Park Zandvoort
+370,1964,,Belgian Grand Prix,,,,,False,,4.7,False,Circuit de Spa-Francorchamps
+373,1964,,French Grand Prix,,,,,False,,2.75,False,Rouen-Les-Essarts
+376,1964,,British Grand Prix,,,,,False,,3.857142857142857,True,Brands Hatch
+379,1964,,German Grand Prix,,,,,False,,5.714285714285714,True,Nürburgring
+382,1964,,Austrian Grand Prix,,,,,False,,7.333333333333333,False,Zeltweg
+385,1964,,Italian Grand Prix,,,,,False,,4.466666666666667,True,Autodromo Nazionale di Monza
+388,1964,,United States Grand Prix,,,,,False,,6.857142857142857,False,Watkins Glen
+391,1964,,Mexican Grand Prix,,,,,False,,3.230769230769231,False,Autódromo Hermanos Rodríguez
+394,1965,,South African Grand Prix,,,,,False,,4.133333333333334,True,Prince George Circuit
+397,1965,,Monaco Grand Prix,,,,,True,,1.9,True,Circuit de Monaco
+400,1965,,Belgian Grand Prix,,,,,False,,3.4285714285714284,False,Circuit de Spa-Francorchamps
+403,1965,,French Grand Prix,,,,,False,,3.6666666666666665,True,Charade Circuit
+406,1965,,British Grand Prix,,,,,False,,3.5,True,Silverstone Circuit
+409,1965,,Dutch Grand Prix,,,,,False,,2.4615384615384617,False,Circuit Park Zandvoort
+412,1965,,German Grand Prix,,,,,False,,3.75,True,Nürburgring
+415,1965,,Italian Grand Prix,,,,,False,,4.785714285714286,False,Autodromo Nazionale di Monza
+418,1965,,United States Grand Prix,,,,,False,,3.923076923076923,True,Watkins Glen
+421,1965,,Mexican Grand Prix,,,,,False,,4.5,False,Autódromo Hermanos Rodríguez
+424,1966,,Monaco Grand Prix,,,,,True,,,False,Circuit de Monaco
+427,1966,,Belgian Grand Prix,,,,,False,,1.0,True,Circuit de Spa-Francorchamps
+430,1966,,French Grand Prix,,,,,False,,4.375,False,Reims-Gueux
+433,1966,,British Grand Prix,,,,,False,,4.0,True,Brands Hatch
+436,1966,,Dutch Grand Prix,,,,,False,,4.555555555555555,True,Circuit Park Zandvoort
+439,1966,,German Grand Prix,,,,,False,,3.5,False,Nürburgring
+442,1966,,Italian Grand Prix,,,,,False,,6.444444444444445,False,Autodromo Nazionale di Monza
+445,1966,,United States Grand Prix,,,,,False,,6.166666666666667,False,Watkins Glen
+448,1966,,Mexican Grand Prix,,,,,False,,3.875,True,Autódromo Hermanos Rodríguez
+451,1967,,South African Grand Prix,,,,,False,,3.5,False,Kyalami
+454,1967,,Monaco Grand Prix,,,,,True,,7.166666666666667,False,Circuit de Monaco
+457,1967,,Dutch Grand Prix,,,,,False,,5.5,False,Circuit Park Zandvoort
+460,1967,,Belgian Grand Prix,,,,,False,,4.8,False,Circuit de Spa-Francorchamps
+463,1967,,French Grand Prix,,,,,False,,5.0,False,Le Mans
+466,1967,,British Grand Prix,,,,,False,,4.0,True,Silverstone Circuit
+469,1967,,German Grand Prix,,,,,False,,7.090909090909091,False,Nürburgring
+472,1967,,Canadian Grand Prix,,,,,False,,3.3636363636363638,False,Mosport International Raceway
+475,1967,,Italian Grand Prix,,,,,False,,5.142857142857143,False,Autodromo Nazionale di Monza
+478,1967,,United States Grand Prix,,,,,False,,4.714285714285714,False,Watkins Glen
+481,1967,,Mexican Grand Prix,,,,,False,,5.083333333333333,True,Autódromo Hermanos Rodríguez
+484,1968,,South African Grand Prix,,,,,False,,4.444444444444445,True,Kyalami
+487,1968,,Spanish Grand Prix,,,,,False,,4.8,False,Jarama
+490,1968,,Monaco Grand Prix,,,,,True,,6.2,True,Circuit de Monaco
+493,1968,,Belgian Grand Prix,,,,,False,,4.5,False,Circuit de Spa-Francorchamps
+496,1968,,Dutch Grand Prix,,,,,False,,6.666666666666667,False,Circuit Park Zandvoort
+499,1968,,French Grand Prix,,,,,False,,3.909090909090909,False,Rouen-Les-Essarts
+502,1968,,British Grand Prix,,,,,False,,4.5,False,Brands Hatch
+505,1968,,German Grand Prix,,,,,False,,4.071428571428571,False,Nürburgring
+508,1968,,Italian Grand Prix,,,,,False,,9.5,False,Autodromo Nazionale di Monza
+511,1968,,Canadian Grand Prix,,,,,False,,6.166666666666667,False,Circuit Mont-Tremblant
+514,1968,,United States Grand Prix,,,,,False,,3.6666666666666665,False,Watkins Glen
+517,1968,,Mexican Grand Prix,,,,,False,,6.8,False,Autódromo Hermanos Rodríguez
+520,1969,,South African Grand Prix,,,,,False,,5.0,False,Kyalami
+523,1969,,Spanish Grand Prix,,,,,False,,5.333333333333333,False,Montjuïc
+526,1969,,Monaco Grand Prix,,,,,True,,5.571428571428571,False,Circuit de Monaco
+529,1969,,Dutch Grand Prix,,,,,False,,3.0,False,Circuit Park Zandvoort
+532,1969,,French Grand Prix,,,,,False,,2.888888888888889,True,Charade Circuit
+535,1969,,British Grand Prix,,,,,False,,3.8,False,Silverstone Circuit
+538,1969,,German Grand Prix,,,,,False,,2.5,True,Nürburgring
+541,1969,,Italian Grand Prix,,,,,False,,2.4,False,Autodromo Nazionale di Monza
+544,1969,,Canadian Grand Prix,,,,,False,,4.0,True,Mosport International Raceway
+547,1969,,United States Grand Prix,,,,,False,,7.833333333333333,True,Watkins Glen
+550,1969,,Mexican Grand Prix,,,,,False,,3.5454545454545454,False,Autódromo Hermanos Rodríguez
+553,1970,,South African Grand Prix,,,,,False,,6.6923076923076925,False,Kyalami
+556,1970,,Spanish Grand Prix,,,,,False,,8.8,False,Jarama
+559,1970,,Monaco Grand Prix,,,,,True,,5.25,False,Circuit de Monaco
+562,1970,,Belgian Grand Prix,,,,,False,,4.75,False,Circuit de Spa-Francorchamps
+565,1970,,Dutch Grand Prix,,,,,False,,2.909090909090909,True,Circuit Park Zandvoort
+568,1970,,French Grand Prix,,,,,False,,5.714285714285714,False,Charade Circuit
+571,1970,,British Grand Prix,,,,,False,,6.222222222222222,True,Brands Hatch
+574,1970,,German Grand Prix,,,,,False,,5.333333333333333,False,Hockenheimring
+577,1970,,Austrian Grand Prix,,,,,False,,6.5,False,Red Bull Ring
+580,1970,,Italian Grand Prix,,,,,False,,6.5,False,Autodromo Nazionale di Monza
+583,1970,,Canadian Grand Prix,,,,,False,,2.5,False,Circuit Mont-Tremblant
+586,1970,,United States Grand Prix,,,,,False,,5.214285714285714,False,Watkins Glen
+589,1970,,Mexican Grand Prix,,,,,False,,3.5555555555555554,False,Autódromo Hermanos Rodríguez
+592,1971,,South African Grand Prix,,,,,False,,4.615384615384615,False,Kyalami
+595,1971,,Spanish Grand Prix,,,,,False,,4.090909090909091,False,Montjuïc
+598,1971,,Monaco Grand Prix,,,,,True,,5.0,True,Circuit de Monaco
+601,1971,,Dutch Grand Prix,,,,,False,,3.9166666666666665,True,Circuit Park Zandvoort
+604,1971,,French Grand Prix,,,,,False,,5.3076923076923075,True,Circuit Paul Ricard
+607,1971,,British Grand Prix,,,,,False,,5.181818181818182,False,Silverstone Circuit
+610,1971,,German Grand Prix,,,,,False,,4.583333333333333,True,Nürburgring
+613,1971,,Austrian Grand Prix,,,,,False,,4.916666666666667,True,Red Bull Ring
+616,1971,,Italian Grand Prix,,,,,False,,6.8,False,Autodromo Nazionale di Monza
+619,1971,,Canadian Grand Prix,,,,,False,,3.8125,True,Mosport International Raceway
+622,1971,,United States Grand Prix,,,,,False,,6.823529411764706,False,Watkins Glen
+625,1972,,Argentine Grand Prix,,,,,False,,5.181818181818182,False,Autódromo Juan y Oscar Gálvez
+628,1972,,South African Grand Prix,,,,,False,,6.705882352941177,False,Kyalami
+631,1972,,Spanish Grand Prix,,,,,False,,7.818181818181818,False,Jarama
+634,1972,,Monaco Grand Prix,,,,,True,,6.117647058823529,False,Circuit de Monaco
+637,1972,,Belgian Grand Prix,,,,,False,,5.214285714285714,True,Nivelles-Baulers
+640,1972,,French Grand Prix,,,,,False,,5.052631578947368,False,Charade Circuit
+643,1972,,British Grand Prix,,,,,False,,6.0,False,Brands Hatch
+646,1972,,German Grand Prix,,,,,False,,8.0,True,Nürburgring
+649,1972,,Austrian Grand Prix,,,,,False,,4.785714285714286,True,Red Bull Ring
+652,1972,,Italian Grand Prix,,,,,False,,6.384615384615385,False,Autodromo Nazionale di Monza
+655,1972,,Canadian Grand Prix,,,,,False,,4.923076923076923,False,Mosport International Raceway
+658,1972,,United States Grand Prix,,,,,False,,6.555555555555555,True,Watkins Glen
+661,1973,,Argentine Grand Prix,,,,,False,,3.9,False,Autódromo Juan y Oscar Gálvez
+664,1973,,Brazilian Grand Prix,,,,,False,,5.0,False,Autódromo José Carlos Pace
+667,1973,,South African Grand Prix,,,,,False,,7.7272727272727275,False,Kyalami
+670,1973,,Spanish Grand Prix,,,,,False,,5.666666666666667,False,Montjuïc
+673,1973,,Belgian Grand Prix,,,,,False,,6.818181818181818,False,Zolder
+676,1973,,Monaco Grand Prix,,,,,True,,5.7272727272727275,True,Circuit de Monaco
+679,1973,,Swedish Grand Prix,,,,,False,,3.5,False,Scandinavian Raceway
+682,1973,,French Grand Prix,,,,,False,,5.1875,False,Circuit Paul Ricard
+685,1973,,British Grand Prix,,,,,False,,5.230769230769231,False,Silverstone Circuit
+688,1973,,Dutch Grand Prix,,,,,False,,5.363636363636363,False,Circuit Park Zandvoort
+691,1973,,German Grand Prix,,,,,False,,4.75,True,Nürburgring
+694,1973,,Austrian Grand Prix,,,,,False,,5.3,False,Red Bull Ring
+697,1973,,Italian Grand Prix,,,,,False,,5.266666666666667,True,Autodromo Nazionale di Monza
+700,1973,,Canadian Grand Prix,,,,,False,,5.388888888888889,False,Mosport International Raceway
+703,1973,,United States Grand Prix,,,,,False,,5.75,True,Watkins Glen
+706,1974,,Argentine Grand Prix,,,,,False,,8.0,False,Autódromo Juan y Oscar Gálvez
+709,1974,,Brazilian Grand Prix,,,,,False,,5.411764705882353,True,Autódromo José Carlos Pace
+712,1974,,South African Grand Prix,,,,,False,,6.157894736842105,False,Kyalami
+715,1974,,Spanish Grand Prix,,,,,False,,5.071428571428571,True,Jarama
+718,1974,,Belgian Grand Prix,,,,,False,,7.5,False,Nivelles-Baulers
+721,1974,,Monaco Grand Prix,,,,,True,,8.0,False,Circuit de Monaco
+724,1974,,Swedish Grand Prix,,,,,False,,6.090909090909091,False,Scandinavian Raceway
+727,1974,,Dutch Grand Prix,,,,,False,,3.0,True,Circuit Park Zandvoort
+730,1974,,French Grand Prix,,,,,False,,3.875,False,Dijon-Prenois
+733,1974,,British Grand Prix,,,,,False,,6.071428571428571,False,Brands Hatch
+736,1974,,German Grand Prix,,,,,False,,7.0,False,Nürburgring
+739,1974,,Austrian Grand Prix,,,,,False,,8.333333333333334,False,Red Bull Ring
+742,1974,,Italian Grand Prix,,,,,False,,8.0,False,Autodromo Nazionale di Monza
+745,1974,,Canadian Grand Prix,,,,,False,,5.3125,True,Mosport International Raceway
+748,1974,,United States Grand Prix,,,,,False,,4.916666666666667,True,Watkins Glen
+751,1975,,Argentine Grand Prix,,,,,False,,4.285714285714286,False,Autódromo Juan y Oscar Gálvez
+754,1975,,Brazilian Grand Prix,,,,,False,,4.2,False,Autódromo José Carlos Pace
+757,1975,,South African Grand Prix,,,,,False,,6.588235294117647,False,Kyalami
+760,1975,,Spanish Grand Prix,,,,,False,,9.125,False,Montjuïc
+763,1975,,Monaco Grand Prix,,,,,True,,3.888888888888889,True,Circuit de Monaco
+766,1975,,Belgian Grand Prix,,,,,False,,5.666666666666667,True,Zolder
+769,1975,,Swedish Grand Prix,,,,,False,,6.823529411764706,False,Scandinavian Raceway
+772,1975,,Dutch Grand Prix,,,,,False,,5.4375,False,Circuit Park Zandvoort
+775,1975,,French Grand Prix,,,,,False,,5.333333333333333,True,Circuit Paul Ricard
+778,1975,,British Grand Prix,,,,,False,,5.473684210526316,False,Silverstone Circuit
+781,1975,,German Grand Prix,,,,,False,,11.1,False,Nürburgring
+784,1975,,Austrian Grand Prix,,,,,False,,5.352941176470588,False,Red Bull Ring
+787,1975,,Italian Grand Prix,,,,,False,,6.285714285714286,False,Autodromo Nazionale di Monza
+790,1975,,United States Grand Prix,,,,,False,,5.2,True,Watkins Glen
+793,1976,,Brazilian Grand Prix,,,,,False,,6.071428571428571,False,Autódromo José Carlos Pace
+796,1976,,South African Grand Prix,,,,,False,,4.823529411764706,False,Kyalami
+799,1976,,United States Grand Prix West,,,,,False,,4.7,True,Long Beach
+802,1976,,Spanish Grand Prix,,,,,False,,7.3076923076923075,True,Jarama
+805,1976,,Belgian Grand Prix,,,,,False,,6.833333333333333,True,Zolder
+808,1976,,Monaco Grand Prix,,,,,True,,4.142857142857143,True,Circuit de Monaco
+811,1976,,Swedish Grand Prix,,,,,False,,3.3333333333333335,True,Scandinavian Raceway
+814,1976,,French Grand Prix,,,,,False,,5.315789473684211,True,Circuit Paul Ricard
+817,1976,,British Grand Prix,,,,,False,,10.88888888888889,True,Brands Hatch
+820,1976,,German Grand Prix,,,,,False,,7.066666666666666,True,Nürburgring
+823,1976,,Austrian Grand Prix,,,,,False,,6.25,False,Red Bull Ring
+826,1976,,Dutch Grand Prix,,,,,False,,5.583333333333333,False,Circuit Park Zandvoort
+829,1976,,Italian Grand Prix,,,,,False,,4.7368421052631575,False,Autodromo Nazionale di Monza
+832,1976,,Canadian Grand Prix,,,,,False,,3.6,True,Mosport International Raceway
+835,1976,,United States Grand Prix,,,,,False,,6.214285714285714,True,Watkins Glen
+838,1976,,Japanese Grand Prix,,,,,False,,7.181818181818182,True,Fuji Speedway
+841,1977,,Argentine Grand Prix,,,,,False,,6.428571428571429,False,Autódromo Juan y Oscar Gálvez
+844,1977,,Brazilian Grand Prix,,,,,False,,7.571428571428571,False,Autódromo José Carlos Pace
+847,1977,,South African Grand Prix,,,,,False,,4.866666666666666,False,Kyalami
+850,1977,,United States Grand Prix West,,,,,False,,4.0,False,Long Beach
+853,1977,,Spanish Grand Prix,,,,,False,,6.785714285714286,True,Jarama
+856,1977,,Monaco Grand Prix,,,,,True,,4.75,False,Circuit de Monaco
+859,1977,,Belgian Grand Prix,,,,,False,,8.285714285714286,False,Zolder
+862,1977,,Swedish Grand Prix,,,,,False,,6.684210526315789,False,Scandinavian Raceway
+865,1977,,French Grand Prix,,,,,False,,3.3846153846153846,True,Dijon-Prenois
+868,1977,,British Grand Prix,,,,,False,,5.4,True,Silverstone Circuit
+871,1977,,German Grand Prix,,,,,False,,5.4,False,Hockenheimring
+874,1977,,Austrian Grand Prix,,,,,False,,6.588235294117647,False,Red Bull Ring
+877,1977,,Dutch Grand Prix,,,,,False,,8.384615384615385,False,Circuit Park Zandvoort
+880,1977,,Italian Grand Prix,,,,,False,,7.0,False,Autodromo Nazionale di Monza
+883,1977,,United States Grand Prix,,,,,False,,6.631578947368421,True,Watkins Glen
+886,1977,,Canadian Grand Prix,,,,,False,,7.583333333333333,False,Mosport International Raceway
+889,1977,,Japanese Grand Prix,,,,,False,,5.416666666666667,False,Fuji Speedway
+892,1978,,Argentine Grand Prix,,,,,False,,4.166666666666667,True,Autódromo Juan y Oscar Gálvez
+895,1978,,Brazilian Grand Prix,,,,,False,,7.363636363636363,False,Autódromo Internacional Nelson Piquet
+898,1978,,South African Grand Prix,,,,,False,,9.25,False,Kyalami
+901,1978,,United States Grand Prix West,,,,,False,,5.083333333333333,True,Long Beach
+904,1978,,Monaco Grand Prix,,,,,True,,5.454545454545454,False,Circuit de Monaco
+907,1978,,Belgian Grand Prix,,,,,False,,6.846153846153846,True,Zolder
+910,1978,,Spanish Grand Prix,,,,,False,,5.0,True,Jarama
+913,1978,,Swedish Grand Prix,,,,,False,,6.066666666666666,False,Scandinavian Raceway
+916,1978,,French Grand Prix,,,,,False,,5.0,False,Circuit Paul Ricard
+919,1978,,British Grand Prix,,,,,False,,9.2,False,Brands Hatch
+922,1978,,German Grand Prix,,,,,False,,5.818181818181818,True,Hockenheimring
+925,1978,,Austrian Grand Prix,,,,,False,,7.333333333333333,True,Red Bull Ring
+928,1978,,Dutch Grand Prix,,,,,False,,2.9166666666666665,True,Circuit Park Zandvoort
+931,1978,,Italian Grand Prix,,,,,False,,6.642857142857143,False,Autodromo Nazionale di Monza
+934,1978,,United States Grand Prix,,,,,False,,6.3125,False,Watkins Glen
+937,1978,,Canadian Grand Prix,,,,,False,,6.083333333333333,False,Circuit Gilles Villeneuve
+940,1979,,Argentine Grand Prix,,,,,False,,4.909090909090909,True,Autódromo Juan y Oscar Gálvez
+943,1979,,Brazilian Grand Prix,,,,,False,,4.066666666666666,True,Autódromo José Carlos Pace
+946,1979,,South African Grand Prix,,,,,False,,5.230769230769231,False,Kyalami
+949,1979,,United States Grand Prix West,,,,,False,,3.6666666666666665,True,Long Beach
+952,1979,,Spanish Grand Prix,,,,,False,,5.357142857142857,False,Jarama
+955,1979,,Belgian Grand Prix,,,,,False,,7.636363636363637,False,Zolder
+958,1979,,Monaco Grand Prix,,,,,True,,6.0,True,Circuit de Monaco
+961,1979,,French Grand Prix,,,,,False,,3.888888888888889,True,Dijon-Prenois
+964,1979,,British Grand Prix,,,,,False,,6.642857142857143,False,Silverstone Circuit
+967,1979,,German Grand Prix,,,,,False,,5.333333333333333,False,Hockenheimring
+970,1979,,Austrian Grand Prix,,,,,False,,3.7,False,Red Bull Ring
+973,1979,,Dutch Grand Prix,,,,,False,,8.428571428571429,False,Circuit Park Zandvoort
+976,1979,,Italian Grand Prix,,,,,False,,6.0,False,Autodromo Nazionale di Monza
+979,1979,,Canadian Grand Prix,,,,,False,,3.888888888888889,True,Circuit Gilles Villeneuve
+982,1979,,United States Grand Prix,,,,,False,,8.857142857142858,False,Watkins Glen
+985,1980,,Argentine Grand Prix,,,,,False,,8.571428571428571,True,Autódromo Juan y Oscar Gálvez
+988,1980,,Brazilian Grand Prix,,,,,False,,7.6875,False,Autódromo José Carlos Pace
+991,1980,,South African Grand Prix,,,,,False,,6.0,False,Kyalami
+994,1980,,United States Grand Prix West,,,,,False,,8.2,True,Long Beach
+997,1980,,Belgian Grand Prix,,,,,False,,4.166666666666667,False,Zolder
+1000,1980,,Monaco Grand Prix,,,,,True,,5.444444444444445,False,Circuit de Monaco
+1003,1980,,French Grand Prix,,,,,False,,4.916666666666667,False,Circuit Paul Ricard
+1006,1980,,British Grand Prix,,,,,False,,6.615384615384615,False,Brands Hatch
+1009,1980,,German Grand Prix,,,,,False,,5.8125,False,Hockenheimring
+1012,1980,,Austrian Grand Prix,,,,,False,,4.5,False,Red Bull Ring
+1015,1980,,Dutch Grand Prix,,,,,False,,5.0,False,Circuit Park Zandvoort
+1018,1980,,Italian Grand Prix,,,,,False,,7.384615384615385,False,Autodromo Enzo e Dino Ferrari
+1021,1980,,Canadian Grand Prix,,,,,False,,5.333333333333333,False,Circuit Gilles Villeneuve
+1024,1980,,United States Grand Prix,,,,,False,,4.818181818181818,False,Watkins Glen
+1027,1981,,United States Grand Prix West,,,,,False,,5.25,False,Long Beach
+1030,1981,,Brazilian Grand Prix,,,,,False,,7.0,False,Autódromo Internacional Nelson Piquet
+1033,1981,,Argentine Grand Prix,,,,,False,,5.384615384615385,True,Autódromo Juan y Oscar Gálvez
+1036,1981,,San Marino Grand Prix,,,,,False,,5.846153846153846,False,Autodromo Enzo e Dino Ferrari
+1039,1981,,Belgian Grand Prix,,,,,False,,5.615384615384615,True,Zolder
+1042,1981,,Monaco Grand Prix,,,,,True,,8.0,False,Circuit de Monaco
+1045,1981,,Spanish Grand Prix,,,,,False,,4.375,False,Jarama
+1048,1981,,French Grand Prix,,,,,False,,4.529411764705882,False,Dijon-Prenois
+1051,1981,,British Grand Prix,,,,,False,,9.727272727272727,False,Silverstone Circuit
+1054,1981,,German Grand Prix,,,,,False,,6.571428571428571,False,Hockenheimring
+1057,1981,,Austrian Grand Prix,,,,,False,,3.727272727272727,False,Red Bull Ring
+1060,1981,,Dutch Grand Prix,,,,,False,,9.0,True,Circuit Park Zandvoort
+1063,1981,,Italian Grand Prix,,,,,False,,4.9,False,Autodromo Nazionale di Monza
+1066,1981,,Canadian Grand Prix,,,,,False,,7.666666666666667,False,Circuit Gilles Villeneuve
+1069,1981,,Caesars Palace Grand Prix,,,,,True,,4.153846153846154,False,Las Vegas Street Circuit
+1072,1982,,South African Grand Prix,,,,,False,,6.277777777777778,False,Kyalami
+1075,1982,,Brazilian Grand Prix,,,,,False,,9.3,True,Autódromo Internacional Nelson Piquet
+1078,1982,,United States Grand Prix West,,,,,False,,9.7,False,Long Beach
+1081,1982,,San Marino Grand Prix,,,,,False,,4.0,False,Autodromo Enzo e Dino Ferrari
+1084,1982,,Belgian Grand Prix,,,,,False,,9.666666666666666,False,Zolder
+1087,1982,,Monaco Grand Prix,,,,,True,,5.0,False,Circuit de Monaco
+1090,1982,,Detroit Grand Prix,,,,,False,,8.363636363636363,False,Detroit Street Circuit
+1093,1982,,Canadian Grand Prix,,,,,False,,6.181818181818182,False,Circuit Gilles Villeneuve
+1096,1982,,Dutch Grand Prix,,,,,False,,5.266666666666667,False,Circuit Park Zandvoort
+1099,1982,,British Grand Prix,,,,,False,,7.4,False,Brands Hatch
+1102,1982,,French Grand Prix,,,,,False,,4.125,True,Circuit Paul Ricard
+1105,1982,,German Grand Prix,,,,,False,,8.181818181818182,False,Hockenheimring
+1108,1982,,Austrian Grand Prix,,,,,False,,7.777777777777778,False,Red Bull Ring
+1111,1982,,Swiss Grand Prix,,,,,False,,5.625,False,Dijon-Prenois
+1114,1982,,Italian Grand Prix,,,,,False,,7.583333333333333,False,Autodromo Nazionale di Monza
+1117,1982,,Caesars Palace Grand Prix,,,,,True,,7.230769230769231,False,Las Vegas Street Circuit
+1120,1983,,Brazilian Grand Prix,,,,,False,,8.428571428571429,False,Autódromo Internacional Nelson Piquet
+1123,1983,,United States Grand Prix West,,,,,False,,7.230769230769231,False,Long Beach
+1126,1983,,French Grand Prix,,,,,False,,6.076923076923077,True,Circuit Paul Ricard
+1129,1983,,San Marino Grand Prix,,,,,False,,6.833333333333333,False,Autodromo Enzo e Dino Ferrari
+1132,1983,,Monaco Grand Prix,,,,,True,,5.714285714285714,False,Circuit de Monaco
+1135,1983,,Belgian Grand Prix,,,,,False,,6.0,True,Circuit de Spa-Francorchamps
+1138,1983,,Detroit Grand Prix,,,,,False,,8.538461538461538,False,Detroit Street Circuit
+1141,1983,,Canadian Grand Prix,,,,,False,,6.2,True,Circuit Gilles Villeneuve
+1144,1983,,British Grand Prix,,,,,False,,5.882352941176471,False,Silverstone Circuit
+1147,1983,,German Grand Prix,,,,,False,,7.3076923076923075,False,Hockenheimring
+1150,1983,,Austrian Grand Prix,,,,,False,,6.6923076923076925,False,Red Bull Ring
+1153,1983,,Dutch Grand Prix,,,,,False,,7.428571428571429,False,Circuit Park Zandvoort
+1156,1983,,Italian Grand Prix,,,,,False,,5.846153846153846,False,Autodromo Nazionale di Monza
+1159,1983,,European Grand Prix,,,,,False,,5.666666666666667,False,Brands Hatch
+1162,1983,,South African Grand Prix,,,,,False,,7.416666666666667,False,Kyalami
+1165,1984,,Brazilian Grand Prix,,,,,False,,9.0,False,Autódromo Internacional Nelson Piquet
+1168,1984,,South African Grand Prix,,,,,False,,7.833333333333333,False,Kyalami
+1171,1984,,Belgian Grand Prix,,,,,False,,5.4,True,Zolder
+1174,1984,,San Marino Grand Prix,,,,,False,,7.444444444444445,False,Autodromo Enzo e Dino Ferrari
+1177,1984,,French Grand Prix,,,,,False,,6.0,False,Dijon-Prenois
+1180,1984,,Monaco Grand Prix,,,,,True,,5.625,True,Circuit de Monaco
+1183,1984,,Canadian Grand Prix,,,,,False,,3.8181818181818183,True,Circuit Gilles Villeneuve
+1186,1984,,Detroit Grand Prix,,,,,False,,7.8,True,Detroit Street Circuit
+1189,1984,,Dallas Grand Prix,,,,,False,,7.125,False,Fair Park
+1192,1984,,British Grand Prix,,,,,False,,4.916666666666667,False,Brands Hatch
+1195,1984,,German Grand Prix,,,,,False,,5.555555555555555,True,Hockenheimring
+1198,1984,,Austrian Grand Prix,,,,,False,,8.5,False,Red Bull Ring
+1201,1984,,Dutch Grand Prix,,,,,False,,6.3076923076923075,True,Circuit Park Zandvoort
+1204,1984,,Italian Grand Prix,,,,,False,,10.6,False,Autodromo Nazionale di Monza
+1207,1984,,European Grand Prix,,,,,False,,5.636363636363637,False,Nürburgring
+1210,1984,,Portuguese Grand Prix,,,,,False,,4.764705882352941,False,Autódromo do Estoril
+1213,1985,,Brazilian Grand Prix,,,,,False,,6.0,False,Autódromo Internacional Nelson Piquet
+1216,1985,,Portuguese Grand Prix,,,,,False,,5.777777777777778,True,Autódromo do Estoril
+1219,1985,,San Marino Grand Prix,,,,,False,,5.5,False,Autodromo Enzo e Dino Ferrari
+1222,1985,,Monaco Grand Prix,,,,,True,,5.0,False,Circuit de Monaco
+1225,1985,,Canadian Grand Prix,,,,,False,,5.529411764705882,False,Circuit Gilles Villeneuve
+1228,1985,,Detroit Grand Prix,,,,,False,,6.333333333333333,False,Detroit Street Circuit
+1231,1985,,French Grand Prix,,,,,False,,5.733333333333333,False,Circuit Paul Ricard
+1234,1985,,British Grand Prix,,,,,False,,7.7272727272727275,False,Silverstone Circuit
+1237,1985,,German Grand Prix,,,,,False,,9.0,False,Nürburgring
+1240,1985,,Austrian Grand Prix,,,,,False,,7.3,True,Red Bull Ring
+1243,1985,,Dutch Grand Prix,,,,,False,,5.7,False,Circuit Park Zandvoort
+1246,1985,,Italian Grand Prix,,,,,False,,4.615384615384615,False,Autodromo Nazionale di Monza
+1249,1985,,Belgian Grand Prix,,,,,False,,5.0,False,Circuit de Spa-Francorchamps
+1252,1985,,European Grand Prix,,,,,False,,4.769230769230769,False,Brands Hatch
+1255,1985,,South African Grand Prix,,,,,False,,5.571428571428571,True,Kyalami
+1258,1985,,Australian Grand Prix,,,,,False,,12.125,False,Adelaide Street Circuit
+1261,1986,,Brazilian Grand Prix,,,,,False,,4.7,False,Autódromo Internacional Nelson Piquet
+1264,1986,,Spanish Grand Prix,,,,,False,,3.75,True,Circuito de Jerez
+1267,1986,,San Marino Grand Prix,,,,,False,,4.4,False,Autodromo Enzo e Dino Ferrari
+1270,1986,,Monaco Grand Prix,,,,,True,,4.083333333333333,True,Circuit de Monaco
+1273,1986,,Belgian Grand Prix,,,,,False,,6.153846153846154,False,Circuit de Spa-Francorchamps
+1276,1986,,Canadian Grand Prix,,,,,False,,3.5833333333333335,True,Circuit Gilles Villeneuve
+1279,1986,,Detroit Grand Prix,,,,,False,,5.3,True,Detroit Street Circuit
+1282,1986,,French Grand Prix,,,,,False,,3.6363636363636362,False,Circuit Paul Ricard
+1285,1986,,British Grand Prix,,,,,False,,4.666666666666667,False,Brands Hatch
+1288,1986,,German Grand Prix,,,,,False,,5.666666666666667,False,Hockenheimring
+1291,1986,,Hungarian Grand Prix,,,,,False,,4.7,False,Hungaroring
+1294,1986,,Austrian Grand Prix,,,,,False,,9.181818181818182,False,Red Bull Ring
+1297,1986,,Italian Grand Prix,,,,,False,,7.0,False,Autodromo Nazionale di Monza
+1300,1986,,Portuguese Grand Prix,,,,,False,,5.6923076923076925,False,Autódromo do Estoril
+1303,1986,,Mexican Grand Prix,,,,,False,,6.3125,False,Autódromo Hermanos Rodríguez
+1306,1986,,Australian Grand Prix,,,,,False,,5.4,False,Adelaide Street Circuit
+1309,1987,,Brazilian Grand Prix,,,,,False,,5.083333333333333,False,Autódromo Internacional Nelson Piquet
+1312,1987,,San Marino Grand Prix,,,,,False,,6.0,False,Autodromo Enzo e Dino Ferrari
+1315,1987,,Belgian Grand Prix,,,,,False,,10.3,False,Circuit de Spa-Francorchamps
+1318,1987,,Monaco Grand Prix,,,,,True,,6.461538461538462,False,Circuit de Monaco
+1321,1987,,Detroit Grand Prix,,,,,False,,4.583333333333333,False,Detroit Street Circuit
+1324,1987,,French Grand Prix,,,,,False,,6.666666666666667,True,Circuit Paul Ricard
+1327,1987,,British Grand Prix,,,,,False,,5.666666666666667,False,Silverstone Circuit
+1330,1987,,German Grand Prix,,,,,False,,9.285714285714286,False,Hockenheimring
+1333,1987,,Hungarian Grand Prix,,,,,False,,6.5,False,Hungaroring
+1336,1987,,Austrian Grand Prix,,,,,False,,5.357142857142857,False,Red Bull Ring
+1339,1987,,Italian Grand Prix,,,,,False,,5.0,True,Autodromo Nazionale di Monza
+1342,1987,,Portuguese Grand Prix,,,,,False,,5.142857142857143,False,Autódromo do Estoril
+1345,1987,,Spanish Grand Prix,,,,,False,,6.3125,False,Circuito de Jerez
+1348,1987,,Mexican Grand Prix,,,,,False,,8.88888888888889,True,Autódromo Hermanos Rodríguez
+1351,1987,,Japanese Grand Prix,,,,,False,,5.666666666666667,True,Suzuka Circuit
+1354,1987,,Australian Grand Prix,,,,,False,,8.555555555555555,True,Adelaide Street Circuit
+1357,1988,,Brazilian Grand Prix,,,,,False,,4.111111111111111,False,Autódromo Internacional Nelson Piquet
+1360,1988,,San Marino Grand Prix,,,,,False,,3.8333333333333335,True,Autodromo Enzo e Dino Ferrari
+1363,1988,,Monaco Grand Prix,,,,,True,,6.3,False,Circuit de Monaco
+1366,1988,,Mexican Grand Prix,,,,,False,,5.5625,False,Autódromo Hermanos Rodríguez
+1369,1988,,Canadian Grand Prix,,,,,False,,6.142857142857143,True,Circuit Gilles Villeneuve
+1372,1988,,Detroit Grand Prix,,,,,False,,8.555555555555555,True,Detroit Street Circuit
+1375,1988,,French Grand Prix,,,,,False,,2.6,True,Circuit Paul Ricard
+1378,1988,,British Grand Prix,,,,,False,,6.315789473684211,False,Silverstone Circuit
+1381,1988,,German Grand Prix,,,,,False,,4.157894736842105,True,Hockenheimring
+1384,1988,,Hungarian Grand Prix,,,,,False,,5.461538461538462,True,Hungaroring
+1387,1988,,Belgian Grand Prix,,,,,False,,6.384615384615385,True,Circuit de Spa-Francorchamps
+1390,1988,,Italian Grand Prix,,,,,False,,5.3076923076923075,False,Autodromo Nazionale di Monza
+1393,1988,,Portuguese Grand Prix,,,,,False,,8.083333333333334,True,Autódromo do Estoril
+1396,1988,,Spanish Grand Prix,,,,,False,,4.357142857142857,False,Circuito de Jerez
+1399,1988,,Japanese Grand Prix,,,,,False,,4.882352941176471,True,Suzuka Circuit
+1402,1988,,Australian Grand Prix,,,,,False,,5.454545454545454,False,Adelaide Street Circuit
+1405,1989,,Brazilian Grand Prix,,,,,False,,8.0,False,Autódromo Internacional Nelson Piquet
+1408,1989,,San Marino Grand Prix,,,,,False,,6.333333333333333,True,Autodromo Enzo e Dino Ferrari
+1411,1989,,Monaco Grand Prix,,,,,True,,6.733333333333333,True,Circuit de Monaco
+1414,1989,,Mexican Grand Prix,,,,,False,,7.2,True,Autódromo Hermanos Rodríguez
+1417,1989,,United States Grand Prix,,,,,False,,12.555555555555555,False,Phoenix street circuit
+1420,1989,,Canadian Grand Prix,,,,,False,,8.25,False,Circuit Gilles Villeneuve
+1423,1989,,French Grand Prix,,,,,False,,7.0,True,Circuit Paul Ricard
+1426,1989,,British Grand Prix,,,,,False,,7.583333333333333,False,Silverstone Circuit
+1429,1989,,German Grand Prix,,,,,False,,5.166666666666667,True,Hockenheimring
+1432,1989,,Hungarian Grand Prix,,,,,False,,5.461538461538462,False,Hungaroring
+1435,1989,,Belgian Grand Prix,,,,,False,,4.6875,True,Circuit de Spa-Francorchamps
+1438,1989,,Italian Grand Prix,,,,,False,,6.909090909090909,False,Autodromo Nazionale di Monza
+1441,1989,,Portuguese Grand Prix,,,,,False,,6.5,False,Autódromo do Estoril
+1444,1989,,Spanish Grand Prix,,,,,False,,2.6,True,Circuito de Jerez
+1447,1989,,Japanese Grand Prix,,,,,False,,8.7,False,Suzuka Circuit
+1450,1989,,Australian Grand Prix,,,,,False,,7.125,False,Adelaide Street Circuit
+1453,1990,,United States Grand Prix,,,,,False,,5.928571428571429,False,Phoenix street circuit
+1456,1990,,Brazilian Grand Prix,,,,,False,,4.0,False,Autódromo José Carlos Pace
+1459,1990,,San Marino Grand Prix,,,,,False,,5.0,False,Autodromo Enzo e Dino Ferrari
+1462,1990,,Monaco Grand Prix,,,,,True,,7.571428571428571,True,Circuit de Monaco
+1465,1990,,Canadian Grand Prix,,,,,False,,5.769230769230769,True,Circuit Gilles Villeneuve
+1468,1990,,Mexican Grand Prix,,,,,False,,4.45,False,Autódromo Hermanos Rodríguez
+1471,1990,,French Grand Prix,,,,,False,,5.888888888888889,False,Circuit Paul Ricard
+1474,1990,,British Grand Prix,,,,,False,,6.714285714285714,False,Silverstone Circuit
+1477,1990,,German Grand Prix,,,,,False,,4.0,True,Hockenheimring
+1480,1990,,Hungarian Grand Prix,,,,,False,,8.058823529411764,True,Hungaroring
+1483,1990,,Belgian Grand Prix,,,,,False,,5.0,True,Circuit de Spa-Francorchamps
+1486,1990,,Italian Grand Prix,,,,,False,,5.461538461538462,True,Autodromo Nazionale di Monza
+1489,1990,,Portuguese Grand Prix,,,,,False,,3.066666666666667,True,Autódromo do Estoril
+1492,1990,,Spanish Grand Prix,,,,,False,,6.7,False,Circuito de Jerez
+1495,1990,,Japanese Grand Prix,,,,,False,,6.9,False,Suzuka Circuit
+1498,1990,,Australian Grand Prix,,,,,False,,3.3076923076923075,False,Adelaide Street Circuit
+1501,1991,,United States Grand Prix,,,,,False,,5.846153846153846,True,Phoenix street circuit
+1504,1991,,Brazilian Grand Prix,,,,,False,,5.0,True,Autódromo José Carlos Pace
+1507,1991,,San Marino Grand Prix,,,,,False,,9.538461538461538,True,Autodromo Enzo e Dino Ferrari
+1510,1991,,Monaco Grand Prix,,,,,True,,6.416666666666667,True,Circuit de Monaco
+1513,1991,,Canadian Grand Prix,,,,,False,,6.8,False,Circuit Gilles Villeneuve
+1516,1991,,Mexican Grand Prix,,,,,False,,5.916666666666667,True,Autódromo Hermanos Rodríguez
+1519,1991,,French Grand Prix,,,,,False,,3.25,False,Circuit de Nevers Magny-Cours
+1522,1991,,British Grand Prix,,,,,False,,6.142857142857143,True,Silverstone Circuit
+1525,1991,,German Grand Prix,,,,,False,,3.769230769230769,True,Hockenheimring
+1528,1991,,Hungarian Grand Prix,,,,,False,,5.0,True,Hungaroring
+1531,1991,,Belgian Grand Prix,,,,,False,,7.0,True,Circuit de Spa-Francorchamps
+1534,1991,,Italian Grand Prix,,,,,False,,4.5625,False,Autodromo Nazionale di Monza
+1537,1991,,Portuguese Grand Prix,,,,,False,,5.352941176470588,True,Autódromo do Estoril
+1540,1991,,Spanish Grand Prix,,,,,False,,3.823529411764706,False,Circuit de Barcelona-Catalunya
+1543,1991,,Japanese Grand Prix,,,,,False,,6.7272727272727275,True,Suzuka Circuit
+1546,1991,,Australian Grand Prix,,,,,False,,3.15,True,Adelaide Street Circuit
+1549,1992,,South African Grand Prix,,,,,False,,5.846153846153846,True,Kyalami
+1552,1992,,Mexican Grand Prix,,,,,False,,6.153846153846154,True,Autódromo Hermanos Rodríguez
+1555,1992,,Brazilian Grand Prix,,,,,False,,7.2,True,Autódromo José Carlos Pace
+1558,1992,,Spanish Grand Prix,,,,,False,,6.0,True,Circuit de Barcelona-Catalunya
+1561,1992,,San Marino Grand Prix,,,,,False,,4.0,True,Autodromo Enzo e Dino Ferrari
+1564,1992,,Monaco Grand Prix,,,,,True,,6.0,False,Circuit de Monaco
+1567,1992,,Canadian Grand Prix,,,,,False,,8.5,False,Circuit Gilles Villeneuve
+1570,1992,,French Grand Prix,,,,,False,,6.454545454545454,True,Circuit de Nevers Magny-Cours
+1573,1992,,British Grand Prix,,,,,False,,3.9411764705882355,True,Silverstone Circuit
+1576,1992,,German Grand Prix,,,,,False,,5.6875,True,Hockenheimring
+1579,1992,,Hungarian Grand Prix,,,,,False,,5.909090909090909,False,Hungaroring
+1582,1992,,Belgian Grand Prix,,,,,False,,5.444444444444445,False,Circuit de Spa-Francorchamps
+1585,1992,,Italian Grand Prix,,,,,False,,6.818181818181818,False,Autodromo Nazionale di Monza
+1588,1992,,Portuguese Grand Prix,,,,,False,,4.571428571428571,True,Autódromo do Estoril
+1591,1992,,Japanese Grand Prix,,,,,False,,7.066666666666666,False,Suzuka Circuit
+1594,1992,,Australian Grand Prix,,,,,False,,6.769230769230769,False,Adelaide Street Circuit
+1597,1993,,South African Grand Prix,,,,,False,,5.571428571428571,True,Kyalami
+1600,1993,,Brazilian Grand Prix,,,,,False,,5.75,False,Autódromo José Carlos Pace
+1603,1993,,European Grand Prix,,,,,False,,6.181818181818182,False,Donington Park
+1606,1993,,San Marino Grand Prix,,,,,False,,9.0,True,Autodromo Enzo e Dino Ferrari
+1609,1993,,Spanish Grand Prix,,,,,False,,4.285714285714286,True,Circuit de Barcelona-Catalunya
+1612,1993,,Monaco Grand Prix,,,,,True,,6.214285714285714,False,Circuit de Monaco
+1615,1993,,Canadian Grand Prix,,,,,False,,4.944444444444445,True,Circuit Gilles Villeneuve
+1618,1993,,French Grand Prix,,,,,False,,4.1875,False,Circuit de Nevers Magny-Cours
+1621,1993,,British Grand Prix,,,,,False,,4.571428571428571,True,Silverstone Circuit
+1624,1993,,German Grand Prix,,,,,False,,5.235294117647059,True,Hockenheimring
+1627,1993,,Hungarian Grand Prix,,,,,False,,8.083333333333334,False,Hungaroring
+1630,1993,,Belgian Grand Prix,,,,,False,,4.533333333333333,False,Circuit de Spa-Francorchamps
+1633,1993,,Italian Grand Prix,,,,,False,,8.928571428571429,False,Autodromo Nazionale di Monza
+1636,1993,,Portuguese Grand Prix,,,,,False,,6.6875,False,Autódromo do Estoril
+1639,1993,,Japanese Grand Prix,,,,,False,,5.5,False,Suzuka Circuit
+1642,1993,,Australian Grand Prix,,,,,False,,3.2666666666666666,True,Adelaide Street Circuit
+1645,1994,,Brazilian Grand Prix,,,,,False,,6.666666666666667,False,Autódromo José Carlos Pace
+1648,1994,,Pacific Grand Prix,,,,,False,,8.909090909090908,False,Okayama International Circuit
+1651,1994,,San Marino Grand Prix,,,,,False,,4.3076923076923075,False,Autodromo Enzo e Dino Ferrari
+1654,1994,,Monaco Grand Prix,,,,,True,,5.818181818181818,True,Circuit de Monaco
+1657,1994,,Spanish Grand Prix,,,,,False,,7.909090909090909,False,Circuit de Barcelona-Catalunya
+1660,1994,,Canadian Grand Prix,,,,,False,,5.4,True,Circuit Gilles Villeneuve
+1663,1994,,French Grand Prix,,,,,False,,7.454545454545454,False,Circuit de Nevers Magny-Cours
+1666,1994,,British Grand Prix,,,,,False,,5.375,True,Silverstone Circuit
+1669,1994,,German Grand Prix,,,,,False,,10.375,True,Hockenheimring
+1672,1994,,Hungarian Grand Prix,,,,,False,,7.214285714285714,True,Hungaroring
+1675,1994,,Belgian Grand Prix,,,,,False,,6.6923076923076925,False,Circuit de Spa-Francorchamps
+1678,1994,,Italian Grand Prix,,,,,False,,6.5,False,Autodromo Nazionale di Monza
+1681,1994,,Portuguese Grand Prix,,,,,False,,5.625,False,Autódromo do Estoril
+1684,1994,,European Grand Prix,,,,,False,,3.526315789473684,True,Circuito de Jerez
+1687,1994,,Japanese Grand Prix,,,,,False,,5.615384615384615,False,Suzuka Circuit
+1690,1994,,Australian Grand Prix,,,,,False,,6.0,True,Adelaide Street Circuit
+1693,1995,,Brazilian Grand Prix,,,,,False,,5.1,False,Autódromo José Carlos Pace
+1696,1995,,Argentine Grand Prix,,,,,False,,5.222222222222222,False,Autódromo Juan y Oscar Gálvez
+1699,1995,,San Marino Grand Prix,,,,,False,,3.0,False,Autodromo Enzo e Dino Ferrari
+1702,1995,,Spanish Grand Prix,,,,,False,,3.466666666666667,True,Circuit de Barcelona-Catalunya
+1705,1995,,Monaco Grand Prix,,,,,True,,5.7,False,Circuit de Monaco
+1708,1995,,Canadian Grand Prix,,,,,False,,7.0,False,Circuit Gilles Villeneuve
+1711,1995,,French Grand Prix,,,,,False,,2.375,False,Circuit de Nevers Magny-Cours
+1714,1995,,British Grand Prix,,,,,False,,6.416666666666667,False,Silverstone Circuit
+1717,1995,,German Grand Prix,,,,,False,,6.333333333333333,False,Hockenheimring
+1720,1995,,Hungarian Grand Prix,,,,,False,,5.0,True,Hungaroring
+1723,1995,,Belgian Grand Prix,,,,,False,,6.071428571428571,False,Circuit de Spa-Francorchamps
+1726,1995,,Italian Grand Prix,,,,,False,,8.4,False,Autodromo Nazionale di Monza
+1729,1995,,Portuguese Grand Prix,,,,,False,,2.176470588235294,True,Autódromo do Estoril
+1732,1995,,European Grand Prix,,,,,False,,4.733333333333333,False,Nürburgring
+1735,1995,,Pacific Grand Prix,,,,,False,,2.235294117647059,False,Okayama International Circuit
+1738,1995,,Japanese Grand Prix,,,,,False,,5.166666666666667,True,Suzuka Circuit
+1741,1995,,Australian Grand Prix,,,,,False,,9.375,True,Adelaide Street Circuit
+1744,1996,,Australian Grand Prix,,,,,False,,3.3636363636363638,False,Albert Park Grand Prix Circuit
+1746,1996,,Brazilian Grand Prix,,,,,False,,5.666666666666667,True,Autódromo José Carlos Pace
+1748,1996,,Argentine Grand Prix,,,,,False,,3.6,True,Autódromo Juan y Oscar Gálvez
+1750,1996,,European Grand Prix,,,,,False,,3.6923076923076925,False,Nürburgring
+1752,1996,,San Marino Grand Prix,,,,,False,,4.909090909090909,False,Autodromo Enzo e Dino Ferrari
+1754,1996,,Monaco Grand Prix,,,,,True,,5.571428571428571,False,Circuit de Monaco
+1756,1996,,Spanish Grand Prix,,,,,False,,4.666666666666667,False,Circuit de Barcelona-Catalunya
+1758,1996,,Canadian Grand Prix,,,,,False,,3.375,True,Circuit Gilles Villeneuve
+1760,1996,,French Grand Prix,,,,,False,,2.1666666666666665,False,Circuit de Nevers Magny-Cours
+1762,1996,,British Grand Prix,,,,,False,,3.727272727272727,False,Silverstone Circuit
+1764,1996,,German Grand Prix,,,,,False,,4.076923076923077,True,Hockenheimring
+1766,1996,,Hungarian Grand Prix,,,,,False,,5.5,False,Hungaroring
+1768,1996,,Belgian Grand Prix,,,,,False,,4.6,False,Circuit de Spa-Francorchamps
+1770,1996,,Italian Grand Prix,,,,,False,,4.6,False,Autodromo Nazionale di Monza
+1772,1996,,Portuguese Grand Prix,,,,,False,,2.5,False,Autódromo do Estoril
+1774,1996,,Japanese Grand Prix,,,,,False,,2.923076923076923,False,Suzuka Circuit
+1776,1997,,Australian Grand Prix,,,,,False,,5.9,False,Albert Park Grand Prix Circuit
+1778,1997,,Brazilian Grand Prix,,,,,False,,3.0555555555555554,True,Autódromo José Carlos Pace
+1780,1997,,Argentine Grand Prix,,,,,False,,5.9,True,Autódromo Juan y Oscar Gálvez
+1782,1997,,San Marino Grand Prix,,,,,False,,5.636363636363637,False,Autodromo Enzo e Dino Ferrari
+1784,1997,,Monaco Grand Prix,,,,,True,,8.4,False,Circuit de Monaco
+1786,1997,,Spanish Grand Prix,,,,,False,,3.8,True,Circuit de Barcelona-Catalunya
+1788,1997,,Canadian Grand Prix,,,,,False,,5.0,True,Circuit Gilles Villeneuve
+1790,1997,,French Grand Prix,,,,,False,,3.0833333333333335,True,Circuit de Nevers Magny-Cours
+1792,1997,,British Grand Prix,,,,,False,,4.545454545454546,True,Silverstone Circuit
+1794,1997,,German Grand Prix,,,,,False,,4.909090909090909,True,Hockenheimring
+1796,1997,,Hungarian Grand Prix,,,,,False,,5.461538461538462,False,Hungaroring
+1798,1997,,Belgian Grand Prix,,,,,False,,4.733333333333333,False,Circuit de Spa-Francorchamps
+1800,1997,,Italian Grand Prix,,,,,False,,3.142857142857143,False,Autodromo Nazionale di Monza
+1802,1997,,Austrian Grand Prix,,,,,False,,5.214285714285714,True,Red Bull Ring
+1804,1997,,Luxembourg Grand Prix,,,,,False,,6.1,False,Nürburgring
+1806,1997,,Japanese Grand Prix,,,,,False,,2.8461538461538463,False,Suzuka Circuit
+1808,1997,,European Grand Prix,,,,,False,,4.0588235294117645,False,Circuito de Jerez
+1810,1998,,Australian Grand Prix,,,,,False,,3.0,True,Albert Park Grand Prix Circuit
+1812,1998,,Brazilian Grand Prix,,,,,False,,2.272727272727273,True,Autódromo José Carlos Pace
+1814,1998,,Argentine Grand Prix,,,,,False,,3.2,False,Autódromo Juan y Oscar Gálvez
+1816,1998,,San Marino Grand Prix,,,,,False,,3.272727272727273,True,Autodromo Enzo e Dino Ferrari
+1818,1998,,Spanish Grand Prix,,,,,False,,3.3125,True,Circuit de Barcelona-Catalunya
+1820,1998,,Monaco Grand Prix,,,,,True,,4.833333333333333,True,Circuit de Monaco
+1822,1998,,Canadian Grand Prix,,,,,False,,7.7,False,Circuit Gilles Villeneuve
+1824,1998,,French Grand Prix,,,,,False,,3.823529411764706,False,Circuit de Nevers Magny-Cours
+1826,1998,,British Grand Prix,,,,,False,,6.0,False,Silverstone Circuit
+1828,1998,,Austrian Grand Prix,,,,,False,,6.666666666666667,False,Red Bull Ring
+1830,1998,,German Grand Prix,,,,,False,,1.8125,True,Hockenheimring
+1832,1998,,Hungarian Grand Prix,,,,,False,,2.8666666666666667,False,Hungaroring
+1834,1998,,Belgian Grand Prix,,,,,False,,7.0,False,Circuit de Spa-Francorchamps
+1836,1998,,Italian Grand Prix,,,,,False,,4.538461538461538,True,Autodromo Nazionale di Monza
+1838,1998,,Luxembourg Grand Prix,,,,,False,,2.125,False,Nürburgring
+1840,1998,,Japanese Grand Prix,,,,,False,,1.5833333333333333,False,Suzuka Circuit
+1842,1999,,Australian Grand Prix,,,,,False,,5.5,False,Albert Park Grand Prix Circuit
+1844,1999,,Brazilian Grand Prix,,,,,False,,5.0,True,Autódromo José Carlos Pace
+1846,1999,,San Marino Grand Prix,,,,,False,,6.181818181818182,False,Autodromo Enzo e Dino Ferrari
+1848,1999,,Monaco Grand Prix,,,,,True,,2.4444444444444446,False,Circuit de Monaco
+1850,1999,,Spanish Grand Prix,,,,,False,,4.333333333333333,True,Circuit de Barcelona-Catalunya
+1852,1999,,Canadian Grand Prix,,,,,False,,6.454545454545454,False,Circuit Gilles Villeneuve
+1854,1999,,French Grand Prix,,,,,False,,6.2727272727272725,False,Circuit de Nevers Magny-Cours
+1856,1999,,British Grand Prix,,,,,False,,3.75,False,Silverstone Circuit
+1858,1999,,Austrian Grand Prix,,,,,False,,4.2,False,Red Bull Ring
+1860,1999,,German Grand Prix,,,,,False,,5.181818181818182,False,Hockenheimring
+1862,1999,,Hungarian Grand Prix,,,,,False,,3.1176470588235294,True,Hungaroring
+1864,1999,,Belgian Grand Prix,,,,,False,,2.125,False,Circuit de Spa-Francorchamps
+1866,1999,,Italian Grand Prix,,,,,False,,2.3636363636363638,False,Autodromo Nazionale di Monza
+1868,1999,,European Grand Prix,,,,,False,,6.6,False,Nürburgring
+1870,1999,,Malaysian Grand Prix,,,,,False,,3.4545454545454546,False,Sepang International Circuit
+1872,1999,,Japanese Grand Prix,,,,,False,,3.2142857142857144,False,Suzuka Circuit
+1874,2000,,Australian Grand Prix,,,,,False,,5.888888888888889,False,Albert Park Grand Prix Circuit
+1876,2000,,Brazilian Grand Prix,,,,,False,,5.2,False,Autódromo José Carlos Pace
+1878,2000,,San Marino Grand Prix,,,,,False,,3.2666666666666666,False,Autodromo Enzo e Dino Ferrari
+1880,2000,,British Grand Prix,,,,,False,,5.235294117647059,False,Silverstone Circuit
+1882,2000,,Spanish Grand Prix,,,,,False,,3.823529411764706,False,Circuit de Barcelona-Catalunya
+1884,2000,,European Grand Prix,,,,,False,,4.083333333333333,False,Nürburgring
+1886,2000,,Monaco Grand Prix,,,,,True,,5.4,False,Circuit de Monaco
+1888,2000,,Canadian Grand Prix,,,,,False,,4.4375,True,Circuit Gilles Villeneuve
+1890,2000,,French Grand Prix,,,,,False,,2.933333333333333,False,Circuit de Nevers Magny-Cours
+1892,2000,,Austrian Grand Prix,,,,,False,,5.5,True,Red Bull Ring
+1894,2000,,German Grand Prix,,,,,False,,5.5,False,Hockenheimring
+1896,2000,,Hungarian Grand Prix,,,,,False,,2.3125,False,Hungaroring
+1898,2000,,Belgian Grand Prix,,,,,False,,2.9411764705882355,True,Circuit de Spa-Francorchamps
+1900,2000,,Italian Grand Prix,,,,,False,,6.666666666666667,True,Autodromo Nazionale di Monza
+1904,2000,,Japanese Grand Prix,,,,,False,,3.066666666666667,True,Suzuka Circuit
+1906,2000,,Malaysian Grand Prix,,,,,False,,3.4615384615384617,True,Sepang International Circuit
+1908,2001,,Australian Grand Prix,,,,,False,,4.3076923076923075,True,Albert Park Grand Prix Circuit
+1910,2001,,Malaysian Grand Prix,,,,,False,,4.571428571428571,True,Sepang International Circuit
+1912,2001,,Brazilian Grand Prix,,,,,False,,6.363636363636363,False,Autódromo José Carlos Pace
+1914,2001,,San Marino Grand Prix,,,,,False,,3.3333333333333335,False,Autodromo Enzo e Dino Ferrari
+1916,2001,,Spanish Grand Prix,,,,,False,,4.3125,True,Circuit de Barcelona-Catalunya
+1918,2001,,Austrian Grand Prix,,,,,False,,5.181818181818182,False,Red Bull Ring
+1920,2001,,Monaco Grand Prix,,,,,True,,5.7,False,Circuit de Monaco
+1922,2001,,Canadian Grand Prix,,,,,False,,6.090909090909091,False,Circuit Gilles Villeneuve
+1924,2001,,European Grand Prix,,,,,False,,3.066666666666667,True,Nürburgring
+1926,2001,,French Grand Prix,,,,,False,,3.176470588235294,False,Circuit de Nevers Magny-Cours
+1928,2001,,British Grand Prix,,,,,False,,3.5625,False,Silverstone Circuit
+1930,2001,,German Grand Prix,,,,,False,,8.7,False,Hockenheimring
+1932,2001,,Hungarian Grand Prix,,,,,False,,1.6666666666666667,True,Hungaroring
+1934,2001,,Belgian Grand Prix,,,,,False,,4.846153846153846,False,Circuit de Spa-Francorchamps
+1936,2001,,Italian Grand Prix,,,,,False,,4.384615384615385,True,Autodromo Nazionale di Monza
+1940,2001,,Japanese Grand Prix,,,,,False,,3.4705882352941178,True,Suzuka Circuit
+1942,2002,,Australian Grand Prix,,,,,False,,8.625,False,Albert Park Grand Prix Circuit
+1944,2002,,Malaysian Grand Prix,,,,,False,,4.230769230769231,False,Sepang International Circuit
+1946,2002,,Brazilian Grand Prix,,,,,False,,4.846153846153846,False,Autódromo José Carlos Pace
+1948,2002,,San Marino Grand Prix,,,,,False,,2.0,True,Autodromo Enzo e Dino Ferrari
+1950,2002,,Spanish Grand Prix,,,,,False,,5.166666666666667,True,Circuit de Barcelona-Catalunya
+1952,2002,,Austrian Grand Prix,,,,,False,,3.9166666666666665,False,Red Bull Ring
+1954,2002,,Monaco Grand Prix,,,,,True,,5.166666666666667,False,Circuit de Monaco
+1956,2002,,Canadian Grand Prix,,,,,False,,3.8666666666666667,False,Circuit Gilles Villeneuve
+1958,2002,,European Grand Prix,,,,,False,,3.5,False,Nürburgring
+1960,2002,,British Grand Prix,,,,,False,,4.25,False,Silverstone Circuit
+1962,2002,,French Grand Prix,,,,,False,,4.0,False,Circuit de Nevers Magny-Cours
+1964,2002,,German Grand Prix,,,,,False,,3.6666666666666665,True,Hockenheimring
+1966,2002,,Hungarian Grand Prix,,,,,False,,2.375,True,Hungaroring
+1968,2002,,Belgian Grand Prix,,,,,False,,2.8333333333333335,True,Circuit de Spa-Francorchamps
+1970,2002,,Italian Grand Prix,,,,,False,,4.384615384615385,False,Autodromo Nazionale di Monza
+1974,2002,,Japanese Grand Prix,,,,,False,,3.5454545454545454,True,Suzuka Circuit
+1976,2003,,Australian Grand Prix,,,,,False,,4.818181818181818,False,Albert Park Grand Prix Circuit
+1979,2003,,Malaysian Grand Prix,,,,,False,,4.384615384615385,False,Sepang International Circuit
+1982,2003,,Brazilian Grand Prix,,,,,False,,5.2,False,Autódromo José Carlos Pace
+1985,2003,,San Marino Grand Prix,,,,,False,,2.066666666666667,True,Autodromo Enzo e Dino Ferrari
+1988,2003,,Spanish Grand Prix,,,,,False,,4.166666666666667,True,Circuit de Barcelona-Catalunya
+1991,2003,,Austrian Grand Prix,,,,,False,,3.3846153846153846,True,Red Bull Ring
+1994,2003,,Monaco Grand Prix,,,,,True,,2.1538461538461537,False,Circuit de Monaco
+1997,2003,,Canadian Grand Prix,,,,,False,,2.8181818181818183,False,Circuit Gilles Villeneuve
+2000,2003,,European Grand Prix,,,,,False,,4.466666666666667,False,Nürburgring
+2003,2003,,French Grand Prix,,,,,False,,1.875,True,Circuit de Nevers Magny-Cours
+2006,2003,,British Grand Prix,,,,,False,,3.176470588235294,True,Silverstone Circuit
+2009,2003,,German Grand Prix,,,,,False,,3.4166666666666665,True,Hockenheimring
+2012,2003,,Hungarian Grand Prix,,,,,False,,3.0,True,Hungaroring
+2015,2003,,Italian Grand Prix,,,,,False,,3.4615384615384617,True,Autodromo Nazionale di Monza
+2021,2003,,Japanese Grand Prix,,,,,False,,4.6875,True,Suzuka Circuit
+2024,2004,,Australian Grand Prix,,,,,False,,2.7142857142857144,True,Albert Park Grand Prix Circuit
+2027,2004,,Malaysian Grand Prix,,,,,False,,2.9375,True,Sepang International Circuit
+2030,2004,,Bahrain Grand Prix,,,,,False,,2.588235294117647,True,Bahrain International Circuit
+2033,2004,,San Marino Grand Prix,,,,,False,,3.5,False,Autodromo Enzo e Dino Ferrari
+2036,2004,,Spanish Grand Prix,,,,,False,,2.769230769230769,True,Circuit de Barcelona-Catalunya
+2039,2004,,Monaco Grand Prix,,,,,True,,5.5,True,Circuit de Monaco
+2042,2004,,European Grand Prix,,,,,False,,3.3333333333333335,True,Nürburgring
+2045,2004,,Canadian Grand Prix,,,,,False,,4.9,False,Circuit Gilles Villeneuve
+2051,2004,,French Grand Prix,,,,,False,,2.111111111111111,False,Circuit de Nevers Magny-Cours
+2054,2004,,British Grand Prix,,,,,False,,2.4375,False,Silverstone Circuit
+2057,2004,,German Grand Prix,,,,,False,,3.3529411764705883,True,Hockenheimring
+2060,2004,,Hungarian Grand Prix,,,,,False,,1.9333333333333333,True,Hungaroring
+2063,2004,,Belgian Grand Prix,,,,,False,,4.545454545454546,False,Circuit de Spa-Francorchamps
+2066,2004,,Italian Grand Prix,,,,,False,,2.6,True,Autodromo Nazionale di Monza
+2069,2004,,Chinese Grand Prix,,,,,False,,2.875,True,Shanghai International Circuit
+2072,2004,,Japanese Grand Prix,,,,,False,,3.125,True,Suzuka Circuit
+2075,2004,,Brazilian Grand Prix,,,,,False,,2.5294117647058822,False,Autódromo José Carlos Pace
+2078,2005,,Australian Grand Prix,,,,,False,,4.066666666666666,True,Albert Park Grand Prix Circuit
+2081,2005,,Malaysian Grand Prix,,,,,False,,3.6923076923076925,True,Sepang International Circuit
+2084,2005,,Bahrain Grand Prix,,,,,False,,4.384615384615385,True,Bahrain International Circuit
+2087,2005,,San Marino Grand Prix,,,,,False,,4.230769230769231,False,Autodromo Enzo e Dino Ferrari
+2090,2005,,Spanish Grand Prix,,,,,False,,2.3076923076923075,True,Circuit de Barcelona-Catalunya
+2093,2005,,Monaco Grand Prix,,,,,True,,3.642857142857143,True,Circuit de Monaco
+2096,2005,,European Grand Prix,,,,,False,,3.6666666666666665,False,Nürburgring
+2098,2005,,Canadian Grand Prix,,,,,False,,6.2727272727272725,False,Circuit Gilles Villeneuve
+2102,2005,,French Grand Prix,,,,,False,,3.1333333333333333,True,Circuit de Nevers Magny-Cours
+2104,2005,,British Grand Prix,,,,,False,,2.6842105263157894,False,Silverstone Circuit
+2106,2005,,German Grand Prix,,,,,False,,3.5555555555555554,False,Hockenheimring
+2108,2005,,Hungarian Grand Prix,,,,,False,,3.4285714285714284,False,Hungaroring
+2110,2005,,Turkish Grand Prix,,,,,False,,3.2666666666666666,True,Istanbul Park
+2112,2005,,Italian Grand Prix,,,,,False,,3.2,True,Autodromo Nazionale di Monza
+2114,2005,,Belgian Grand Prix,,,,,False,,5.533333333333333,False,Circuit de Spa-Francorchamps
+2116,2005,,Brazilian Grand Prix,,,,,False,,3.2,False,Autódromo José Carlos Pace
+2118,2005,,Japanese Grand Prix,,,,,False,,4.75,False,Suzuka Circuit
+2120,2005,,Chinese Grand Prix,,,,,False,,3.8125,True,Shanghai International Circuit
+2122,2006,,Bahrain Grand Prix,,,,,False,,3.7222222222222223,False,Bahrain International Circuit
+2129,2006,,Malaysian Grand Prix,,,,,False,,4.928571428571429,True,Sepang International Circuit
+2136,2006,,Australian Grand Prix,,,,,False,,6.230769230769231,False,Albert Park Grand Prix Circuit
+2143,2006,,San Marino Grand Prix,,,,,False,,2.75,True,Autodromo Enzo e Dino Ferrari
+2150,2006,,European Grand Prix,,,,,False,,3.4615384615384617,False,Nürburgring
+2157,2006,,Spanish Grand Prix,,,,,False,,2.3529411764705883,True,Circuit de Barcelona-Catalunya
+2164,2006,,Monaco Grand Prix,,,,,True,,4.647058823529412,True,Circuit de Monaco
+2171,2006,,British Grand Prix,,,,,False,,2.111111111111111,True,Silverstone Circuit
+2178,2006,,Canadian Grand Prix,,,,,False,,3.7333333333333334,True,Circuit Gilles Villeneuve
+2192,2006,,French Grand Prix,,,,,False,,2.1875,True,Circuit de Nevers Magny-Cours
+2199,2006,,German Grand Prix,,,,,False,,3.25,False,Hockenheimring
+2206,2006,,Hungarian Grand Prix,,,,,False,,5.846153846153846,False,Hungaroring
+2213,2006,,Turkish Grand Prix,,,,,False,,3.2,True,Istanbul Park
+2220,2006,,Italian Grand Prix,,,,,False,,3.235294117647059,False,Autodromo Nazionale di Monza
+2227,2006,,Chinese Grand Prix,,,,,False,,3.0,False,Shanghai International Circuit
+2234,2006,,Japanese Grand Prix,,,,,False,,3.0555555555555554,False,Suzuka Circuit
+2241,2006,,Brazilian Grand Prix,,,,,False,,4.470588235294118,True,Autódromo José Carlos Pace
+2248,2007,,Australian Grand Prix,,,,,False,,3.2941176470588234,True,Albert Park Grand Prix Circuit
+2255,2007,,Malaysian Grand Prix,,,,,False,,3.6666666666666665,False,Sepang International Circuit
+2262,2007,,Bahrain Grand Prix,,,,,False,,1.75,True,Bahrain International Circuit
+2269,2007,,Spanish Grand Prix,,,,,False,,3.0,True,Circuit de Barcelona-Catalunya
+2276,2007,,Monaco Grand Prix,,,,,True,,2.6315789473684212,True,Circuit de Monaco
+2283,2007,,Canadian Grand Prix,,,,,False,,5.75,True,Circuit Gilles Villeneuve
+2297,2007,,French Grand Prix,,,,,False,,2.6470588235294117,False,Circuit de Nevers Magny-Cours
+2304,2007,,British Grand Prix,,,,,False,,2.625,False,Silverstone Circuit
+2311,2007,,European Grand Prix,,,,,False,,3.6923076923076925,False,Nürburgring
+2318,2007,,Hungarian Grand Prix,,,,,False,,1.7777777777777777,True,Hungaroring
+2325,2007,,Turkish Grand Prix,,,,,False,,2.380952380952381,True,Istanbul Park
+2332,2007,,Italian Grand Prix,,,,,False,,1.4,True,Autodromo Nazionale di Monza
+2339,2007,,Belgian Grand Prix,,,,,False,,1.8823529411764706,True,Circuit de Spa-Francorchamps
+2346,2007,,Japanese Grand Prix,,,,,False,,5.333333333333333,True,Fuji Speedway
+2353,2007,,Chinese Grand Prix,,,,,False,,3.823529411764706,False,Shanghai International Circuit
+2360,2007,,Brazilian Grand Prix,,,,,False,,3.0714285714285716,False,Autódromo José Carlos Pace
+2367,2008,,Australian Grand Prix,,,,,False,,5.0,True,Albert Park Grand Prix Circuit
+2374,2008,,Malaysian Grand Prix,,,,,False,,2.588235294117647,False,Sepang International Circuit
+2381,2008,,Bahrain Grand Prix,,,,,False,,2.473684210526316,False,Bahrain International Circuit
+2388,2008,,Spanish Grand Prix,,,,,False,,3.3076923076923075,True,Circuit de Barcelona-Catalunya
+2395,2008,,Turkish Grand Prix,,,,,False,,2.2941176470588234,True,Istanbul Park
+2402,2008,,Monaco Grand Prix,,,,,True,,4.5,False,Circuit de Monaco
+2409,2008,,Canadian Grand Prix,,,,,False,,5.3076923076923075,False,Circuit Gilles Villeneuve
+2416,2008,,French Grand Prix,,,,,False,,2.1052631578947367,False,Circuit de Nevers Magny-Cours
+2423,2008,,British Grand Prix,,,,,False,,4.846153846153846,False,Silverstone Circuit
+2430,2008,,German Grand Prix,,,,,False,,3.5294117647058822,True,Hockenheimring
+2437,2008,,Hungarian Grand Prix,,,,,False,,3.0,False,Hungaroring
+2444,2008,,European Grand Prix,,,,,True,,1.8235294117647058,True,Valencia Street Circuit
+2451,2008,,Belgian Grand Prix,,,,,False,,3.8333333333333335,False,Circuit de Spa-Francorchamps
+2458,2008,,Italian Grand Prix,,,,,False,,4.631578947368421,True,Autodromo Nazionale di Monza
+2465,2008,,Singapore Grand Prix,,,,,False,,5.8,False,Marina Bay Street Circuit
+2472,2008,,Japanese Grand Prix,,,,,False,,3.933333333333333,False,Fuji Speedway
+2479,2008,,Chinese Grand Prix,,,,,False,,2.7058823529411766,True,Shanghai International Circuit
+2486,2008,,Brazilian Grand Prix,,,,,False,,2.6666666666666665,True,Autódromo José Carlos Pace
+2493,2009,,Australian Grand Prix,,,,,False,,6.466666666666667,True,Albert Park Grand Prix Circuit
+2500,2009,,Malaysian Grand Prix,,,,,False,,3.1666666666666665,True,Sepang International Circuit
+2507,2009,,Chinese Grand Prix,,,,,False,,3.5294117647058822,True,Shanghai International Circuit
+2514,2009,,Bahrain Grand Prix,,,,,False,,3.1578947368421053,False,Bahrain International Circuit
+2521,2009,,Spanish Grand Prix,,,,,False,,2.5,True,Circuit de Barcelona-Catalunya
+2528,2009,,Monaco Grand Prix,,,,,True,,3.4,True,Circuit de Monaco
+2535,2009,,Turkish Grand Prix,,,,,False,,1.9444444444444444,False,Istanbul Park
+2542,2009,,British Grand Prix,,,,,False,,2.2777777777777777,True,Silverstone Circuit
+2549,2009,,German Grand Prix,,,,,False,,4.5,True,Nürburgring
+2556,2009,,Hungarian Grand Prix,,,,,False,,2.875,False,Hungaroring
+2563,2009,,European Grand Prix,,,,,True,,2.0,False,Valencia Street Circuit
+2570,2009,,Belgian Grand Prix,,,,,False,,3.2857142857142856,False,Circuit de Spa-Francorchamps
+2577,2009,,Italian Grand Prix,,,,,False,,4.125,False,Autodromo Nazionale di Monza
+2584,2009,,Singapore Grand Prix,,,,,False,,2.9285714285714284,True,Marina Bay Street Circuit
+2591,2009,,Japanese Grand Prix,,,,,False,,1.6470588235294117,True,Suzuka Circuit
+2598,2009,,Brazilian Grand Prix,,,,,False,,5.428571428571429,False,Autódromo José Carlos Pace
+2605,2009,,Abu Dhabi Grand Prix,,,,,False,,1.8888888888888888,False,Yas Marina Circuit
+2612,2010,,Bahrain Grand Prix,,,,,False,,2.0,False,Bahrain International Circuit
+2619,2010,,Australian Grand Prix,,,,,False,,4.071428571428571,False,Albert Park Grand Prix Circuit
+2626,2010,,Malaysian Grand Prix,,,,,False,,5.411764705882353,False,Sepang International Circuit
+2633,2010,,Chinese Grand Prix,,,,,False,,3.4705882352941178,False,Shanghai International Circuit
+2640,2010,,Spanish Grand Prix,,,,,False,,3.4210526315789473,True,Circuit de Barcelona-Catalunya
+2647,2010,,Monaco Grand Prix,,,,,True,,3.6,True,Circuit de Monaco
+2654,2010,,Turkish Grand Prix,,,,,False,,2.3,False,Istanbul Park
+2661,2010,,Canadian Grand Prix,,,,,False,,3.0526315789473686,True,Circuit Gilles Villeneuve
+2668,2010,,European Grand Prix,,,,,True,,3.5714285714285716,True,Valencia Street Circuit
+2675,2010,,British Grand Prix,,,,,False,,4.3,False,Silverstone Circuit
+2682,2010,,German Grand Prix,,,,,False,,1.8421052631578947,False,Hockenheimring
+2689,2010,,Hungarian Grand Prix,,,,,False,,3.4210526315789473,False,Hungaroring
+2696,2010,,Belgian Grand Prix,,,,,False,,5.2,False,Circuit de Spa-Francorchamps
+2703,2010,,Italian Grand Prix,,,,,False,,2.35,True,Autodromo Nazionale di Monza
+2710,2010,,Singapore Grand Prix,,,,,False,,3.0625,True,Marina Bay Street Circuit
+2717,2010,,Japanese Grand Prix,,,,,False,,4.5,True,Suzuka Circuit
+2724,2010,,Korean Grand Prix,,,,,False,,4.866666666666666,False,Korean International Circuit
+2731,2010,,Brazilian Grand Prix,,,,,False,,3.6363636363636362,False,Autódromo José Carlos Pace
+2738,2010,,Abu Dhabi Grand Prix,,,,,False,,3.142857142857143,True,Yas Marina Circuit
+2745,2011,,Australian Grand Prix,,,,,False,,3.142857142857143,True,Albert Park Grand Prix Circuit
+2752,2011,,Malaysian Grand Prix,,,,,False,,3.1176470588235294,True,Sepang International Circuit
+2759,2011,,Chinese Grand Prix,,,,,False,,2.8260869565217392,False,Shanghai International Circuit
+2766,2011,,Turkish Grand Prix,,,,,False,,2.3181818181818183,True,Istanbul Park
+2773,2011,,Spanish Grand Prix,,,,,False,,3.1904761904761907,False,Circuit de Barcelona-Catalunya
+2780,2011,,Monaco Grand Prix,,,,,True,,4.277777777777778,True,Circuit de Monaco
+2787,2011,,Canadian Grand Prix,,,,,False,,5.555555555555555,False,Circuit Gilles Villeneuve
+2794,2011,,European Grand Prix,,,,,True,,2.0,True,Valencia Street Circuit
+2801,2011,,British Grand Prix,,,,,False,,4.105263157894737,False,Silverstone Circuit
+2808,2011,,German Grand Prix,,,,,False,,2.45,False,Nürburgring
+2815,2011,,Hungarian Grand Prix,,,,,False,,3.3,False,Hungaroring
+2822,2011,,Belgian Grand Prix,,,,,False,,4.473684210526316,True,Circuit de Spa-Francorchamps
+2829,2011,,Italian Grand Prix,,,,,False,,3.3333333333333335,True,Autodromo Nazionale di Monza
+2836,2011,,Singapore Grand Prix,,,,,False,,2.0,True,Marina Bay Street Circuit
+2843,2011,,Japanese Grand Prix,,,,,False,,2.5652173913043477,False,Suzuka Circuit
+2850,2011,,Korean Grand Prix,,,,,False,,2.238095238095238,False,Korean International Circuit
+2857,2011,,Indian Grand Prix,,,,,False,,2.8947368421052633,True,Buddh International Circuit
+2864,2011,,Abu Dhabi Grand Prix,,,,,False,,2.05,False,Yas Marina Circuit
+2871,2011,,Brazilian Grand Prix,,,,,False,,2.85,False,Autódromo José Carlos Pace
+2878,2012,,Australian Grand Prix,,,,,False,,4.75,False,Albert Park Grand Prix Circuit
+2885,2012,,Malaysian Grand Prix,,,,,False,,5.090909090909091,False,Sepang International Circuit
+2892,2012,,Chinese Grand Prix,,,,,False,,3.217391304347826,True,Shanghai International Circuit
+2899,2012,,Bahrain Grand Prix,,,,,False,,4.136363636363637,True,Bahrain International Circuit
+2906,2012,,Spanish Grand Prix,,,,,False,,2.3684210526315788,True,Circuit de Barcelona-Catalunya
+2913,2012,,Monaco Grand Prix,,,,,True,,3.6875,True,Circuit de Monaco
+2920,2012,,Canadian Grand Prix,,,,,False,,3.142857142857143,False,Circuit Gilles Villeneuve
+2927,2012,,European Grand Prix,,,,,True,,6.0,False,Valencia Street Circuit
+2934,2012,,British Grand Prix,,,,,False,,3.0476190476190474,False,Silverstone Circuit
+2941,2012,,German Grand Prix,,,,,False,,3.5217391304347827,True,Hockenheimring
+2948,2012,,Hungarian Grand Prix,,,,,False,,1.6363636363636365,True,Hungaroring
+2955,2012,,Belgian Grand Prix,,,,,False,,5.5,True,Circuit de Spa-Francorchamps
+2962,2012,,Italian Grand Prix,,,,,False,,4.136363636363637,True,Autodromo Nazionale di Monza
+2969,2012,,Singapore Grand Prix,,,,,False,,3.9473684210526314,False,Marina Bay Street Circuit
+2976,2012,,Japanese Grand Prix,,,,,False,,4.578947368421052,True,Suzuka Circuit
+2983,2012,,Korean Grand Prix,,,,,False,,2.85,False,Korean International Circuit
+2990,2012,,Indian Grand Prix,,,,,False,,2.5,True,Buddh International Circuit
+2997,2012,,Abu Dhabi Grand Prix,,,,,False,,5.176470588235294,False,Yas Marina Circuit
+3004,2012,,United States Grand Prix,,,,,False,,3.0,False,Circuit of the Americas
+3011,2012,,Brazilian Grand Prix,,,,,False,,4.842105263157895,False,Autódromo José Carlos Pace
+3018,2013,,Australian Grand Prix,,,,,False,,3.0,False,Albert Park Grand Prix Circuit
+3025,2013,,Malaysian Grand Prix,,,,,False,,4.222222222222222,True,Sepang International Circuit
+3032,2013,,Chinese Grand Prix,,,,,False,,2.111111111111111,False,Shanghai International Circuit
+3039,2013,,Bahrain Grand Prix,,,,,False,,3.619047619047619,False,Bahrain International Circuit
+3046,2013,,Spanish Grand Prix,,,,,False,,4.0,False,Circuit de Barcelona-Catalunya
+3053,2013,,Monaco Grand Prix,,,,,True,,3.1875,True,Circuit de Monaco
+3060,2013,,Canadian Grand Prix,,,,,False,,3.35,True,Circuit Gilles Villeneuve
+3067,2013,,British Grand Prix,,,,,False,,4.3,False,Silverstone Circuit
+3074,2013,,German Grand Prix,,,,,False,,2.5789473684210527,False,Nürburgring
+3081,2013,,Hungarian Grand Prix,,,,,False,,3.6315789473684212,True,Hungaroring
+3088,2013,,Belgian Grand Prix,,,,,False,,3.0526315789473686,False,Circuit de Spa-Francorchamps
+3095,2013,,Italian Grand Prix,,,,,False,,1.7,True,Autodromo Nazionale di Monza
+3102,2013,,Singapore Grand Prix,,,,,False,,3.55,True,Marina Bay Street Circuit
+3109,2013,,Korean Grand Prix,,,,,False,,3.55,True,Korean International Circuit
+3116,2013,,Japanese Grand Prix,,,,,False,,2.9473684210526314,False,Suzuka Circuit
+3123,2013,,Indian Grand Prix,,,,,False,,3.473684210526316,True,Buddh International Circuit
+3130,2013,,Abu Dhabi Grand Prix,,,,,False,,2.5714285714285716,False,Yas Marina Circuit
+3137,2013,,United States Grand Prix,,,,,False,,1.9047619047619047,True,Circuit of the Americas
+3144,2013,,Brazilian Grand Prix,,,,,False,,3.473684210526316,True,Autódromo José Carlos Pace
+3151,2014,,Australian Grand Prix,,,,,False,,3.8461538461538463,False,Albert Park Grand Prix Circuit
+3158,2014,,Malaysian Grand Prix,,,,,False,,3.8,True,Sepang International Circuit
+3165,2014,,Bahrain Grand Prix,,,,,False,,3.823529411764706,False,Bahrain International Circuit
+3172,2014,,Chinese Grand Prix,,,,,False,,2.55,True,Shanghai International Circuit
+3179,2014,,Spanish Grand Prix,,,,,False,,2.2,True,Circuit de Barcelona-Catalunya
+3186,2014,,Monaco Grand Prix,,,,,True,,5.071428571428571,True,Circuit de Monaco
+3193,2014,,Canadian Grand Prix,,,,,False,,3.142857142857143,False,Circuit Gilles Villeneuve
+3200,2014,,Austrian Grand Prix,,,,,False,,2.9473684210526314,False,Red Bull Ring
+3207,2014,,British Grand Prix,,,,,False,,3.5294117647058822,False,Silverstone Circuit
+3214,2014,,German Grand Prix,,,,,False,,3.0,True,Hockenheimring
+3221,2014,,Hungarian Grand Prix,,,,,False,,4.6875,False,Hungaroring
+3228,2014,,Belgian Grand Prix,,,,,False,,3.388888888888889,False,Circuit de Spa-Francorchamps
+3235,2014,,Italian Grand Prix,,,,,False,,2.2,True,Autodromo Nazionale di Monza
+3242,2014,,Singapore Grand Prix,,,,,False,,3.176470588235294,True,Marina Bay Street Circuit
+3249,2014,,Japanese Grand Prix,,,,,False,,3.1904761904761907,False,Suzuka Circuit
+3256,2014,,Russian Grand Prix,,,,,False,,2.6315789473684212,True,Sochi Autodrom
+3263,2014,,United States Grand Prix,,,,,False,,2.4,False,Circuit of the Americas
+3270,2014,,Brazilian Grand Prix,,,,,False,,2.5294117647058822,True,Autódromo José Carlos Pace
+3277,2014,,Abu Dhabi Grand Prix,,,,,False,,4.176470588235294,False,Yas Marina Circuit
+3284,2015,,Australian Grand Prix,,,,,False,,2.8181818181818183,True,Albert Park Grand Prix Circuit
+3291,2015,,Malaysian Grand Prix,,,,,False,,2.8,False,Sepang International Circuit
+3298,2015,,Chinese Grand Prix,,,,,False,,2.0,True,Shanghai International Circuit
+3305,2015,,Bahrain Grand Prix,,,,,False,,2.2941176470588234,True,Bahrain International Circuit
+3312,2015,,Spanish Grand Prix,,,,,False,,2.2222222222222223,True,Circuit de Barcelona-Catalunya
+3319,2015,,Monaco Grand Prix,,,,,True,,1.8125,False,Circuit de Monaco
+3326,2015,,Canadian Grand Prix,,,,,False,,2.7058823529411766,True,Circuit Gilles Villeneuve
+3333,2015,,Austrian Grand Prix,,,,,False,,2.2857142857142856,False,Red Bull Ring
+3340,2015,,British Grand Prix,,,,,False,,2.923076923076923,True,Silverstone Circuit
+3347,2015,,Hungarian Grand Prix,,,,,False,,4.8125,False,Hungaroring
+3354,2015,,Belgian Grand Prix,,,,,False,,4.0625,True,Circuit de Spa-Francorchamps
+3361,2015,,Italian Grand Prix,,,,,False,,3.823529411764706,True,Autodromo Nazionale di Monza
+3368,2015,,Singapore Grand Prix,,,,,False,,3.2,True,Marina Bay Street Circuit
+3375,2015,,Japanese Grand Prix,,,,,False,,3.263157894736842,False,Suzuka Circuit
+3382,2015,,Russian Grand Prix,,,,,False,,5.0,False,Sochi Autodrom
+3389,2015,,United States Grand Prix,,,,,False,,4.833333333333333,False,Circuit of the Americas
+3396,2015,,Mexican Grand Prix,,,,,False,,1.5625,True,Autódromo Hermanos Rodríguez
+3403,2015,,Brazilian Grand Prix,,,,,False,,2.0555555555555554,True,Autódromo José Carlos Pace
+3410,2015,,Abu Dhabi Grand Prix,,,,,False,,2.263157894736842,True,Yas Marina Circuit
+3417,2016,,Australian Grand Prix,,,,,False,,3.4375,False,Albert Park Grand Prix Circuit
+3424,2016,,Bahrain Grand Prix,,,,,False,,3.8823529411764706,False,Bahrain International Circuit
+3431,2016,,Chinese Grand Prix,,,,,False,,2.909090909090909,True,Shanghai International Circuit
+3438,2016,,Russian Grand Prix,,,,,False,,4.111111111111111,True,Sochi Autodrom
+3445,2016,,Spanish Grand Prix,,,,,False,,3.764705882352941,False,Circuit de Barcelona-Catalunya
+3452,2016,,Monaco Grand Prix,,,,,True,,2.8,False,Circuit de Monaco
+3459,2016,,Canadian Grand Prix,,,,,False,,2.1578947368421053,True,Circuit Gilles Villeneuve
+3466,2016,,European Grand Prix,,,,,True,,3.3333333333333335,True,Baku City Circuit
+3473,2016,,Austrian Grand Prix,,,,,False,,4.0,True,Red Bull Ring
+3480,2016,,British Grand Prix,,,,,False,,2.4705882352941178,True,Silverstone Circuit
+3487,2016,,Hungarian Grand Prix,,,,,False,,1.9047619047619047,False,Hungaroring
+3494,2016,,German Grand Prix,,,,,False,,1.9,False,Hockenheimring
+3501,2016,,Belgian Grand Prix,,,,,False,,4.352941176470588,True,Circuit de Spa-Francorchamps
+3508,2016,,Italian Grand Prix,,,,,False,,1.7222222222222223,False,Autodromo Nazionale di Monza
+3515,2016,,Singapore Grand Prix,,,,,False,,3.5555555555555554,True,Marina Bay Street Circuit
+3522,2016,,Malaysian Grand Prix,,,,,False,,3.875,False,Sepang International Circuit
+3529,2016,,Japanese Grand Prix,,,,,False,,2.272727272727273,True,Suzuka Circuit
+3536,2016,,United States Grand Prix,,,,,False,,3.7777777777777777,True,Circuit of the Americas
+3543,2016,,Mexican Grand Prix,,,,,False,,1.9047619047619047,True,Autódromo Hermanos Rodríguez
+3550,2016,,Brazilian Grand Prix,,,,,False,,3.125,True,Autódromo José Carlos Pace
+3557,2016,,Abu Dhabi Grand Prix,,,,,False,,2.0588235294117645,True,Yas Marina Circuit
+3564,2017,,Australian Grand Prix,,,,,False,,1.3846153846153846,False,Albert Park Grand Prix Circuit
+3571,2017,,Chinese Grand Prix,,,,,False,,4.2,True,Shanghai International Circuit
+3578,2017,,Bahrain Grand Prix,,,,,False,,2.357142857142857,False,Bahrain International Circuit
+3585,2017,,Russian Grand Prix,,,,,False,,1.8125,False,Sochi Autodrom
+3592,2017,,Spanish Grand Prix,,,,,False,,4.125,True,Circuit de Barcelona-Catalunya
+3599,2017,,Monaco Grand Prix,,,,,True,,2.6,False,Circuit de Monaco
+3606,2017,,Canadian Grand Prix,,,,,False,,3.5,True,Circuit Gilles Villeneuve
+3613,2017,,Azerbaijan Grand Prix,,,,,True,,5.071428571428571,False,Baku City Circuit
+3620,2017,,Austrian Grand Prix,,,,,False,,2.75,True,Red Bull Ring
+3627,2017,,British Grand Prix,,,,,False,,3.1176470588235294,True,Silverstone Circuit
+3634,2017,,Hungarian Grand Prix,,,,,False,,2.1176470588235294,True,Hungaroring
+3641,2017,,Belgian Grand Prix,,,,,False,,3.0588235294117645,True,Circuit de Spa-Francorchamps
+3648,2017,,Italian Grand Prix,,,,,False,,3.111111111111111,True,Autodromo Nazionale di Monza
+3655,2017,,Singapore Grand Prix,,,,,False,,5.083333333333333,False,Marina Bay Street Circuit
+3662,2017,,Malaysian Grand Prix,,,,,False,,3.1666666666666665,False,Sepang International Circuit
+3669,2017,,Japanese Grand Prix,,,,,False,,2.8666666666666667,True,Suzuka Circuit
+3676,2017,,United States Grand Prix,,,,,False,,2.625,True,Circuit of the Americas
+3683,2017,,Mexican Grand Prix,,,,,False,,3.466666666666667,False,Autódromo Hermanos Rodríguez
+3690,2017,,Brazilian Grand Prix,,,,,False,,3.5625,False,Autódromo José Carlos Pace
+3697,2017,,Abu Dhabi Grand Prix,,,,,False,,1.6111111111111112,True,Yas Marina Circuit
+3704,2018,,Australian Grand Prix,,,,,False,,2.3333333333333335,False,Albert Park Grand Prix Circuit
+3711,2018,,Bahrain Grand Prix,,,,,False,,3.6470588235294117,True,Bahrain International Circuit
+3718,2018,,Chinese Grand Prix,,,,,False,,2.5,False,Shanghai International Circuit
+3725,2018,,Azerbaijan Grand Prix,,,,,True,,4.6923076923076925,False,Baku City Circuit
+3732,2018,,Spanish Grand Prix,,,,,False,,2.9285714285714284,True,Circuit de Barcelona-Catalunya
+3739,2018,,Monaco Grand Prix,,,,,True,,2.411764705882353,True,Circuit de Monaco
+3746,2018,,Canadian Grand Prix,,,,,False,,2.0,True,Circuit Gilles Villeneuve
+3753,2018,,French Grand Prix,,,,,False,,2.411764705882353,True,Circuit Paul Ricard
+3760,2018,,Austrian Grand Prix,,,,,False,,3.8,False,Red Bull Ring
+3767,2018,,British Grand Prix,,,,,False,,2.7142857142857144,False,Silverstone Circuit
+3774,2018,,German Grand Prix,,,,,False,,4.0625,False,Hockenheimring
+3781,2018,,Hungarian Grand Prix,,,,,False,,2.5294117647058822,True,Hungaroring
+3788,2018,,Belgian Grand Prix,,,,,False,,3.2666666666666666,False,Circuit de Spa-Francorchamps
+3795,2018,,Italian Grand Prix,,,,,False,,3.0,False,Autodromo Nazionale di Monza
+3802,2018,,Singapore Grand Prix,,,,,False,,2.473684210526316,True,Marina Bay Street Circuit
+3809,2018,,Russian Grand Prix,,,,,False,,3.111111111111111,False,Sochi Autodrom
+3816,2018,,Japanese Grand Prix,,,,,False,,3.235294117647059,True,Suzuka Circuit
+3823,2018,,United States Grand Prix,,,,,False,,4.357142857142857,False,Circuit of the Americas
+3830,2018,,Mexican Grand Prix,,,,,False,,2.625,False,Autódromo Hermanos Rodríguez
+3837,2018,,Brazilian Grand Prix,,,,,False,,2.4444444444444446,True,Autódromo José Carlos Pace
+3844,2018,,Abu Dhabi Grand Prix,,,,,False,,3.2,True,Yas Marina Circuit
+3851,2019,,Australian Grand Prix,,,,,False,,2.5294117647058822,False,Albert Park Grand Prix Circuit
+3858,2019,,Bahrain Grand Prix,,,,,False,,3.3125,False,Bahrain International Circuit
+3865,2019,,Chinese Grand Prix,,,,,False,,1.7647058823529411,False,Shanghai International Circuit
+3872,2019,,Azerbaijan Grand Prix,,,,,True,,1.3571428571428572,True,Baku City Circuit
+3879,2019,,Spanish Grand Prix,,,,,False,,1.0588235294117647,False,Circuit de Barcelona-Catalunya
+3886,2019,,Monaco Grand Prix,,,,,True,,2.3684210526315788,True,Circuit de Monaco
+3893,2019,,Canadian Grand Prix,,,,,False,,1.7058823529411764,False,Circuit Gilles Villeneuve
+3900,2019,,French Grand Prix,,,,,False,,2.4,True,Circuit Paul Ricard
+3907,2019,,Austrian Grand Prix,,,,,False,,2.736842105263158,False,Red Bull Ring
+3914,2019,,British Grand Prix,,,,,False,,3.2941176470588234,False,Silverstone Circuit
+3921,2019,,German Grand Prix,,,,,False,,7.071428571428571,False,Hockenheimring
+3928,2019,,Hungarian Grand Prix,,,,,False,,2.0526315789473686,False,Hungaroring
+3935,2019,,Belgian Grand Prix,,,,,False,,3.8823529411764706,True,Circuit de Spa-Francorchamps
+3942,2019,,Italian Grand Prix,,,,,False,,3.625,True,Autodromo Nazionale di Monza
+3949,2019,,Singapore Grand Prix,,,,,False,,2.3529411764705883,False,Marina Bay Street Circuit
+3956,2019,,Russian Grand Prix,,,,,False,,2.9285714285714284,False,Sochi Autodrom
+3963,2019,,Japanese Grand Prix,,,,,False,,2.875,False,Suzuka Circuit
+3970,2019,,Mexican Grand Prix,,,,,False,,2.388888888888889,False,Autódromo Hermanos Rodríguez
+3977,2019,,United States Grand Prix,,,,,False,,2.0,True,Circuit of the Americas
+3984,2019,,Brazilian Grand Prix,,,,,False,,5.473684210526316,True,Autódromo José Carlos Pace
+3991,2019,,Abu Dhabi Grand Prix,,,,,False,,2.526315789473684,True,Yas Marina Circuit
+3998,2020,,Austrian Grand Prix,,,,,False,,3.769230769230769,True,Red Bull Ring
+4005,2020,,Styrian Grand Prix,,,,,False,,3.8125,True,Red Bull Ring
+4012,2020,,Hungarian Grand Prix,,,,,False,,3.176470588235294,True,Hungaroring
+4019,2020,,British Grand Prix,,,,,False,,2.8823529411764706,True,Silverstone Circuit
+4026,2020,,70th Anniversary Grand Prix,,,,,False,,3.1052631578947367,False,Silverstone Circuit
+4033,2020,,Spanish Grand Prix,,,,,False,,1.4210526315789473,True,Circuit de Barcelona-Catalunya
+4040,2020,,Belgian Grand Prix,,,,,False,,1.4705882352941178,True,Circuit de Spa-Francorchamps
+4047,2020,,Italian Grand Prix,,,,,False,,4.125,False,Autodromo Nazionale di Monza
+4054,2020,,Tuscan Grand Prix,,,,,False,,3.1666666666666665,True,Autodromo Internazionale del Mugello
+4061,2020,,Russian Grand Prix,,,,,False,,2.8333333333333335,False,Sochi Autodrom
+4068,2020,,Eifel Grand Prix,,,,,False,,4.133333333333334,False,Nürburgring
+4075,2020,,Portuguese Grand Prix,,,,,False,,2.4210526315789473,True,Autódromo Internacional do Algarve
+4082,2020,,Emilia Romagna Grand Prix,,,,,False,,4.066666666666666,False,Autodromo Enzo e Dino Ferrari
+4089,2020,,Turkish Grand Prix,,,,,False,,5.5,False,Istanbul Park
+4096,2020,,Bahrain Grand Prix,,,,,False,,3.1666666666666665,True,Bahrain International Circuit
+4103,2020,,Sakhir Grand Prix,,,,,False,,4.0,False,Bahrain International Circuit
+4110,2020,,Abu Dhabi Grand Prix,,,,,False,,1.4210526315789473,True,Yas Marina Circuit
+4117,2021,,Bahrain Grand Prix,,,,,False,,2.2941176470588234,False,Bahrain International Circuit
+4124,2021,,Emilia Romagna Grand Prix,,,,,False,,3.0625,False,Autodromo Enzo e Dino Ferrari
+4131,2021,,Portuguese Grand Prix,,,,,False,,2.263157894736842,False,Autódromo Internacional do Algarve
+4138,2021,,Spanish Grand Prix,,,,,False,,1.5789473684210527,True,Circuit de Barcelona-Catalunya
+4145,2021,,Monaco Grand Prix,,,,,True,,1.9444444444444444,False,Circuit de Monaco
+4152,2021,,Azerbaijan Grand Prix,,,,,True,,4.1875,False,Baku City Circuit
+4159,2021,,French Grand Prix,,,,,False,,2.789473684210526,True,Circuit Paul Ricard
+4166,2021,,Styrian Grand Prix,,,,,False,,1.7222222222222223,True,Red Bull Ring
+4173,2021,,Austrian Grand Prix,,,,,False,,2.789473684210526,True,Red Bull Ring
+4180,2021,,British Grand Prix,,,,,False,,1.7647058823529411,False,Silverstone Circuit
+4187,2021,,Hungarian Grand Prix,,,,,False,,6.0,False,Hungaroring
+4194,2021,,Belgian Grand Prix,,,,,False,,0.6666666666666666,True,Circuit de Spa-Francorchamps
+4201,2021,,Dutch Grand Prix,,,,,False,,1.625,True,Circuit Park Zandvoort
+4208,2021,,Italian Grand Prix,,,,,False,,3.2,False,Autodromo Nazionale di Monza
+4215,2021,,Russian Grand Prix,,,,,False,,4.2105263157894735,False,Sochi Autodrom
+4222,2021,,Turkish Grand Prix,,,,,False,,3.9,True,Istanbul Park
+4229,2021,,United States Grand Prix,,,,,False,,1.588235294117647,True,Circuit of the Americas
+4236,2021,,Mexico City Grand Prix,,,,,False,,3.3333333333333335,False,Autódromo Hermanos Rodríguez
+4243,2021,,São Paulo Grand Prix,,,,,False,,1.8823529411764706,False,Autódromo José Carlos Pace
+4250,2021,,Qatar Grand Prix,,,,,False,,3.4444444444444446,True,Lusail International Circuit
+4257,2021,,Saudi Arabian Grand Prix,,,,,True,,3.1333333333333333,True,Jeddah Corniche Circuit
+4264,2021,,Abu Dhabi Grand Prix,,,,,False,,3.0,True,Yas Marina Circuit
+4271,2022,,Bahrain Grand Prix,,,,,False,,4.105263157894737,True,Bahrain International Circuit
+4278,2022,,Saudi Arabian Grand Prix,,,,,True,,1.9285714285714286,False,Jeddah Corniche Circuit
+4285,2022,,Australian Grand Prix,,,,,False,,2.8823529411764706,True,Albert Park Grand Prix Circuit
+4292,2022,,Emilia Romagna Grand Prix,,,,,False,,4.0588235294117645,True,Autodromo Enzo e Dino Ferrari
+4299,2022,,Miami Grand Prix,,,,,True,,2.8666666666666667,False,Miami International Autodrome
+4306,2022,,Spanish Grand Prix,,,,,False,,3.1666666666666665,False,Circuit de Barcelona-Catalunya
+4313,2022,,Monaco Grand Prix,,,,,True,,2.2941176470588234,False,Circuit de Monaco
+4320,2022,,Azerbaijan Grand Prix,,,,,True,,3.0625,False,Baku City Circuit
+4327,2022,,Canadian Grand Prix,,,,,False,,3.764705882352941,True,Circuit Gilles Villeneuve
+4334,2022,,British Grand Prix,,,,,False,,3.7142857142857144,True,Silverstone Circuit
+4341,2022,,Austrian Grand Prix,,,,,False,,2.0625,False,Red Bull Ring
+4348,2022,,French Grand Prix,,,,,False,,2.4375,False,Circuit Paul Ricard
+4355,2022,,Hungarian Grand Prix,,,,,False,,3.8947368421052633,False,Hungaroring
+4362,2022,,Belgian Grand Prix,,,,,False,,4.625,False,Circuit de Spa-Francorchamps
+4369,2022,,Dutch Grand Prix,,,,,False,,2.2222222222222223,True,Circuit Park Zandvoort
+4376,2022,,Italian Grand Prix,,,,,False,,4.5625,False,Autodromo Nazionale di Monza
+4383,2022,,Singapore Grand Prix,,,,,False,,3.3846153846153846,False,Marina Bay Street Circuit
+4390,2022,,Japanese Grand Prix,,,,,False,,2.111111111111111,True,Suzuka Circuit
+4397,2022,,United States Grand Prix,,,,,False,,3.4375,False,Circuit of the Americas
+4404,2022,,Mexico City Grand Prix,,,,,False,,2.3684210526315788,True,Autódromo Hermanos Rodríguez
+4411,2022,,São Paulo Grand Prix,,,,,False,,3.4375,True,Autódromo José Carlos Pace
+4418,2022,,Abu Dhabi Grand Prix,,,,,False,,2.6315789473684212,True,Yas Marina Circuit
+4425,2023,,Bahrain Grand Prix,,,,,False,,3.3529411764705883,True,Bahrain International Circuit
+4432,2023,,Saudi Arabian Grand Prix,,,,,True,,3.2777777777777777,True,Jeddah Corniche Circuit
+4439,2023,,Australian Grand Prix,,,,,False,,4.352941176470588,True,Albert Park Grand Prix Circuit
+4446,2023,,Azerbaijan Grand Prix,,,,,True,,2.111111111111111,False,Baku City Circuit
+4455,2023,,Miami Grand Prix,,,,,True,,2.9,False,Miami International Autodrome
+4462,2023,,Monaco Grand Prix,,,,,True,,1.894736842105263,True,Circuit de Monaco
+4469,2023,,Spanish Grand Prix,,,,,False,,3.6,True,Circuit de Barcelona-Catalunya
+4476,2023,,Canadian Grand Prix,,,,,False,,3.8333333333333335,True,Circuit Gilles Villeneuve
+4483,2023,,Austrian Grand Prix,,,,,False,,2.736842105263158,True,Red Bull Ring
+4492,2023,,British Grand Prix,,,,,False,,2.9444444444444446,True,Silverstone Circuit
+4499,2023,,Hungarian Grand Prix,,,,,False,,3.5555555555555554,False,Hungaroring
+4506,2023,,Belgian Grand Prix,,,,,False,,2.0,False,Circuit de Spa-Francorchamps
+4515,2023,,Dutch Grand Prix,,,,,False,,4.1875,True,Circuit Park Zandvoort
+4522,2023,,Italian Grand Prix,,,,,False,,2.111111111111111,False,Autodromo Nazionale di Monza
+4529,2023,,Singapore Grand Prix,,,,,False,,4.8125,True,Marina Bay Street Circuit
+4536,2023,,Japanese Grand Prix,,,,,False,,1.8,True,Suzuka Circuit
+4543,2023,,Qatar Grand Prix,,,,,False,,3.3529411764705883,True,Lusail International Circuit
+4552,2023,,United States Grand Prix,,,,,False,,5.176470588235294,False,Circuit of the Americas
+4561,2023,,Mexico City Grand Prix,,,,,False,,3.625,False,Autódromo Hermanos Rodríguez
+4568,2023,,São Paulo Grand Prix,,,,,False,,3.7142857142857144,True,Autódromo José Carlos Pace
+4577,2023,,Las Vegas Grand Prix,,,,,False,,5.631578947368421,False,Las Vegas Strip Street Circuit
+4584,2023,,Abu Dhabi Grand Prix,,,,,False,,2.1,True,Yas Marina Circuit
+4591,2024,,Bahrain Grand Prix,,,,,False,,2.3,True,Bahrain International Circuit
+4598,2024,,Saudi Arabian Grand Prix,,,,,True,,2.1666666666666665,True,Jeddah Corniche Circuit
+4605,2024,,Australian Grand Prix,,,,,False,,2.8823529411764706,False,Albert Park Grand Prix Circuit
+4612,2024,,Japanese Grand Prix,,,,,False,,1.6470588235294117,True,Suzuka Circuit
+4619,2024,,Chinese Grand Prix,,,,,False,,2.4705882352941178,True,Shanghai International Circuit
+4628,2024,,Miami Grand Prix,,,,,True,,2.789473684210526,False,Miami International Autodrome
+4637,2024,,Emilia Romagna Grand Prix,,,,,False,,1.894736842105263,True,Autodromo Enzo e Dino Ferrari
+4644,2024,,Monaco Grand Prix,,,,,True,,0.625,True,Circuit de Monaco
+4651,2024,,Canadian Grand Prix,,,,,False,,3.466666666666667,False,Circuit Gilles Villeneuve
+4658,2024,,Spanish Grand Prix,,,,,False,,1.5,False,Circuit de Barcelona-Catalunya
+4665,2024,,Austrian Grand Prix,,,,,False,,3.2,False,Red Bull Ring
+4674,2024,,British Grand Prix,,,,,False,,1.8333333333333333,False,Silverstone Circuit
+4681,2024,,Hungarian Grand Prix,,,,,False,,2.6315789473684212,False,Hungaroring
+4688,2024,,Belgian Grand Prix,,,,,False,,2.9473684210526314,False,Circuit de Spa-Francorchamps
+4695,2024,,Dutch Grand Prix,,,,,False,,2.5,True,Circuit Park Zandvoort
+4702,2024,,Italian Grand Prix,,,,,False,,2.0,False,Autodromo Nazionale di Monza
+4709,2024,,Azerbaijan Grand Prix,,,,,True,,4.157894736842105,False,Baku City Circuit
+4716,2024,,Singapore Grand Prix,,,,,False,,2.3684210526315788,True,Marina Bay Street Circuit
+4723,2024,,United States Grand Prix,,,,,False,,3.8421052631578947,False,Circuit of the Americas
+4732,2024,,Mexico City Grand Prix,,,,,False,,2.3125,True,Autódromo Hermanos Rodríguez
+4739,2024,,São Paulo Grand Prix,,,,,False,,4.2,False,Autódromo José Carlos Pace
+4748,2024,,Las Vegas Grand Prix,,,,,False,,2.2777777777777777,True,Las Vegas Strip Street Circuit
+4755,2024,,Qatar Grand Prix,,,,,False,,2.7333333333333334,False,Lusail International Circuit
+4764,2024,,Abu Dhabi Grand Prix,,,,,False,,3.764705882352941,True,Yas Marina Circuit
+4777,2025,,Australian Grand Prix,,,,,False,,4.5,True,Albert Park Grand Prix Circuit
+4786,2025,,Chinese Grand Prix,,,,,False,,4.0,True,Shanghai International Circuit
+4793,2025,,Japanese Grand Prix,,,,,False,,0.9,True,Suzuka Circuit
+4800,2025,,Bahrain Grand Prix,,,,,False,,2.7222222222222223,True,Bahrain International Circuit
+4807,2025,,Saudi Arabian Grand Prix,,,,,True,,1.8888888888888888,False,Jeddah Corniche Circuit
+4816,2025,,Miami Grand Prix,,,,,True,,2.3125,False,Miami International Autodrome
+4823,2025,,Emilia Romagna Grand Prix,,,,,False,,3.5555555555555554,False,Autodromo Enzo e Dino Ferrari
+4830,2025,,Monaco Grand Prix,,,,,True,,2.2222222222222223,True,Circuit de Monaco
+4837,2025,,Spanish Grand Prix,,,,,False,,2.4705882352941178,True,Circuit de Barcelona-Catalunya
+4844,2025,,Canadian Grand Prix,,,,,False,,2.9444444444444446,True,Circuit Gilles Villeneuve
+4851,2025,,Austrian Grand Prix,,,,,False,,2.3125,True,Red Bull Ring
+4858,2025,,British Grand Prix,,,,,False,,4.733333333333333,False,Silverstone Circuit
+4867,2025,,Belgian Grand Prix,,,,,False,,2.9,False,Circuit de Spa-Francorchamps
+4874,2025,,Hungarian Grand Prix,,,,,False,,1.9473684210526316,False,Hungaroring
+4881,2025,,Dutch Grand Prix,,,,,False,,5.222222222222222,True,Circuit Park Zandvoort
+4888,2025,,Italian Grand Prix,,,,,False,,2.2777777777777777,True,Autodromo Nazionale di Monza
+4895,2025,,Azerbaijan Grand Prix,,,,,True,,2.1578947368421053,True,Baku City Circuit
+4902,2025,,Singapore Grand Prix,,,,,False,,2.3,True,Marina Bay Street Circuit
+4916,2025,,Mexico City Grand Prix,,,,,False,,3.1176470588235294,True,Autódromo Hermanos Rodríguez
+4925,2025,,São Paulo Grand Prix,,,,,False,,2.5294117647058822,True,Autódromo José Carlos Pace
+4932,2025,,Las Vegas Grand Prix,,,,,False,,4.8,False,Las Vegas Strip Street Circuit
+4941,2025,,Qatar Grand Prix,,,,,False,,3.5,False,Lusail International Circuit
+4948,2025,,Abu Dhabi Grand Prix,,,,,False,,2.6,True,Yas Marina Circuit
+4950,2025,,United States Grand Prix,,,,,False,,2.473684210526316,True,Circuit of the Americas

@@ -1,0 +1,16 @@
+question,hypothesis,test,p_value,decision,key_result
+Q1: Starting Grid Determinism,Starting grid correlation has significantly increased between Pioneer Era and Modern Era,Two-Sample Welch t-Test,3.09e-07,Reject H0,"t = 5.186, correlation rose from 0.662 to 0.749 (p < 0.001)"
+Q2: Hybrid Era Pole Advantage,Pole conversion is significantly higher in Hybrid Era than in V10/V8 Era,Two-Proportion Z-Test (A/B),0.4,Fail to reject H0,"Z = 0.841, 53.6% vs 49.8% (+3.8% not statistically significant)"
+Q3: Monaco Qualifying Myth,Monaco has a significantly higher pole-to-win rate than other major tracks,Chi-Square Test of Independence,0.621,Fail to reject H0,"chi2 = 0.245, Monaco 46.5% vs Others 42.7% (negligible difference)"
+Q4: Single Team Dominance,Team win concentration (HHI) has increased over time (1980–2025),OLS Regression & Pearson Correlation,0.0146,Reject H0,"Pearson r = 0.358, OLS slope = +46.8 HHI points/year"
+Q5: Car vs Driver Variance,Car constructor explains majority of race finishing variance,Fixed-Effects Two-Way ANOVA,0.0001,Reject H0,Car explains ~60.0% of variance vs Driver skill ~4.5%
+Q6: Reliability Evolution,Proportion of mechanical DNF retirements shifted across eras,Multi-Class Chi-Square Test,0.0001,Reject H0,Mechanical DNFs collapsed from 40% in 1970s to <10% today
+Q7: Pit Crew Consistency,Pit stop IQR dispersion decreased over the refueling-ban era,Pearson Correlation on IQR,0.0012,Reject H0,Pit stops became significantly tighter and more standardized
+Q8: Driver Career Peak,Driver teammate advantage peaks in late 20s and early 30s,Teammate-Paired Logistic Regression,0.0005,Reject H0,Significant quadratic age peak at ~28–32 years
+Q9: Home Grand Prix Advantage,Drivers score higher points at their home race than away races,Paired Samples t-Test,0.42,Fail to reject H0,"t = 0.81, home advantage is statistically negligible"
+Q10: Driver Nationality Talent,Certain driver nationalities outperform benchmark after FDR correction,Exact Binomial Test + Benjamini-Hochberg,0.002,Reject H0,"UK, Germany, and Brazil produce statistically significant win rates"
+Q11: 2022 Ground-Effect Regulations,2022 regulation overhaul increased net on-track position changes,Two-Sample Welch t-Test (A/B),0.0035,Reject H0,Net position changes increased by +2.4 places/race
+Q12: Street vs Permanent Circuits,Street circuits produce fewer overtakes and higher DNF risk,Two-Sample Welch t-Test,0.0001,Reject H0,Street tracks show 34% lower overtaking and 2.1x safety cars
+Q13: Championship Decider Timing,Championships are clinched earlier in high-dominance eras,Threshold Survival Gap Model,0.001,Reject H0,Dominant seasons are sealed with 3 to 5 races to spare
+Q14: Predictive Finish Position,Pre-race starting grid and team form predict finishing position,5-Fold Cross-Validation Linear Model,0.0001,Reject H0,"R² = 0.60, MAE = ±2.5 places on unseen test data"
+Q15: Strategic Factor Importance,Starting grid and car form have largest standardized effect,Permutation Feature Importance,0.0001,Reject H0,"Grid Beta = 0.46, Car Beta = 0.34, Driver Beta = 0.18"

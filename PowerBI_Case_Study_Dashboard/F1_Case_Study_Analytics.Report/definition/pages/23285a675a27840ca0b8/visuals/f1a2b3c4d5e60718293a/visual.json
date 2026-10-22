@@ -1,0 +1,49 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "f1a2b3c4d5e60718293a",
+  "position": {
+    "x": 20,
+    "y": 15,
+    "z": 100,
+    "height": 65,
+    "width": 1240,
+    "tabOrder": 100
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "DRIVER LEGENDS: ALL-TIME VICTORY LEADERS",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontSize": "19pt",
+                      "color": "#162e51"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Career Grand Prix Wins, Career Podiums & Championship Greats (1950–2025)",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#555e68"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

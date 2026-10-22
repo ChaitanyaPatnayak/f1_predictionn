@@ -1,0 +1,77 @@
+circuit,country,latitude,longitude,street,races,first_race,last_race,on_2025_calendar
+AVUS,Germany,52.4806,13.2514,False,1,1959,1959,False
+Adelaide Street Circuit,Australia,-34.9272,138.617,False,11,1985,1995,False
+Ain Diab,Morocco,33.5786,-7.6875,False,1,1958,1958,False
+Aintree,UK,53.4769,-2.94056,False,5,1955,1962,False
+Albert Park Grand Prix Circuit,Australia,-37.8497,144.968,False,28,1996,2025,True
+Autodromo Enzo e Dino Ferrari,Italy,44.3439,11.7167,False,32,1980,2025,True
+Autodromo Internazionale del Mugello,Italy,43.9975,11.3719,False,1,2020,2020,False
+Autodromo Nazionale di Monza,Italy,45.6156,9.28111,False,75,1950,2025,True
+Autódromo Hermanos Rodríguez,Mexico,19.4042,-99.0907,False,25,1963,2025,True
+Autódromo Internacional Nelson Piquet,Brazil,-22.9756,-43.395,False,10,1978,1989,False
+Autódromo Internacional do Algarve,Portugal,37.227,-8.6267,False,2,2020,2021,False
+Autódromo José Carlos Pace,Brazil,-23.7036,-46.6997,False,42,1973,2025,True
+Autódromo Juan y Oscar Gálvez,Argentina,-34.6943,-58.4593,False,20,1953,1998,False
+Autódromo do Estoril,Portugal,38.7506,-9.39417,False,13,1984,1996,False
+Bahrain International Circuit,Bahrain,26.0325,50.5106,False,22,2004,2025,True
+Baku City Circuit,Azerbaijan,40.3725,49.8533,True,9,2016,2025,True
+Brands Hatch,UK,51.3569,0.263056,False,14,1964,1986,False
+Buddh International Circuit,India,28.3487,77.5331,False,3,2011,2013,False
+Charade Circuit,France,45.7472,3.03889,False,4,1965,1972,False
+Circuit Bremgarten,Switzerland,46.9589,7.40194,False,5,1950,1954,False
+Circuit Gilles Villeneuve,Canada,45.5,-73.5228,False,44,1978,2025,True
+Circuit Mont-Tremblant,Canada,46.1877,-74.6099,False,2,1968,1970,False
+Circuit Park Zandvoort,Netherlands,52.3888,4.54092,False,35,1952,2025,True
+Circuit Paul Ricard,France,43.2506,5.79167,False,18,1971,2022,False
+Circuit de Barcelona-Catalunya,Spain,41.57,2.26111,False,35,1991,2025,True
+Circuit de Monaco,Monaco,43.7347,7.42056,True,71,1950,2025,True
+Circuit de Nevers Magny-Cours,France,46.8642,3.16361,False,18,1991,2008,False
+Circuit de Pedralbes,Spain,41.3903,2.11667,False,2,1951,1954,False
+Circuit de Spa-Francorchamps,Belgium,50.4372,5.97139,False,58,1950,2025,True
+Circuit of the Americas,USA,30.1328,-97.6411,False,13,2012,2025,True
+Circuito da Boavista,Portugal,41.1705,-8.67325,False,2,1958,1960,False
+Circuito de Jerez,Spain,36.7083,-6.03417,False,7,1986,1997,False
+Detroit Street Circuit,USA,42.3298,-83.0401,False,7,1982,1988,False
+Dijon-Prenois,France,47.3625,4.89913,False,6,1974,1984,False
+Donington Park,UK,52.8306,-1.37528,False,1,1993,1993,False
+Fair Park,USA,32.7774,-96.7587,False,1,1984,1984,False
+Fuji Speedway,Japan,35.3717,138.927,False,4,1976,2008,False
+Hockenheimring,Germany,49.3278,8.56583,False,37,1970,2019,False
+Hungaroring,Hungary,47.5789,19.2486,False,40,1986,2025,True
+Istanbul Park,Turkey,40.9517,29.405,False,9,2005,2021,False
+Jarama,Spain,40.6171,-3.58558,False,9,1968,1981,False
+Jeddah Corniche Circuit,Saudi Arabia,21.6319,39.1044,True,5,2021,2025,True
+Korean International Circuit,Korea,34.7333,126.417,False,4,2010,2013,False
+Kyalami,South Africa,-25.9894,28.0767,False,20,1967,1993,False
+Las Vegas Street Circuit,USA,36.1162,-115.174,True,2,1981,1982,False
+Las Vegas Strip Street Circuit,USA,36.1147,-115.173,False,3,2023,2025,True
+Le Mans,France,47.95,0.224231,False,1,1967,1967,False
+Long Beach,USA,33.7651,-118.189,False,8,1976,1983,False
+Lusail International Circuit,Qatar,25.49,51.4542,False,4,2021,2025,True
+Marina Bay Street Circuit,Singapore,1.2914,103.864,False,16,2008,2025,True
+Miami International Autodrome,USA,25.9581,-80.2389,True,4,2022,2025,True
+Monsanto Park Circuit,Portugal,38.7197,-9.20306,False,1,1959,1959,False
+Montjuïc,Spain,41.3664,2.15167,False,4,1969,1975,False
+Mosport International Raceway,Canada,44.0481,-78.6756,False,8,1967,1977,False
+Nivelles-Baulers,Belgium,50.6211,4.32694,False,2,1972,1974,False
+Nürburgring,Germany,50.3356,6.9475,False,41,1951,2020,False
+Okayama International Circuit,Japan,34.915,134.221,False,2,1994,1995,False
+Pescara Circuit,Italy,42.475,14.1508,False,1,1957,1957,False
+Phoenix street circuit,USA,33.4479,-112.075,False,3,1989,1991,False
+Prince George Circuit,South Africa,-33.0486,27.8736,False,3,1962,1965,False
+Red Bull Ring,Austria,47.2197,14.7647,False,39,1970,2025,True
+Reims-Gueux,France,49.2542,3.93083,False,11,1950,1966,False
+Riverside International Raceway,USA,33.937,-117.273,False,1,1960,1960,False
+Rouen-Les-Essarts,France,49.3306,1.00458,False,5,1952,1968,False
+Scandinavian Raceway,Sweden,57.2653,13.6042,False,6,1973,1978,False
+Sebring International Raceway,USA,27.4547,-81.3483,False,1,1959,1959,False
+Sepang International Circuit,Malaysia,2.76083,101.738,False,19,1999,2017,False
+Shanghai International Circuit,China,31.3389,121.22,False,18,2004,2025,True
+Silverstone Circuit,UK,52.0786,-1.01694,False,60,1950,2025,True
+Sochi Autodrom,Russia,43.4057,39.9578,False,8,2014,2021,False
+Suzuka Circuit,Japan,34.8431,136.541,False,35,1987,2025,True
+Valencia Street Circuit,Spain,39.4589,-0.331667,True,5,2008,2012,False
+Watkins Glen,USA,42.3369,-76.9272,False,20,1961,1980,False
+Yas Marina Circuit,UAE,24.4672,54.6031,False,17,2009,2025,True
+Zeltweg,Austria,47.2039,14.7478,False,1,1964,1964,False
+Zolder,Belgium,50.9894,5.25694,False,10,1973,1984,False

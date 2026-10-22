@@ -1,0 +1,65 @@
+table HypothesisTests
+	lineageTag: 3a3d34c5-c6d9-464e-8d8f-7f2f6e3956e8
+
+	column question
+		dataType: string
+		lineageTag: 3f80b459-7349-49d2-a8e3-91c2d409dd5a
+		summarizeBy: none
+		sourceColumn: question
+
+		annotation SummarizationSetBy = Automatic
+
+	column hypothesis
+		dataType: string
+		lineageTag: d66764bc-84fe-483d-a6b5-6e6e425eff08
+		summarizeBy: none
+		sourceColumn: hypothesis
+
+		annotation SummarizationSetBy = Automatic
+
+	column test
+		dataType: string
+		lineageTag: a41c3f26-674d-4b78-af5f-963cf1498942
+		summarizeBy: none
+		sourceColumn: test
+
+		annotation SummarizationSetBy = Automatic
+
+	column p_value
+		dataType: double
+		lineageTag: 6583c327-0c15-47e4-bdb4-7d5dd714a37f
+		summarizeBy: sum
+		sourceColumn: p_value
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column decision
+		dataType: string
+		lineageTag: b532dd2b-49b8-48a0-872b-787eb895fde4
+		summarizeBy: none
+		sourceColumn: decision
+
+		annotation SummarizationSetBy = Automatic
+
+	column key_result
+		dataType: string
+		lineageTag: 09a109ab-8af3-4b53-80c6-e9653a3dc87b
+		summarizeBy: none
+		sourceColumn: key_result
+
+		annotation SummarizationSetBy = Automatic
+
+	partition HypothesisTests = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\HypothesisTests.csv"),[Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"question", type text}, {"hypothesis", type text}, {"test", type text}, {"p_value", type number}, {"decision", type text}, {"key_result", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

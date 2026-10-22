@@ -1,0 +1,113 @@
+table Drivers
+	lineageTag: e5dfb869-c6a0-4db4-a25b-884e53ac69f3
+
+	measure 'Total Drivers' = ```
+			DISTINCTCOUNT ( Drivers[driver] )
+			
+			```
+		formatString: 0
+		lineageTag: e1b2c3d4-e5f6-47a8-b901-234567890aca
+
+	measure 'Record Wins' = ```
+			MAX ( Drivers[wins] )
+			
+			```
+		formatString: 0
+		lineageTag: e2b2c3d4-e5f6-47a8-b901-234567890acb
+
+	measure 'Total Starts' = ```
+			SUM ( Drivers[starts] )
+			
+			```
+		formatString: 0
+		lineageTag: e3b2c3d4-e5f6-47a8-b901-234567890acc
+
+	measure 'Total Podiums' = ```
+			SUM ( Drivers[podiums] )
+			
+			```
+		formatString: 0
+		lineageTag: e4b2c3d4-e5f6-47a8-b901-234567890acd
+
+	column driver_id
+		dataType: int64
+		formatString: 0
+		lineageTag: d6592b14-ce5b-4c93-8508-cb4087d544fb
+		summarizeBy: none
+		sourceColumn: driver_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver
+		dataType: string
+		lineageTag: bcd257dd-f2ae-4780-966f-fbb5dd069cf8
+		summarizeBy: none
+		sourceColumn: driver
+
+		annotation SummarizationSetBy = Automatic
+
+	column nationality
+		dataType: string
+		lineageTag: 0b067f51-083e-49da-b696-19c78652e932
+		summarizeBy: none
+		sourceColumn: nationality
+
+		annotation SummarizationSetBy = Automatic
+
+	column starts
+		dataType: int64
+		formatString: 0
+		lineageTag: f7cf2067-7b4e-4d86-9ce7-465c589485ea
+		summarizeBy: none
+		sourceColumn: starts
+
+		annotation SummarizationSetBy = Automatic
+
+	column wins
+		dataType: int64
+		formatString: 0
+		lineageTag: db935ffd-a412-4dd5-8058-4739f50ce34d
+		summarizeBy: none
+		sourceColumn: wins
+
+		annotation SummarizationSetBy = Automatic
+
+	column podiums
+		dataType: int64
+		formatString: 0
+		lineageTag: b5b86a9b-2f63-455b-9551-76ee93a3c3e9
+		summarizeBy: none
+		sourceColumn: podiums
+
+		annotation SummarizationSetBy = Automatic
+
+	column first_season
+		dataType: int64
+		formatString: 0
+		lineageTag: b3bf41ba-9887-44a3-b808-21ddb1fda8e0
+		summarizeBy: none
+		sourceColumn: first_season
+
+		annotation SummarizationSetBy = Automatic
+
+	column last_season
+		dataType: int64
+		formatString: 0
+		lineageTag: a7e192e1-8654-41a8-8d77-234cb46dc9d3
+		summarizeBy: none
+		sourceColumn: last_season
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Drivers = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Drivers.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"driver_id", Int64.Type}, {"driver", type text}, {"nationality", type text}, {"starts", Int64.Type}, {"wins", Int64.Type}, {"podiums", Int64.Type}, {"first_season", Int64.Type}, {"last_season", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

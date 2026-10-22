@@ -1,0 +1,124 @@
+table Circuits
+	lineageTag: 78b9e7a3-8a4e-4e83-921a-6da9b7431edb
+
+	measure 'Total Circuits' = ```
+			DISTINCTCOUNT ( Circuits[circuit] )
+			
+			```
+		formatString: 0
+		lineageTag: a1b2c3d4-e5f6-47a8-b901-234567890abc
+
+	measure 'Host Nations' = ```
+			DISTINCTCOUNT ( Circuits[country] )
+			
+			```
+		formatString: 0
+		lineageTag: b1b2c3d4-e5f6-47a8-b901-234567890abd
+
+	measure '2025 Calendar Tracks' = ```
+			CALCULATE ( COUNTROWS ( Circuits ), Circuits[on_2025_calendar] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: c1b2c3d4-e5f6-47a8-b901-234567890abe
+
+	measure 'Street Circuits' = ```
+			CALCULATE ( COUNTROWS ( Circuits ), Circuits[street] = TRUE () )
+			
+			```
+		formatString: 0
+		lineageTag: d1b2c3d4-e5f6-47a8-b901-234567890abf
+
+	column circuit
+		dataType: string
+		lineageTag: 49e7b7ef-e7c6-4662-bf8c-79bcf245b7f8
+		summarizeBy: none
+		sourceColumn: circuit
+
+		annotation SummarizationSetBy = Automatic
+
+	column country
+		dataType: string
+		lineageTag: ca919f36-5718-4aed-a5dd-e0b5545adeb2
+		summarizeBy: none
+		sourceColumn: country
+
+		annotation SummarizationSetBy = Automatic
+
+	column latitude
+		dataType: double
+		lineageTag: 360fe4c8-fa23-4c9c-b4d4-73eebf8456c9
+		summarizeBy: none
+		sourceColumn: latitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column longitude
+		dataType: double
+		lineageTag: 9a993657-ae47-4ec8-92f6-c46144ce71fe
+		summarizeBy: none
+		sourceColumn: longitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column races
+		dataType: int64
+		formatString: 0
+		lineageTag: 0db8243b-81a0-460d-9d41-bc3ac4501e2e
+		summarizeBy: none
+		sourceColumn: races
+
+		annotation SummarizationSetBy = Automatic
+
+	column first_race
+		dataType: int64
+		formatString: 0
+		lineageTag: 4da85d90-c45d-4859-aa71-64fb77eb80da
+		summarizeBy: none
+		sourceColumn: first_race
+
+		annotation SummarizationSetBy = Automatic
+
+	column last_race
+		dataType: int64
+		formatString: 0
+		lineageTag: a5828984-9626-4452-9ec0-aa1b4fc7a9a6
+		summarizeBy: none
+		sourceColumn: last_race
+
+		annotation SummarizationSetBy = Automatic
+
+	column street
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 107b29cd-0e57-44fc-a824-22fa9458e441
+		summarizeBy: none
+		sourceColumn: street
+
+		annotation SummarizationSetBy = Automatic
+
+	column on_2025_calendar
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: f726e8d4-44ff-493e-a568-06eb18d8bc5e
+		summarizeBy: none
+		sourceColumn: on_2025_calendar
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Circuits = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("c:\Users\ADI\PE1\projecttttt\PowerBI_Case_Study_Dashboard\data\Circuits.csv"),[Delimiter=",", Columns=9, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"circuit", type text}, {"country", type text}, {"latitude", type number}, {"longitude", type number}, {"races", Int64.Type}, {"first_race", Int64.Type}, {"last_race", Int64.Type}, {"street", type logical}, {"on_2025_calendar", type logical}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

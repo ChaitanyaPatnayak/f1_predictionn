@@ -1,0 +1,16 @@
+question_id,title,image_file,test_type,verdict,key_stat
+Q1,Starting Grid vs Finishing Position,Q1_Qualifying_Grid_vs_Finish.png,Two-Sample Welch t-Test,Reject H0,"t = 5.186, p = 3.09e-07"
+Q2,Hybrid Era Pole Conversion A/B Test,Q2_Hybrid_Era_AB_Pole_Conversion.png,Two-Proportion Z-Test,Fail to reject H0,"Z = 0.841, p = 0.400"
+Q3,Circuit Pole-to-Win Conversion (95% CIs),Q3_Circuit_Pole_Conversion_CIs.png,Chi-Square Test,Fail to reject H0,"chi2 = 0.245, p = 0.621"
+Q4,Team Dominance & HHI Concentration Trend,Q4_Team_Dominance_HHI_Trend.png,OLS Regression,Reject H0,"Slope = +46.8/yr, p = 0.0146"
+Q5,Car vs Driver Variance Decomposition,Q5_Car_vs_Driver_Variance.png,Two-Way Fixed Effects,Reject H0,Car ~60% vs Driver ~4.5%
+Q6,Reliability Evolution & DNF Causes,Q6_Reliability_DNF_Causes.png,Multi-Class Chi-Square,Reject H0,Mechanical DNF 40% -> <10%
+Q7,Pit Stop Consistency & Strategy,Q7_PitStop_Consistency_Strategy.png,IQR Trend Correlation,Reject H0,Significant IQR reduction
+Q8,Driver Career Peak (Age vs Experience),Q8_Driver_Career_Peak_Age.png,Teammate Logit,Reject H0,Peak at 28-32 years
+Q9,Home Grand Prix Advantage,Q9_Home_Grand_Prix_Advantage.png,Paired t-Test,Fail to reject H0,"t = 0.81, p = 0.420"
+Q10,Driver Talent by Nationality Pipeline,Q10_Driver_Nationality_Talent.png,Exact Binomial + FDR,Reject H0,Significant nationality clusters
+Q11,2022 Ground-Effect Regulation A/B Test,Q11_2022_Ground_Effect_AB_Test.png,Two-Sample Welch t-Test,Reject H0,"+2.4 overtakes/race, p = 0.0035"
+Q12,Street vs Permanent Road Circuits,Q12_Street_vs_Permanent_Circuits.png,Two-Sample Welch t-Test,Reject H0,"34% lower overtakes, 2.1x safety cars"
+Q13,Championship Clinch Timing Curves,Q13_Title_Clinch_Timing.png,Survival Gap Threshold,Reject H0,Titles sealed 3-5 races early
+Q14,Predictive ML Model Benchmark,Q14_Predictive_Model_Evaluation.png,5-Fold Cross Validation,Reject H0,"R² = 0.60, MAE = ±2.5 places"
+Q15,Pre-Race Feature Importance & Strategy,Q15_Feature_Importance_Strategy.png,Permutation Importance,Reject H0,Grid Beta 0.46 > Car Beta 0.34
